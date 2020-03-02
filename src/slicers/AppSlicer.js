@@ -8,7 +8,7 @@ const AppSlicer = createSlice({
     },
     reducers : {
         search(state,action) { 
-            state.docs = docSearch( action.payload.name, action.payload.fromYear, action.payload.toYear, action.payload.includeParents, action.payload.includeWitness );
+            state.docs = docSearch( action.payload );
         }
     }
 })

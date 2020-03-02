@@ -16,22 +16,32 @@ const useStyles = makeStyles(theme => ({
 export default function SearchParam ({search}){
     const classes = useStyles();
     const [state,setState] = React.useState({
-        name : '',
-        includeParents : false,
-        includeWiteness : false,
-        fromYear : '',
-        toYear   : '',
-        nameError : '',
-        fromYearError : '',
-        toYearError : ''
+        params : {
+            name : '',
+            includeParents : false,
+            includeWiteness : false,
+            fromYear : '',
+            toYear   : ''
+        },
+        errors : {
+            nameError : '',
+            fromYearError : '',
+            toYearError : ''
+        }
     })
 
     const change = e => {
-        setState({...state, [e.target.id] : e.target.value })
+        setState({
+            params : { ...state.params, [e.target.id] : e.target.value},
+            errors : state.errors
+        })
     };
 
     const changeCheckBox= e => {
-        setState({...state, [e.target.id]: e.target.checked });
+        setState({
+            params : { ...state.params, [e.target.id]: e.target.checked},
+            errors : state.errors
+        })
       };
 
     const validate = () => {
@@ -42,29 +52,32 @@ export default function SearchParam ({search}){
             toYearError: ""
           };
 
-        if ( state.name === '' || state.name.trim() === ''){
+        if ( state.params.name === '' || state.params.name.trim() === ''){
             isError = true;
             errors.nameError = "Invalid name";
         }
 
-        if( state.fromYear !== '' && parseInt(state.fromYear).toString() !== state.fromYear ){
+        if( state.params.fromYear !== '' && parseInt(state.params.fromYear).toString() !== state.params.fromYear ){
             isError = true;
             errors.fromYearError = "Invalid year";   
         }
 
-        if( state.toYear !== '' && parseInt(state.toYear).toString() !== state.toYear ){
+        if( state.params.toYear !== '' && parseInt(state.params.toYear).toString() !== state.params.toYear ){
             isError = true;
             errors.toYearError = "Invalid year";   
         }
 
-        if( isError === false && state.fromYear !== '' && state.fromYear !== '' ){
-            if( parseInt(state.fromYear) > parseInt(state.toYear) ){
+        if( isError === false && state.params.fromYear !== '' && state.params.fromYear !== '' ){
+            if( parseInt(state.params.fromYear) > parseInt(state.params.toYear) ){
                 isError = true;
                 errors.fromYearError = "Invalid years range";
                 errors.toYearError = "Invalid years range";
             }
         }
-        setState({ ...state, ...errors });
+        setState({
+            params : state.params,
+            errors : errors
+        });
         return isError;
     };
 
@@ -72,7 +85,7 @@ export default function SearchParam ({search}){
             e.preventDefault();
             let isError = validate()
             if( !isError ){
-                search(state.name, state.fromYear, state.toYear, state.includeParents, state.includeWiteness);
+                search(state.params);
             }
         }
 
@@ -86,8 +99,8 @@ export default function SearchParam ({search}){
                         label="name"  
                         required={true}
                         onChange={e => change(e)} 
-                        error = {state.nameError!==''}
-                        helperText={state.nameError}
+                        error = {state.errors.nameError!==''}
+                        helperText={state.errors.nameError}
                         fullWidth={true}
                         />
                 </Grid>
@@ -100,8 +113,8 @@ export default function SearchParam ({search}){
                             maxLength: 4,
                         }}
                         onChange={e => change(e)}
-                        error = {state.fromYearError!==''}            
-                        helperText={state.fromYearError}
+                        error = {state.errors.fromYearError!==''}            
+                        helperText={state.errors.fromYearError}
                         fullWidth={true}
                     />
                 </Grid>
@@ -114,8 +127,8 @@ export default function SearchParam ({search}){
                             maxLength: 4,
                         }}
                         onChange={e =>change(e)}
-                        error = {state.toYearError!==''}
-                        helperText={state.toYearError}
+                        error = {state.errors.toYearError!==''}
+                        helperText={state.errors.toYearError}
                         fullWidth={true}
                     />
                 </Grid>
@@ -126,7 +139,7 @@ export default function SearchParam ({search}){
                     control={
                         <Checkbox
                             id="includeParents"
-                            checked={state.includeParents}
+                            checked={state.params.includeParents}
                             onChange={e => changeCheckBox(e)}
                             color="primary"
                         />
@@ -139,7 +152,7 @@ export default function SearchParam ({search}){
                     control={
                         <Checkbox
                             id="includeWiteness"
-                            checked={state.includeWiteness}
+                            checked={state.params.includeWiteness}
                             onChange={e => changeCheckBox(e)}
                             color="primary"
                         />
