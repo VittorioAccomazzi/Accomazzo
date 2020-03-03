@@ -6,54 +6,16 @@ import CardContent from "@material-ui/core/CardContent";
 import CardHeader from "@material-ui/core/CardHeader"
 import TextField from '@material-ui/core/TextField';
 import Typography from "@material-ui/core/Typography";
-import { makeStyles } from '@material-ui/core/styles';
 import { Grid } from "@material-ui/core";
 import IconButton from '@material-ui/core/IconButton';
 import clsx from 'clsx';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import Collapse from '@material-ui/core/Collapse';
+import DocStyle from './DocStyle'
 
-const useStyles = makeStyles(theme => ({
-    card: {
-      maxWidth: "90%",
-      margin: "auto",
-      transition: "0.3s",
-      boxShadow: "0 0 8px 0px rgba(0,0,0,0.3)",
-      "&:hover": {
-        boxShadow: "0 0 16px 0px rgba(0,0,0,0.5)"
-      }
-    },
-    media: {
-      paddingTop: "56.25%"
-    },
-    content: {
-      textAlign: "left",
-      padding: theme.spacing(1)
-    },
-    heading: {
-      fontWeight: "bold"
-    },
-    subheading: {
-      lineHeight: 1.8
-    },
-    expand: {
-      transform: 'rotate(0deg)',
-      marginLeft: 'auto',
-      transition: theme.transitions.create('transform', {
-        duration: theme.transitions.duration.shortest,
-      }),
-    },
-    expandOpen: {
-      transform: 'rotate(180deg)',
-    },
-    avatar: {
-      width: theme.spacing(3),
-      height: theme.spacing(4)
-    }
-  }));
 
 const Birth1700 =  (props) => {
-    const classes = useStyles();
+    const classes = DocStyle();
     const [expanded, setExpanded] = React.useState(false);
   
     const handleExpandClick = () => {
