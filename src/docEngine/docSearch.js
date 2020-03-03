@@ -5,6 +5,7 @@ export default function documentSearch ( params ){
 
     result.push({
         "Type" : docTypes.Birth_1700,
+        "key"  : docTypes.Birth_1700+"1",
         "Year" : 1768,
         "Url"  : "https://upload.wikimedia.org/wikipedia/en/f/fa/Birth_Certificate_Ana_de_Caboga.jpg",
         "Name" : "Jean "+params.name,
@@ -15,6 +16,7 @@ export default function documentSearch ( params ){
 
     result.push({
         "Type" : docTypes.Birth_1700,
+        "key"  : docTypes.Birth_1700+"2",
         "Year" : 1788,
         "Url"  : "http://www.emersonkent.com/images/madero_birth_certificate.jpg",
         "Name" : params.name +" Maria",
@@ -26,6 +28,7 @@ export default function documentSearch ( params ){
 
     result.push({
         "Type" : docTypes.Birth_1800,
+        "key"  : docTypes.Birth_1800+"1",
         "Year" : 1868,
         "Url"  : "http://www.genealogyintime.com/Images/South%20Africa%201919%20marriage%20certificate.JPG",
         "Name" : params.name +" Giuseppe Antonio Francesco",
@@ -37,6 +40,7 @@ export default function documentSearch ( params ){
 
     result.push({
         "Type" : docTypes.Death,
+        "key"  : docTypes.Death+"1",
         "Year" : 1842,
         "Url"  : "https://www.familytreemagazine.com/wp-content/uploads/2017/08/FTSeptember20055Cimages5Cp20-001.jpg",
         "Name" : params.name,
@@ -49,6 +53,7 @@ export default function documentSearch ( params ){
 
     result.push({
         "Type" : docTypes.Marriage,
+        "key"  : docTypes.Marriage+"1",       
         "Year" : 1822,
         "Url"  : "https://thumbs.worthpoint.com/zoom/images4/1/0317/21/1850-antique-marriage-certificate_1_118c019f0c2498643ba47e74622bb36f.jpg",
         "Groom" : params.name,
