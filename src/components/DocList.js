@@ -2,7 +2,8 @@ import React from "react";
 import { makeStyles } from '@material-ui/core/styles';
 import {docTypes} from '../docEngine/docTypes'
 import Birth1700 from './docs/Birth1700'
-
+import Birth1800 from './docs/Birth1800'
+import Death from './docs/Death'
 
 const useStyles = makeStyles(theme => ({
   }));
@@ -14,10 +15,10 @@ const DocList = ({docs}) => {
         let element;
         switch ( doc.Type ){
             case docTypes.Birth_1800 :
-                {
-    
-                }
-                break;
+                element = ( 
+                    <Birth1800 name={doc.Name} year={doc.Year} key={doc.key} father={doc.Father} mother={doc.Mother} godfather={doc.Godfather} godmother={doc.Godmother} url={doc.Url}/>
+                  );
+              break;
             case docTypes.Birth_1700 :
                     element = ( 
                       <Birth1700 name={doc.Name} year={doc.Year} key={doc.key} family={doc.Family} godfather={doc.Godfather} godmother={doc.Godmother} url={doc.Url}/>
@@ -25,7 +26,9 @@ const DocList = ({docs}) => {
                 break;
             case docTypes.Death :
                 {
-    
+                    element = ( 
+                        <Death name={doc.Name} year={doc.Year} key={doc.key} father={doc.Father} mother={doc.Mother} spouse={doc.Spouse} witness1={doc.Witness1} witness2={doc.Witness2} url={doc.Url}/>
+                      );
                 }
                 break;
             case docTypes.Marriage :

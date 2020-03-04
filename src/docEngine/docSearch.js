@@ -60,7 +60,7 @@ export default function documentSearch ( params ){
         "Bride"  : "Giovanna Luigia",
         "GroomFather" : "Luigi Accomazzo",
         "GroomMother" : "Giovanna Maranzana",
-        "BrideFather" : "Giu sppe Accomazzo",
+        "BrideFather" : "Giusppe Accomazzo",
         "BrideMother" : "Maria Delle Volpe",
         "Witness1" : "Paolo Accomazzo, fratello",
         "Witness2" : "Accomazzi Giacomo"

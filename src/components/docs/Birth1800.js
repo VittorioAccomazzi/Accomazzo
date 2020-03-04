@@ -4,17 +4,28 @@ import { Grid } from "@material-ui/core";
 import Doc from './Doc'
 
 
-const Birth1700 =  ({year, name, url, godfather, godmother, family}) => {
-
+const Birth1800 =  ({year, name, father, mother, godfather, godmother, url}) => {
 
     return (
         <Doc year={year} name={name} url={url} icon="/birth.png">
             <Grid container>
-                <Grid item sm={6} xs={12}>
+                <Grid item sm={3} xs={6}>
                 <TextField
                 id="outlined-read-only-input"
-                label="Child of"
-                defaultValue={family}
+                label="Father"
+                defaultValue={father}
+                InputProps={{
+                    readOnly: true,
+                }}
+                variant="outlined"
+                fullWidth
+                />
+                </Grid>
+                <Grid item sm={3} xs={6}>
+                <TextField
+                id="outlined-read-only-input"
+                label="Mother"
+                defaultValue={mother}
                 InputProps={{
                     readOnly: true,
                 }}
@@ -51,4 +62,4 @@ const Birth1700 =  ({year, name, url, godfather, godmother, family}) => {
     );
   }
 
-  export default Birth1700
+  export default Birth1800
