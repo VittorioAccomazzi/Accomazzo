@@ -4,6 +4,7 @@ import {docTypes} from '../docEngine/docTypes'
 import Birth1700 from './docs/Birth1700'
 import Birth1800 from './docs/Birth1800'
 import Death from './docs/Death'
+import Marriage from './docs/Marrige'
 
 const useStyles = makeStyles(theme => ({
   }));
@@ -33,7 +34,12 @@ const DocList = ({docs}) => {
                 break;
             case docTypes.Marriage :
                 {
-    
+                    element = ( 
+                        <Marriage groom={doc.Groom} bride={doc.Bride} year={doc.Year} key={doc.key} 
+                            groomfather={doc.GroomFather} groommother={doc.GroomMother} 
+                            bridefather={doc.BrideFather} bridemother={doc.BrideMother} 
+                            witness1={doc.Witness1} witness2={doc.Witness2} url={doc.Url}/>
+                      );
                 }
                 break;    
         }

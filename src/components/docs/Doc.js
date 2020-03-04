@@ -26,7 +26,7 @@ const Doc =  ({year, name, icon, url, children}) => {
             <CardContent className={classes.content}>
             <CardHeader
                 avatar={
-                <Avatar aria-label="Birth Cartificate" variant="square" className={classes.avatar} src={process.env.PUBLIC_URL+icon} /> 
+                <Avatar aria-label="Cartificate" variant="square" className={classes.avatar} src={process.env.PUBLIC_URL+icon} /> 
                 }
                 title= {
                 <Typography

@@ -2,6 +2,7 @@ import React from "react";
 import TextField from '@material-ui/core/TextField';
 import { Grid } from "@material-ui/core";
 import Doc from './Doc'
+import DocField from './DocField'
 
 
 const Death =  ({year, name, father, mother, spouse, witness1, witness2, url}) => {
@@ -9,66 +10,11 @@ const Death =  ({year, name, father, mother, spouse, witness1, witness2, url}) =
     return (
         <Doc year={year} name={name} url={url} icon="/death.png">
             <Grid container>
-                <Grid item sm={6} xs={12}>
-                <TextField
-                id="outlined-read-only-input"
-                label="Father"
-                defaultValue={father}
-                InputProps={{
-                    readOnly: true,
-                }}
-                variant="outlined"
-                fullWidth
-                />
-                </Grid>
-                <Grid item sm={6} xs={12}>
-                <TextField
-                id="outlined-read-only-input"
-                label="Mother"
-                defaultValue={mother}
-                InputProps={{
-                    readOnly: true,
-                }}
-                variant="outlined"
-                fullWidth
-                />
-                </Grid>
-                <Grid item sm={4} xs={12}>
-                <TextField
-                id="outlined-read-only-input"
-                label="Godfather"
-                defaultValue={spouse}
-                InputProps={{
-                    readOnly: true,
-                }}
-                variant="outlined"
-                fullWidth
-                />
-                </Grid>
-                <Grid item sm={4} xs={6}>
-                <TextField
-                id="outlined-read-only-input"
-                label="First Witness"
-                defaultValue={witness1}
-                InputProps={{
-                    readOnly: true,
-                }}
-                variant="outlined"
-                fullWidth
-                />
-                </Grid>
-                <Grid item sm={4} xs={6}>
-                <TextField
-                id="outlined-read-only-input"
-                label="Second Witness"
-                defaultValue={witness2}
-                InputProps={{
-                    readOnly: true,
-                }}
-                variant="outlined"
-                fullWidth
-                />
-                </Grid>
+                <DocField smlWith="6" xsWidth="12" label="Father" name={father}/>
+                <DocField smlWith="6" xsWidth="12" label="Mother" name={mother}/>
+                <DocField smlWith="4" xsWidth="12" label="Spouse" name={spouse}/>
+                <DocField smlWith="4" xsWidth="6"  label="First Witness" name={witness1}/>
+                <DocField smlWith="4" xsWidth="6"  label="Second Witness" name={witness2}/>
             </Grid>
         </Doc>
     );
