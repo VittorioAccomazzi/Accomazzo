@@ -7,9 +7,12 @@ import Checkbox from '@material-ui/core/Checkbox';
 import { makeStyles } from '@material-ui/core/styles';
 
 const useStyles = makeStyles(theme => ({
-    root: {
-            // To do
-    },
+    button : {
+        marginTop: theme.spacing(1)
+      },
+      formlabel : {
+        marginTop: theme.spacing(1)
+      }
   }));
 
 
@@ -136,8 +139,9 @@ export default function SearchParam ({search}){
             <Grid container spacing={2} justify="space-between">
                 <Grid item xs={12} sm={5}>
                     <FormControlLabel
+                    className={classes.formlabel}    
                     control={
-                        <Checkbox
+                        <Checkbox                    
                             id="includeParents"
                             checked={state.params.includeParents}
                             onChange={e => changeCheckBox(e)}
@@ -149,6 +153,7 @@ export default function SearchParam ({search}){
                 </Grid>
                 <Grid item xs={12} sm={5}>
                     <FormControlLabel
+                     className={classes.formlabel}
                     control={
                         <Checkbox
                             id="includeWiteness"
@@ -162,6 +167,7 @@ export default function SearchParam ({search}){
                 </Grid>
                 <Grid item xs={12} sm={2}>
                     <Button 
+                        className={classes.button}
                         variant="contained" 
                         color="primary"
                         onClick={e => submit(e)}>

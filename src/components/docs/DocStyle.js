@@ -14,6 +14,9 @@ const DocStyle = makeStyles(theme => ({
     media: {
       paddingTop: "56.25%"
     },
+    docField : {
+      marginTop: theme.spacing(1)
+    },
     content: {
       textAlign: "left",
       padding: theme.spacing(1)
