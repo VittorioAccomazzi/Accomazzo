@@ -8,16 +8,15 @@ const DocField = ({name, label, smlWith, xsWidth }) => {
     return (
     <Grid item sm={parseInt(smlWith)} xs={parseInt(xsWidth)}>
         <TextField
-        className={classes.docField}
-        id="outlined-read-only-input"
-        label={label}
-        defaultValue={name}
-        InputProps={{
-            readOnly: true,
-        }}
-        variant="outlined"
-        fullWidth
-        />
+            className={classes.docField}
+            id="outlined-read-only-input"
+            label={label}
+            defaultValue={name}
+            InputProps={{
+                readOnly: true,
+            }}
+            variant="outlined"
+            fullWidth />
     </Grid>
     )}
 

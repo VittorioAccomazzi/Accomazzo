@@ -1,5 +1,7 @@
 import  {docTypes} from './docTypes'
 
+let lengh = 2;
+
 export default function documentSearch ( params ){
     let result = [];
 
@@ -66,6 +68,17 @@ export default function documentSearch ( params ){
         "Witness2" : "Accomazzi Giacomo"
     })
   
-    return result;
+    let final = [];
 
+    for( let i=0; i<lengh; i++ ){
+        result.forEach((v)=>{
+            let tmp ={}
+            Object.assign(tmp,v);
+            v.key+=i;
+            final.push(tmp);
+        })
+    }
+
+    lengh += 5;
+    return final;
 }
