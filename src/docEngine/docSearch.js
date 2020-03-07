@@ -75,9 +75,12 @@ export default function documentSearch ( params ){
             let tmp ={}
             Object.assign(tmp,v);
             v.key+=i;
+            v.Year=parseInt(v.Year+i/10);
             final.push(tmp);
         })
     }
+
+    final.sort((a,b)=>(a.Year-b.Year))
 
     lengh += 5;
     return final;
