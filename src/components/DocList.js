@@ -67,7 +67,7 @@ const DocList = ({docs}) => {
     <div>
         <DocListHeader page={state.page} pages={state.pages} setPage={setPage} docNum={docs.length} />
         { 
-            docs.map( (doc)=> renderDoc(doc))
+            docs.map( (doc)=> { if( doc.Year === state.pages[state.page-1] ) return renderDoc(doc) } )
         }
     </div>
     )
