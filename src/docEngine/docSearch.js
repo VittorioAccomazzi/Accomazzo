@@ -1,6 +1,7 @@
 import  {docTypes} from './docTypes'
+const docDefs = require('./docDefs') 
 
-let birth1700 = require("./json/Birth1700.json");
+let birth1700 = require("./json/"+docDefs.Birth1700.json);
 
 export function documentSearch ( params ){
 
@@ -39,7 +40,8 @@ function search( docs, type, params, nameFields, parentFields, witnessFields ){
                 list.push({
                     ...doc,
                     key  : type+"_"+i,
-                    Type : type
+                    Type : type,
+                    Url : docDefs.DocsBaseUrl+doc.Url
                 })
             }
         }
