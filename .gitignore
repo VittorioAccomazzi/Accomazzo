@@ -11,6 +11,12 @@
 # production
 /build
 
+#json file for document engine
+/src/docEngine/json
+
+#images folders
+/public/Birth1700
+
 # misc
 .DS_Store
 .env.local

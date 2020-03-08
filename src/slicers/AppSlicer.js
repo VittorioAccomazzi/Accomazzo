@@ -1,5 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit"
-import docSearch from '../docEngine/docSearch'
+import { documentSearch } from '../docEngine/docSearch'
 
 const AppSlicer = createSlice({
     name : 'docList',
@@ -7,8 +7,8 @@ const AppSlicer = createSlice({
         docs: []
     },
     reducers : {
-        search(state,action) { 
-            state.docs = docSearch( action.payload );
+         search(state,action) { 
+            state.docs =  documentSearch( action.payload );
         }
     }
 })

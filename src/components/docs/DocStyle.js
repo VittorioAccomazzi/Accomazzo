@@ -11,9 +11,6 @@ const DocStyle = makeStyles(theme => ({
         boxShadow: "0 0 16px 0px rgba(0,0,0,0.5)"
       }
     },
-    media: {
-      paddingTop: "56.25%"
-    },
     docField : {
       marginTop: theme.spacing(1)
     },

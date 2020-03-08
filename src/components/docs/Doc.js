@@ -1,7 +1,6 @@
 import React from "react";
 import Avatar from "@material-ui/core/Avatar";
 import Card from "@material-ui/core/Card";
-import CardMedia from "@material-ui/core/CardMedia";
 import CardContent from "@material-ui/core/CardContent";
 import CardHeader from "@material-ui/core/CardHeader"
 import Typography from "@material-ui/core/Typography";
@@ -56,11 +55,7 @@ const Doc =  ({year, name, icon, url, children}) => {
             </CardActions>
             <Collapse in={expanded} timeout="auto" unmountOnExit>
             <CardContent>
-                <CardMedia
-                className={classes.media}
-                image={url}
-                title="Original Document"
-            />
+                <center><a href={url} target="_blank"><img src={url} width="80%" alt="certificate"/></a></center>
             </CardContent>
             </Collapse>
         </Card>

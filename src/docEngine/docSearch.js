@@ -1,87 +1,59 @@
 import  {docTypes} from './docTypes'
 
-let lengh = 2;
+let birth1700 = require("./json/Birth1700.json");
 
-export default function documentSearch ( params ){
+export function documentSearch ( params ){
+
     let result = [];
 
-    result.push({
-        "Type" : docTypes.Birth_1700,
-        "key"  : docTypes.Birth_1700+"1",
-        "Year" : 1768,
-        "Url"  : "https://upload.wikimedia.org/wikipedia/en/f/fa/Birth_Certificate_Ana_de_Caboga.jpg",
-        "Name" : "Jean "+params.name,
-        "Family" : "Gian Battista e Giuseppina",
-        "Godfather" : "Giovanni Accomazzo, fratello",
-        "Godmother" : "Francesca Gambertolio"
+    let b1700 = search( birth1700, docTypes.Birth_1700, params, ["Name"], ["Family"], [], ["Godfather", "Godmother"] );
+
+    result = result.concat(b1700);
+
+    result.sort((a,b)=>(a.Year-b.Year))
+
+    return result;
+}
+
+
+/**************************************************/
+/**                                              **/
+/**                     Search                   **/
+/**                                              **/
+/**************************************************/
+
+function search( docs, type, params, nameFields, parentFields, witnessFields ){
+    let list = []
+    let fields = nameFields.slice(); // clone
+
+    if( params.includeParents ) fields = fields.concat(parentFields);
+    if( params.includeWiteness) fields = fields.concat(witnessFields);
+
+    let fromYear = ( params.fromYear === "" ? 0  : parseInt(params.fromYear));
+    let toYear   = ( params.toYear === "" ? 9999 : parseInt(params.toYear));
+
+    docs.forEach((doc,i)=>{
+        if( doc.Year >= fromYear && doc.Year <= toYear ){
+            let insert = searchField( doc, params.name, fields )
+            if( insert ){
+                list.push({
+                    ...doc,
+                    key  : type+"_"+i,
+                    Type : type
+                })
+            }
+        }
     })
 
-    result.push({
-        "Type" : docTypes.Birth_1700,
-        "key"  : docTypes.Birth_1700+"2",
-        "Year" : 1788,
-        "Url"  : "http://www.emersonkent.com/images/madero_birth_certificate.jpg",
-        "Name" : params.name +" Maria",
-        "Family" : "Giuseppe e Giuseppina",
-        "Godfather" : "Paolo Accomazzo, fratello",
-        "Godmother" : "Angela Gambertolio"
+    return list;
+}
+
+function searchField ( doc, name, fields ){
+    let found = false;
+    name = name.toUpperCase();
+    fields.forEach((f)=>{
+        let val = doc[f];
+        if( val.toUpperCase().indexOf(name) >= 0  ) found = true;
     })
-
-
-    result.push({
-        "Type" : docTypes.Birth_1800,
-        "key"  : docTypes.Birth_1800+"1",
-        "Year" : 1868,
-        "Url"  : "http://www.genealogyintime.com/Images/South%20Africa%201919%20marriage%20certificate.JPG",
-        "Name" : params.name +" Giuseppe Antonio Francesco",
-        "Father" : "Giovanni  Accomazzo",
-        "Mother" : "Trombetta Teresa",
-        "Godfather" : "Paolo Accomazzo, fratello",
-        "Godmother" : "Angela Gambertolio"
-    })
-
-    result.push({
-        "Type" : docTypes.Death,
-        "key"  : docTypes.Death+"1",
-        "Year" : 1842,
-        "Url"  : "https://www.familytreemagazine.com/wp-content/uploads/2017/08/FTSeptember20055Cimages5Cp20-001.jpg",
-        "Name" : params.name,
-        "Spouse" : "Cogniuge di "+params.name,
-        "Father" : "Giovanni  Accomazzo",
-        "Mother" : "Trombetta Teresa",
-        "Witness1" : "Paolo Accomazzo, fratello",
-        "Witness2" : "Accomazzi Giacomo"
-    })
-
-    result.push({
-        "Type" : docTypes.Marriage,
-        "key"  : docTypes.Marriage+"1",       
-        "Year" : 1822,
-        "Url"  : "https://i.etsystatic.com/16396551/r/il/e61127/1498002983/il_794xN.1498002983_ectx.jpg",
-        "Groom" : params.name,
-        "Bride"  : "Giovanna Luigia",
-        "GroomFather" : "Luigi Accomazzo",
-        "GroomMother" : "Giovanna Maranzana",
-        "BrideFather" : "Giusppe Accomazzo",
-        "BrideMother" : "Maria Delle Volpe",
-        "Witness1" : "Paolo Accomazzo, fratello",
-        "Witness2" : "Accomazzi Giacomo"
-    })
-  
-    let final = [];
-
-    for( let i=0; i<lengh; i++ ){
-        result.forEach((v)=>{
-            let tmp ={}
-            Object.assign(tmp,v);
-            v.key+=i;
-            v.Year=parseInt(v.Year+i/10);
-            final.push(tmp);
-        })
-    }
-
-    final.sort((a,b)=>(a.Year-b.Year))
-
-    lengh += 5;
-    return final;
+    return found;
 }
