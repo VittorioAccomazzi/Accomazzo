@@ -20,11 +20,9 @@
                 // then copy
                 await fsPromise.copyFile(srcPath, dstPath);
                 found = true;
-                } else {
-                    console.warn("Unable to find file "+srcPath);
-                }
+                } 
             } catch(ex) {
-                console.warn("Unable to find file "+srcPath+" ("+ex.Message+")");
+                console.err(`Unable to find file ${srcPath} with error ${ex.Message}`);
             }
         }
     } else {
@@ -33,3 +31,12 @@
     return found;
 }
 
+exports.SaveJson = function( json, filePath ){
+    try
+    {
+        fs.writeFileSync(filePath, JSON.stringify(json));
+        console.log(`**** Processing completed. Created ${filePath}`)
+    } catch( ex ){
+        console.error(`Error : unable to save file ${filePath} because of ${ex.message}` );
+    }   
+}

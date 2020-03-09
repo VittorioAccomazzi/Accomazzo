@@ -5,3 +5,11 @@ exports.Birth1700 = {
     json :  "Birth1700.json",
     folder : "Birth1700/"
 }
+exports.Birth1800 = {
+    json : "Birth1800.json",
+    folder : "Birth1800/"
+}
+exports.Death = {
+    json : "Death.json",
+    folder : "Death/"
+}

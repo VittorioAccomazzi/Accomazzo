@@ -31,13 +31,13 @@ const dstFld= null; // do not check the image path
 
     if( dstFld ){
         // Create destination folder
-        await fsPromise.mkdir(dstFld+dstImg, {recursive:true});
+        await fsPromise.mkdir(dstFld+docDefs.Birth1700.folder, {recursive:true});
     }
 
     // iterate on input file, this was written manully.
     const rl = readline.createInterface({
         input:  fs.createReadStream(srcCsv),
-        output: process.stdout
+        output: null
     });
 
     let docs = [];
@@ -84,14 +84,8 @@ const dstFld= null; // do not check the image path
     // save result.
     rl.on('close', ()=>{
         // Save Resulting json.
-        let dstPath = docDefs.JsonFolder+docDefs.Birth1700.json;
-        try
-        {
-            fs.writeFileSync(dstPath, JSON.stringify(docs));
-            console.log(`processing completed. Created ${dstPath}`)
-        } catch( ex ){
-            console.error(`Error : unable to save file ${dstPath} because of ${ex.message}` );
-        }
+        let dstPath = docDefs.JsonFolder+docDefs.Birth1800.json;
+        Utilities.SaveJson(docs, dstPath);
     })
 })()
 
