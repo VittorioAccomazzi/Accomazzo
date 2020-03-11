@@ -13,3 +13,7 @@ exports.Death = {
     json : "Death.json",
     folder : "Death/"
 }
+exports.Marriage = {
+    json : "Marriage.json",
+    folder : "Marriage/"
+}

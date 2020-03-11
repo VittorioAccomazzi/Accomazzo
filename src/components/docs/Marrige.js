@@ -13,8 +13,6 @@ const Marrige =  ({year, groom, bride, groomfather, groommother, bridefather, br
                 <DocField smlWith="3" xsWidth="6" label="Groom Mother" name={groommother} />
                 <DocField smlWith="3" xsWidth="6" label="Bride Father" name={bridefather} />
                 <DocField smlWith="3" xsWidth="6" label="Bride Mother" name={bridemother} />
-                <DocField smlWith="6" xsWidth="6" label="First Witness"  name={witness1} />
-                <DocField smlWith="6" xsWidth="6" label="Second Witness" name={witness2} />
             </Grid>
         </Doc>
     );

@@ -19,7 +19,7 @@
     "typeface-roboto": "0.0.75"
   },
   "scripts": {
-    "process": "node src/docPreProcessing/Birth1700.js &&  node src/docPreProcessing/Birth1800.js && node src/docPreProcessing/Death.js",
+    "process": "node src/docPreProcessing/Birth1700.js &&  node src/docPreProcessing/Birth1800.js && node src/docPreProcessing/Death.js && node src/docPreProcessing/Marriage.js",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

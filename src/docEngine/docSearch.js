@@ -4,6 +4,7 @@ const docDefs = require('./docDefs')
 let birth1700 = require("./json/"+docDefs.Birth1700.json);
 let birth1800 = require("./json/"+docDefs.Birth1800.json);
 let deathDocs = require("./json/"+docDefs.Death.json);
+let marriages = require("./json/"+docDefs.Marriage.json);
 
 export function documentSearch ( params ){
 
@@ -12,10 +13,12 @@ export function documentSearch ( params ){
     let b1700 = search( birth1700, docTypes.Birth_1700, params, ["Name"], ["Family"], ["Godfather", "Godmother"] );
     let b1800 = search( birth1800, docTypes.Birth_1800, params, ["Name"], ["Father", "Mother"], ["Godfather", "Godmother"] );
     let death = search( deathDocs, docTypes.Death, params, ["Name"],["Father", "Mother", "Spouse"], ["Witness1","Witness2"])
+    let marrg = search( marriages, docTypes.Marriage, params, ["Groom","Bride"],["GroomFather", "GroomMother", "BrideFather", "BrideMother"], [])
 
     result = result.concat(b1700);
     result = result.concat(b1800);
-    result = result.concat(death)
+    result = result.concat(death);
+    result = result.concat(marrg);
 
     result.sort((a,b)=>(a.Year-b.Year))
 
