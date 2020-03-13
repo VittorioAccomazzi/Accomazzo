@@ -45,8 +45,7 @@ const dstFld= null; // do not check the image path
         if( line ){
             try
             {
-                let items = line.split(",");
-
+                let items = Utilities.SlitCsv(line);
                 if( items.length > 11 ){
                     let imgPath = items[0].trim()
                     let year = imgPath.substr(0,4);

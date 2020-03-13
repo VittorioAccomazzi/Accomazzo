@@ -49,7 +49,7 @@ const dstFld= null; // do not check the image path
             if( line.toUpperCase().indexOf(docDefs.AccoKey)> 0 ){
                 try
                 {
-                    let items = line.split(",");
+                    let items = Utilities.SlitCsv(line);
                     let imgPath = items[0]+".jpg"
                     if( items.length > 5 ){
                         let doc ={
@@ -60,8 +60,9 @@ const dstFld= null; // do not check the image path
                             Godfather : items[5],
                             Godmother : items[6]
                         }
-                        if( doc.Year <1000 || doc.Year > 1950 || isNaN(doc.Year)){
-                            console.warn(`[Warning] the year for line [${line}] seems wrong`)
+                        if( doc.Year <1000 || doc.Year > 1950 || isNaN(doc.Year) || doc.Year===null ){
+                            console.warn(`[Warning] the year for line [${line}] seems wrong, not included`)
+                            return
                         }
                         if( dstFld ){
                             let validImage =  await Utilities.ValidateImage(imgPath, dstFld, docDefs.Birth1700.folder, srcImg);
@@ -84,7 +85,7 @@ const dstFld= null; // do not check the image path
     // save result.
     rl.on('close', ()=>{
         // Save Resulting json.
-        let dstPath = docDefs.JsonFolder+docDefs.Birth1800.json;
+        let dstPath = docDefs.JsonFolder+docDefs.Birth1700.json;
         Utilities.SaveJson(docs, dstPath);
     })
 })()

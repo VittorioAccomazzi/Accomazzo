@@ -47,8 +47,7 @@ const dstFld= null; // do not check the image path
         if( line ){
             try
             {
-                let items = line.split(",");
-
+                let items = Utilities.SlitCsv(line);
                 if( items.length > 11 ){
                     let imgPath = items[0].trim()
                     if( imgPath.startsWith("1700_")) imgPath="M"+imgPath

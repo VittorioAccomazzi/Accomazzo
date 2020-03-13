@@ -44,7 +44,8 @@ function search( docs, type, params, nameFields, parentFields, witnessFields ){
 
     docs.forEach((doc,i)=>{
         if( doc.Year >= fromYear && doc.Year <= toYear ){
-            let insert = searchField( doc, params.name, fields )
+            let insert = true;
+            if( params.name !== "" ) insert = searchField( doc, params.name, fields )
             if( insert ){
                 list.push({
                     ...doc,

@@ -13,10 +13,11 @@ the command
 
 ### `npm run processing` 
 
-if you don't run this command, the application #will not# compile
+if you don't run this command, the application **will not** compile
 Notice that the command will print out several information, for instance record which do not
 contains any Accomazzo record.
 
 ## The Web Site
 
-the web site is live at https://accomazzo-app.s3.amazonaws.com/index.html(https://accomazzo-app.s3.amazonaws.com/index.html).
+The web site is live at https://accomazzo-app.s3.amazonaws.com/index.html.
+The images of the document are stored in a separate S3 bucket. The access needs to be whitelisted.

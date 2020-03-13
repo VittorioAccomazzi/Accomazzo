@@ -5,6 +5,10 @@ import TextField from '@material-ui/core/TextField';
 import FormControlLabel from '@material-ui/core/FormControlLabel';
 import Checkbox from '@material-ui/core/Checkbox';
 import { makeStyles } from '@material-ui/core/styles';
+import Autocomplete from '@material-ui/lab/Autocomplete';
+const docDefs = require('../docEngine/docDefs') 
+
+let allNames = require("../docEngine/json/"+docDefs.NameAutocmpl);
 
 const useStyles = makeStyles(theme => ({
     button : {
@@ -27,15 +31,21 @@ export default function SearchParam ({search}){
             toYear   : ''
         },
         errors : {
-            nameError : '',
             fromYearError : '',
             toYearError : ''
         }
     })
 
-    const change = e => {
+    const changeAuto = (value) => {
         setState({
-            params : { ...state.params, [e.target.id] : e.target.value},
+            params : { ...state.params, "name" : value },
+            errors : state.errors
+        })
+    };
+
+    const changeText = (e) => {
+        setState({
+            params : { ...state.params, [e.target.id] : e.target.value },
             errors : state.errors
         })
     };
@@ -50,15 +60,9 @@ export default function SearchParam ({search}){
     const validate = () => {
         let isError = false;
         const errors = {
-            nameError: "",
             fromYearError: "",
             toYearError: ""
           };
-
-        if ( state.params.name === '' || state.params.name.trim() === ''){
-            isError = true;
-            errors.nameError = "Invalid name";
-        }
 
         if( state.params.fromYear !== '' && parseInt(state.params.fromYear).toString() !== state.params.fromYear ){
             isError = true;
@@ -97,15 +101,21 @@ export default function SearchParam ({search}){
         <Grid container>
             <Grid container spacing={2} justify="space-between">
                 <Grid item xs={12} sm={8}>
-                    <TextField 
-                        id="name" 
-                        label="name"  
-                        required={true}
-                        onChange={e => change(e)} 
-                        error = {state.errors.nameError!==''}
-                        helperText={state.errors.nameError}
-                        fullWidth={true}
-                        />
+                    <Autocomplete
+                        freeSolo
+                        id="name"
+                        options={allNames}
+                        onChange={(e, v) => changeAuto(v)}                      
+                        renderInput={(params) => (
+                        <TextField 
+                            {...params}
+                            label="name"  
+                            required={false}
+                            onChange={e => changeText(e)} 
+                            fullWidth={true}
+                            />
+                        )}
+                    />
                 </Grid>
                 <Grid item xs={6} sm={2}>
                     <TextField
@@ -115,7 +125,7 @@ export default function SearchParam ({search}){
                         inputProps={{
                             maxLength: 4,
                         }}
-                        onChange={e => change(e)}
+                        onChange={e => changeText(e)}
                         error = {state.errors.fromYearError!==''}            
                         helperText={state.errors.fromYearError}
                         fullWidth={true}
@@ -129,7 +139,7 @@ export default function SearchParam ({search}){
                         inputProps={{
                             maxLength: 4,
                         }}
-                        onChange={e =>change(e)}
+                        onChange={e =>changeText(e)}
                         error = {state.errors.toYearError!==''}
                         helperText={state.errors.toYearError}
                         fullWidth={true}
