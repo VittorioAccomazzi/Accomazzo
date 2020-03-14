@@ -26,7 +26,7 @@ const DocStyle = makeStyles(theme => ({
     },
     expand: {
       transform: 'rotate(0deg)',
-      marginLeft: 'auto',
+      marginLeft: '0',
       transition: theme.transitions.create('transform', {
         duration: theme.transitions.duration.shortest,
       }),
