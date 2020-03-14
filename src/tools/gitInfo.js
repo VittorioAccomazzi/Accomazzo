@@ -14,7 +14,7 @@ const Utilities = require ('../docPreProcessing/Utilities');
         let sts = await exec('git status')
 
         let status = sts.stdout;
-        let isDev  = status.indexOf("Changes not staged") > 0;
+        let isDev  = status.indexOf("Changes not staged") > 0 || status.indexOf("Changes to be committed") > 0;
         if( !isDev ){
             gitInfo.version = res.stdout;
         }
