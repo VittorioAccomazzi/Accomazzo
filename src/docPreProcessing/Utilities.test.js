@@ -1,4 +1,5 @@
 const Utilities = require('./Utilities')
+const docDefs = require('../docEngine/docDefs') 
 
 let tests =[
     {
@@ -58,3 +59,157 @@ describe('SplitCsv', () => {
         });
     })
   });
+
+  const testNames = [
+    {
+        name : 'John',
+        num : 20
+    },
+    {
+        name : 'Paul',
+        num : 5
+    },
+    {
+        name : 'Baul',
+        num : 1
+    },
+    {
+        name : 'Pau1',
+        num :1
+    }
+  ]
+
+  const testFixes = [
+      {
+          src : 'Baul',
+          dst : 'Paul'
+      }
+  ]
+
+  describe('Fixes', ()=>{
+    test( "Simple Fix Table", ()=>{
+        expect( Utilities.Fixes(testNames, ["Pau1"]) ).toEqual(testFixes)
+    })
+    test( "Simple Fix List", ()=>{
+        Utilities.Fixes(testNames, ["Pau1"]) ;
+        expect( testNames ).toEqual(expect.not.arrayContaining([{
+            name : 'Baul',
+            num : 1
+        }]))
+    })
+})
+
+const testListInp = [
+    {
+        name : 'John,',
+        family : 'Accomazzo'
+    },
+    {
+        name : 'Paul',
+        family : 'Accomazzi 122'
+    },
+    {
+        name : 'Paul. 32',
+        family : 'Bernulli'
+    }
+  ]
+
+  const testListRes = [
+    {
+        name : "BERNULLI",
+        num :1
+    },  
+    {
+          name : "JOHN",
+          num :1
+      },
+      {
+          name : "PAUL",
+          num : 2
+      }
+  ]
+
+describe('Extract',()=>{
+    test('Simple Extract test', ()=>{
+        expect(
+            Utilities.Extract(testListInp,["name","family"],docDefs.AccoKey).sort((a,b)=>( a.name > b.name ? 1: -1))
+        ).toEqual(testListRes)
+    })
+})
+
+const testListFixesInp = [
+    {
+        name : 'John,',
+        family : 'Accomazzo'
+    },
+    {
+        name : 'Paul',
+        family : 'Accomazzi 122'
+    },
+    {
+        name : 'Paul. 32',
+        family : 'Bernulli'
+    },
+    {
+        name :'pauli 22',
+        family : 'Barna'
+    }
+  ]
+
+const testListFixesRes = [
+    {
+        name : 'John,',
+        family : 'Accomazzo'
+    },
+    {
+        name : 'Paolo',
+        family : 'Accomazzi 122'
+    },
+    {
+        name : 'Paolo. 32',
+        family : 'Bernulli'
+    },
+    {
+        name :'pauli 22',
+        family : 'Barna'
+    }
+  ]
+
+const testFixList =[
+    {
+        src : 'paul',
+        dst : 'Paolo'
+    }
+]
+describe('Replace',()=>{
+    test('Simple Replace',()=>{
+        expect(Utilities.Replace(testListFixesInp,["name", "family"],testFixList)).toEqual([testListFixesRes,2])
+    })
+})
+
+const testCapInp =[
+    {
+        name : 'poul, 124',
+        family : "AccomazzO"
+    },
+    {
+        name : 'PeteR 22',
+        family : 'biri'
+    }
+]
+
+const testCapRes =[
+    {
+        name : 'Poul, 124',
+        family : "Accomazzo"
+    },
+    {
+        name : 'Peter 22',
+        family : 'Biri'
+    }
+]
+describe('Capitalize',()=>{
+    test('Simple Capitalize',()=>{
+        expect(Utilities.Capitalize(testCapInp,["name", "family"])).toEqual(testCapRes)
+    })
+})
