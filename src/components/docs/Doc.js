@@ -11,7 +11,8 @@ import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import Collapse from '@material-ui/core/Collapse';
 import DocStyle from './DocStyle'
 import FormLabel from '@material-ui/core/FormLabel';
-
+import Link from '@material-ui/core/Link';
+import { Grid } from "@material-ui/core";
 
 const Doc =  ({year, name, icon, url, children}) => {
     const classes = DocStyle();
@@ -40,18 +41,38 @@ const Doc =  ({year, name, icon, url, children}) => {
             {children}
             </CardContent>
             <CardActions >
-                <FormLabel component="legend" onClick={handleExpandClick}>
-                    {expanded ? "Hide Document" : "View Document"}
-                </FormLabel>
-                <IconButton
-                    className={clsx(classes.expand, {
-                    [classes.expandOpen]: expanded,
-                    })}
-                    onClick={handleExpandClick}
-                    aria-expanded={expanded}
-                    aria-label="show more" >
-                    <ExpandMoreIcon />
-                </IconButton>
+            <Grid
+                    container
+                    direction="row"
+                    justify="flex-start"
+                    alignItems="center"
+                    >
+                    <FormLabel component="legend" onClick={handleExpandClick}>
+                        {expanded ? "Hide Document" : "View Document"}
+                    </FormLabel>
+                    <IconButton
+                        className={clsx(classes.expand, {
+                        [classes.expandOpen]: expanded,
+                        })}
+                        onClick={handleExpandClick}
+                        aria-expanded={expanded}
+                        aria-label="show more" >
+                        <ExpandMoreIcon />
+                    </IconButton>
+                    </Grid>
+                    <Link underline='hover' color="textSecondary"
+                        href= { "mailto:vittorio.accomazzi+accomazzo@gmail.com?subject=Report on "+name+" "+year+"&body=Please describe the error you have encountered.%0D%0A%0D%0AThe document URL is : "+url}>
+                        <Typography
+                            className={"MuiTypography--heading"}
+                            variant="caption"
+                            gutterBottom
+                            align="right"
+                            color="textSecondary"
+                            noWrap
+                        >
+                        Report Error
+                        </Typography>
+                    </Link>
             </CardActions>
             <Collapse in={expanded} timeout="auto" unmountOnExit>
             <CardContent>
