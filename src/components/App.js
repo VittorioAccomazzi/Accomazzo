@@ -7,6 +7,7 @@ import Toolbar from '@material-ui/core/Toolbar';
 import Typography from '@material-ui/core/Typography';
 import Paper from '@material-ui/core/Paper';
 import { makeStyles } from '@material-ui/core/styles';
+import Button from '@material-ui/core/Button';
 
 const useStyles = makeStyles(theme => ({
     root: {
@@ -16,8 +17,13 @@ const useStyles = makeStyles(theme => ({
         padding: "2vw",
         marginTop: "2vh",
         marginBottom: "2vh"
+    },
+    title: {
+      flexGrow: 1,
     }
   }));
+
+  const gitInfo = require('../tools/gitInfo.json');
 
 export default function  App () {
   const classes = useStyles();
@@ -25,9 +31,10 @@ export default function  App () {
     <div className={classes.root}>
     <AppBar position="static">
       <Toolbar>
-        <Typography variant="h6">
+        <Typography variant="h6" className={classes.title}>
           Accomazzo Documents
         </Typography>
+        <Button color="inherit" size='small'>{gitInfo.version}</Button>
       </Toolbar>
     </AppBar>
     <Container maxWidth="xl">

@@ -14,8 +14,8 @@
 #json file for document engine
 /src/docEngine/json
 
-#images folders
-/public/Birth1700
+#Information of the current build.
+gitInfo.json
 
 # misc
 .DS_Store

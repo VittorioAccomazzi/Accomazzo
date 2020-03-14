@@ -14,6 +14,15 @@
             ]
         },
         {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug gitInfo",
+            "program": "${workspaceFolder}/src/tools/gitInfo.js",
+            "skipFiles": [
+                "<node_internals>/**"
+            ]
+        },
+        {
             "name": "Debug Jest Tests",
             "type": "node",
             "request": "launch",
