@@ -8,6 +8,7 @@ import Typography from '@material-ui/core/Typography';
 import Paper from '@material-ui/core/Paper';
 import { makeStyles } from '@material-ui/core/styles';
 import Button from '@material-ui/core/Button';
+import AppHelp from './AppHelp'
 
 const useStyles = makeStyles(theme => ({
     root: {
@@ -23,10 +24,21 @@ const useStyles = makeStyles(theme => ({
     }
   }));
 
-  const gitInfo = require('../tools/gitInfo.json');
+
 
 export default function  App () {
+  const [open, setOpen] = React.useState(false);
+
+  const handleClickOpen = () => {
+    setOpen(true);
+  };
+
+  const handleClose = () => {
+    setOpen(false);
+  };
+
   const classes = useStyles();
+
   return (
     <div className={classes.root}>
     <AppBar position="static">
@@ -34,7 +46,7 @@ export default function  App () {
         <Typography variant="h6" className={classes.title}>
           Accomazzo Documents
         </Typography>
-        <Button color="inherit" size='small'>{gitInfo.version}</Button>
+        <Button color="inherit" size='small' onClick={handleClickOpen}>Help</Button>
       </Toolbar>
     </AppBar>
     <Container maxWidth="xl">
@@ -45,6 +57,7 @@ export default function  App () {
             <DocList/>
         </Paper>
    </Container>
+   <AppHelp open={open} handleClose={handleClose}/>
   </div>
   );
  }
