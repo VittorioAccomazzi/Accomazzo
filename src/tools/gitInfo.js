@@ -14,8 +14,8 @@ const Utilities = require ('../docPreProcessing/Utilities');
         let sts = await exec('git status')
 
         let status = sts.stdout;
-        let isDev  = status.indexOf("Changes not staged") > 0 || status.indexOf("Changes to be committed") > 0;
-        if( !isDev ){
+        let isRel  = status.indexOf("nothing to commit, working tree clean") > 0;
+        if( isRel ){
             gitInfo.version = res.stdout;
         }
         Utilities.SaveJson(gitInfo, 'src/tools/gitInfo.json')
