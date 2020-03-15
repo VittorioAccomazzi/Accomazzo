@@ -10,13 +10,15 @@ const Utilities = require ('../docPreProcessing/Utilities');
 
     try
     {
-        let res = await exec('git rev-parse --short HEAD')
-        let sts = await exec('git status')
+        let short = await exec('git rev-parse --short HEAD')
+        let long  = await exec('git rev-parse HEAD')
+        let stat  = await exec('git status')
 
-        let status = sts.stdout;
+        let status = stat.stdout;
         let isRel  = status.indexOf("nothing to commit, working tree clean") > 0;
         if( isRel ){
-            gitInfo.version = res.stdout;
+            gitInfo.version = short.stdout;
+            gitInfo.long= long.stdout; 
         }
         Utilities.SaveJson(gitInfo, 'src/tools/gitInfo.json')
     } catch ( ex ){
