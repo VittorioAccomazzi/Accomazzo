@@ -36,7 +36,7 @@ let safeWords =[
 
     fixList = Utilities.Capitalize(fixList,["src","dst"])
     
-    let [,b1700fix ] = Utilities.Replace( birth1700, ["Name", "Family","Godfather", "Godmother"],fixList);
+    let [,b1700fix] = Utilities.Replace( birth1700, ["Name", "Family","Godfather", "Godmother"],fixList);
     let [,b1800fix] = Utilities.Replace( birth1800, ["Name", "Father", "Mother","Godfather", "Godmother"],fixList );
     let [,deathfix] = Utilities.Replace( deathDocs, ["Name","Father", "Mother", "Spouse","Witness1","Witness2"],fixList)
     let [,marrgfix] = Utilities.Replace( marriages, ["Groom","Bride", "GroomFather", "GroomMother", "BrideFather", "BrideMother"],fixList)
@@ -59,7 +59,7 @@ let safeWords =[
     Utilities.SaveJson(birth1700, docDefs.JsonFolder+docDefs.Birth1700.json);
     Utilities.SaveJson(birth1800, docDefs.JsonFolder+docDefs.Birth1800.json); 
     Utilities.SaveJson(deathDocs, docDefs.JsonFolder+docDefs.Death.json); 
-    Utilities.SaveJson(marrg,     docDefs.JsonFolder+docDefs.Marriage.json);
+    Utilities.SaveJson(marriages, docDefs.JsonFolder+docDefs.Marriage.json);
 })();
 
 
