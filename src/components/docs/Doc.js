@@ -16,6 +16,7 @@ import { Grid } from "@material-ui/core";
 import copy from 'copy-to-clipboard';
 
 const Doc =  ({year, name, icon, url, id, children}) => {
+    const timer = React.useRef(null);
     const classes = DocStyle();
     const [state, setState] = React.useState({
         expanded : false,
@@ -37,7 +38,22 @@ const Doc =  ({year, name, icon, url, id, children}) => {
         let url = window.location.origin+window.location.pathname+"?show="+id;
         if( e.shiftKey )  url = id;
         copy(url);
+        timer.current = setTimeout( ()=>{
+            setState({
+                expanded:state.expanded,
+                copied : false
+            });
+            timer.current = null;   
+        }, 1000);
     }
+
+    React.useEffect(()=> {
+        return () => {
+          if (timer.current) {
+            clearTimeout(timer.current);
+          }
+        };
+      }, []);
 
     return (<Card className={classes.card}>
             <CardContent className={classes.content}>
