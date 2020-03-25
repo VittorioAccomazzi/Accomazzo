@@ -37,6 +37,9 @@ const DocStyle = makeStyles(theme => ({
     avatar: {
       width: theme.spacing(3),
       height: theme.spacing(4)
+    },
+    copyLink :{
+      paddingRight: theme.spacing(1)
     }
   }));
 

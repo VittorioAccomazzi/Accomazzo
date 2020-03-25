@@ -13,14 +13,31 @@ import DocStyle from './DocStyle'
 import FormLabel from '@material-ui/core/FormLabel';
 import Link from '@material-ui/core/Link';
 import { Grid } from "@material-ui/core";
+import copy from 'copy-to-clipboard';
 
-const Doc =  ({year, name, icon, url, children}) => {
+const Doc =  ({year, name, icon, url, id, children}) => {
     const classes = DocStyle();
-    const [expanded, setExpanded] = React.useState(false);
+    const [state, setState] = React.useState({
+        expanded : false,
+        copied : false
+    });
   
     const handleExpandClick = () => {
-      setExpanded(!expanded);
+      setState({
+            expanded:!state.expanded,
+            copied : state.copied
+        });
     };
+
+    const handleCopyClick = (e) =>{
+        setState({
+            expanded:state.expanded,
+            copied : true
+        });
+        let url = window.location.origin+window.location.pathname+"?show="+id;
+        if( e.shiftKey )  url = id;
+        copy(url);
+    }
 
     return (<Card className={classes.card}>
             <CardContent className={classes.content}>
@@ -48,20 +65,32 @@ const Doc =  ({year, name, icon, url, children}) => {
                     alignItems="center"
                     >
                     <FormLabel component="legend" onClick={handleExpandClick}>
-                        {expanded ? "Hide Document" : "View Document"}
+                        {state.expanded ? "Hide Document" : "View Document"}
                     </FormLabel>
                     <IconButton
                         className={clsx(classes.expand, {
-                        [classes.expandOpen]: expanded,
+                        [classes.expandOpen]: state.expanded,
                         })}
                         onClick={handleExpandClick}
-                        aria-expanded={expanded}
+                        aria-expanded={state.expanded}
                         aria-label="show more" >
                         <ExpandMoreIcon />
                     </IconButton>
                     </Grid>
+                    <Link underline='hover' color="textSecondary" className={classes.copyLink} onClick={handleCopyClick}>
+                        <Typography
+                            className={"MuiTypography--heading"}
+                            variant="caption"
+                            gutterBottom
+                            align="right"
+                            color="textSecondary"
+                            noWrap
+                        >
+                        { state.copied ? 'Copied !' : 'Copy Link' }
+                        </Typography>
+                    </Link>
                     <Link underline='hover' color="textSecondary"
-                        href= { "mailto:vittorio.accomazzi+accomazzo@gmail.com?subject=Report on "+name+" "+year+"&body=Please describe the error you have encountered.%0D%0A%0D%0AThe document URL is : "+url}>
+                        href= { "mailto:vittorio.accomazzi+accomazzo@gmail.com?subject=Report on "+name+" "+year+"("+id+")&body=Please describe the error you have encountered.%0D%0A%0D%0AThe document URL is : "+url}>
                         <Typography
                             className={"MuiTypography--heading"}
                             variant="caption"
@@ -74,7 +103,7 @@ const Doc =  ({year, name, icon, url, children}) => {
                         </Typography>
                     </Link>
             </CardActions>
-            <Collapse in={expanded} timeout="auto" unmountOnExit>
+            <Collapse in={state.expanded} timeout="auto" unmountOnExit>
             <CardContent>
                 <center><a href={url} target="_blank"><img src={url} width="80%" alt="certificate"/></a></center>
             </CardContent>

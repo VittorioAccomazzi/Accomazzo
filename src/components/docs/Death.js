@@ -4,10 +4,10 @@ import Doc from './Doc'
 import DocField from './DocField'
 
 
-const Death =  ({year, name, father, mother, spouse, witness1, witness2, url}) => {
+const Death =  ({year, name, father, mother, spouse, witness1, witness2, url, id }) => {
 
     return (
-        <Doc year={year} name={name} url={url} icon="/death.png">
+        <Doc year={year} name={name} url={url} id={id} icon="/death.png">
             <Grid container>
                 <DocField smlWith="6" xsWidth="12" label="Father" name={father}/>
                 <DocField smlWith="6" xsWidth="12" label="Mother" name={mother}/>

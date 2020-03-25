@@ -4,11 +4,11 @@ import Doc from './Doc'
 import DocField from './DocField'
 
 
-const Birth1700 =  ({year, name, url, godfather, godmother, family}) => {
+const Birth1700 =  ({year, name, url, godfather, godmother, family, id}) => {
 
 
     return (
-        <Doc year={year} name={name} url={url} icon="/birth.png">
+        <Doc year={year} name={name} url={url} id={id} icon="/birth.png">
             <Grid container>
                 <DocField smlWith="6" xsWidth="12" label="Child of" name = {family} />
                 <DocField smlWith="3" xsWidth="6"  label="Godfather" name = {godfather} />

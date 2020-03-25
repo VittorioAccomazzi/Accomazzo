@@ -14,25 +14,25 @@ const DocList = ({docs}) => {
         switch ( doc.Type ){
             case docTypes.Birth_1800 :
                 element = ( 
-                    <Birth1800 name={doc.Name} year={doc.Year} key={doc.key} father={doc.Father} mother={doc.Mother} godfather={doc.Godfather} godmother={doc.Godmother} url={doc.Url}/>
+                    <Birth1800 name={doc.Name} year={doc.Year} id={doc.key} key={doc.key} father={doc.Father} mother={doc.Mother} godfather={doc.Godfather} godmother={doc.Godmother} url={doc.Url}/>
                   );
               break;
             case docTypes.Birth_1700 :
                     element = ( 
-                      <Birth1700 name={doc.Name} year={doc.Year} key={doc.key} family={doc.Family} godfather={doc.Godfather} godmother={doc.Godmother} url={doc.Url}/>
+                      <Birth1700 name={doc.Name} year={doc.Year} id={doc.key} key={doc.key} family={doc.Family} godfather={doc.Godfather} godmother={doc.Godmother} url={doc.Url}/>
                     );
                 break;
             case docTypes.Death :
                     element = ( 
-                        <Death name={doc.Name} year={doc.Year} key={doc.key} father={doc.Father} mother={doc.Mother} spouse={doc.Spouse} witness1={doc.Witness1} witness2={doc.Witness2} url={doc.Url}/>
+                        <Death name={doc.Name} year={doc.Year} id={doc.key} key={doc.key} father={doc.Father} mother={doc.Mother} spouse={doc.Spouse} witness1={doc.Witness1} witness2={doc.Witness2} url={doc.Url}/>
                       );
                 break;
             case docTypes.Marriage :
                     element = ( 
-                        <Marriage groom={doc.Groom} bride={doc.Bride} year={doc.Year} key={doc.key} 
+                        <Marriage groom={doc.Groom} bride={doc.Bride} year={doc.Year} key={doc.key} id={doc.key} 
                             groomfather={doc.GroomFather} groommother={doc.GroomMother} 
                             bridefather={doc.BrideFather} bridemother={doc.BrideMother} 
-                            witness1={doc.Witness1} witness2={doc.Witness2} url={doc.Url}/>
+                            url={doc.Url}/>
                       );
                 break;    
             default :
