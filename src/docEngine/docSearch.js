@@ -52,6 +52,7 @@ export function documentByID( keyList ){
             }
         })
     }
+    docs.sort((a,b)=>(a.Year-b.Year))
     return docs;
 }
 
