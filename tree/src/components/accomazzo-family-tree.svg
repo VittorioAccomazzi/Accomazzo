@@ -655,16 +655,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(3035.5 940.5)">
-        <rect x="0" y="0" width="140" height="50"/>
-        <g>
-            <rect x="0" y="0" width="140" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="70" y="21.22">Paolo Giuseppe</tspan>
-                <tspan x="70" y="38.02">(1871-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-211">
+        <g transform="translate(3035.5 940.5)" fill="#fff">
+            <rect x="0" y="0" width="140" height="50"/>
+            <g>
+                <rect x="0" y="0" width="140" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="70" y="21.22">Paolo Giuseppe</tspan>
+                    <tspan x="70" y="38.02">(1871-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(3015.5 920.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -674,16 +676,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(3395.5 940.5)">
-        <rect x="0" y="0" width="190" height="50"/>
-        <g>
-            <rect x="0" y="0" width="190" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="95" y="21.22">Ferdinando Giuseppe</tspan>
-                <tspan x="95" y="38.02">(1876-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-250">
+        <g transform="translate(3395.5 940.5)" fill="#fff">
+            <rect x="0" y="0" width="190" height="50"/>
+            <g>
+                <rect x="0" y="0" width="190" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="95" y="21.22">Ferdinando Giuseppe</tspan>
+                    <tspan x="95" y="38.02">(1876-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(3375.5 920.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -711,16 +715,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(3850.5 940.5)">
-        <rect x="0" y="0" width="100" height="50"/>
-        <g>
-            <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="50" y="21.22">Rosa</tspan>
-                <tspan x="50" y="38.02">(1862-1904)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-156,Marriage-234,Death-192">
+        <g transform="translate(3850.5 940.5)" fill="#fff">
+            <rect x="0" y="0" width="100" height="50"/>
+            <g>
+                <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="50" y="21.22">Rosa</tspan>
+                    <tspan x="50" y="38.02">(1862-1904)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(3830.5 920.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -927,16 +933,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(4195.5 940.5)">
-        <rect x="0" y="0" width="100" height="50"/>
-        <g>
-            <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="50" y="21.22">Aurelio</tspan>
-                <tspan x="50" y="38.02">(1895-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-385">
+        <g transform="translate(4195.5 940.5)" fill="#fff">
+            <rect x="0" y="0" width="100" height="50"/>
+            <g>
+                <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="50" y="21.22">Aurelio</tspan>
+                    <tspan x="50" y="38.02">(1895-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(4175.5 920.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -1494,16 +1502,18 @@
     <path fill="none" d="M 95 0 L 47.5 0 L 47.5 0 L 0 1e-13" transform="translate(7205.5 565.5)"/>
     <path fill="none" d="M 50 0 L 25 0 L 25 0 L 0 1e-13" transform="translate(7350.5 765.5)"/>
     <path fill="none" d="M 0 175 L 0 87.5 L 0 87.5 L 1e-13 0" transform="translate(7250.5 565.5)"/>
-    <g transform="translate(7270.5 940.5)">
-        <rect x="0" y="0" width="200" height="50"/>
-        <g>
-            <rect x="0" y="0" width="200" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="100" y="21.22">Paolo Ernesto Secondo</tspan>
-                <tspan x="100" y="38.02">(1889-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-322,Birth_1800-362">
+        <g transform="translate(7270.5 940.5)" fill="#fff">
+            <rect x="0" y="0" width="200" height="50"/>
+            <g>
+                <rect x="0" y="0" width="200" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="100" y="21.22">Paolo Ernesto Secondo</tspan>
+                    <tspan x="100" y="38.02">(1889-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(7255.5 920.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -1513,16 +1523,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(6730.5 940.5)">
-        <rect x="0" y="0" width="200" height="50"/>
-        <g>
-            <rect x="0" y="0" width="200" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="100" y="21.22">Gemma Riccomagno</tspan>
-                <tspan x="100" y="38.02">(1896-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-322">
+        <g transform="translate(6730.5 940.5)" fill="#fff">
+            <rect x="0" y="0" width="200" height="50"/>
+            <g>
+                <rect x="0" y="0" width="200" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="100" y="21.22">Gemma Riccomagno</tspan>
+                    <tspan x="100" y="38.02">(1896-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(6715.5 920.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -1535,16 +1547,18 @@
     <path fill="none" d="M 0 175 L 0 87.5 L 0 87.5 L 1e-13 0" transform="translate(6830.5 765.5)"/>
     <path fill="none" d="M 0 175 L 0 87.5 L 0 87.5 L 1e-13 0" transform="translate(7370.5 765.5)"/>
     <path fill="none" d="M 340 0 L 170 0 L 170 0 L 0 1e-13" transform="translate(6930.5 965.5)"/>
-    <g transform="translate(6310.5 940.5)">
-        <rect x="0" y="0" width="130" height="50"/>
-        <g>
-            <rect x="0" y="0" width="130" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="65" y="21.22">Pasquale</tspan>
-                <tspan x="65" y="38.02">(1886-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-338">
+        <g transform="translate(6310.5 940.5)" fill="#fff">
+            <rect x="0" y="0" width="130" height="50"/>
+            <g>
+                <rect x="0" y="0" width="130" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="65" y="21.22">Pasquale</tspan>
+                    <tspan x="65" y="38.02">(1886-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(6295.5 920.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -1555,16 +1569,18 @@
         </g>
     </g>
     <path fill="none" d="M 0 175 L 0 87.5 L 0 87.5 L 1e-13 0" transform="translate(6375.5 765.5)"/>
-    <g transform="translate(5750.5 940.5)">
-        <rect x="0" y="0" width="250" height="50"/>
-        <g>
-            <rect x="0" y="0" width="250" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="125" y="21.22">Secondo Francesco Antonio</tspan>
-                <tspan x="125" y="38.02">(1887-1980)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-348">
+        <g transform="translate(5750.5 940.5)" fill="#fff">
+            <rect x="0" y="0" width="250" height="50"/>
+            <g>
+                <rect x="0" y="0" width="250" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="125" y="21.22">Secondo Francesco Antonio</tspan>
+                    <tspan x="125" y="38.02">(1887-1980)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(5730.5 920.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -1585,16 +1601,18 @@
     </g>
     <path fill="none" d="M 1e-13 1e-13 L 25 0 L 25 0 L 50 0" transform="translate(6000.5 965.5)"/>
     <path fill="none" d="M 0 175 L 0 87.5 L 0 87.5 L 1e-13 0" transform="translate(5875.5 765.5)"/>
-    <g transform="translate(5335.5 940.5)">
-        <rect x="0" y="0" width="100" height="50"/>
-        <g>
-            <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="50" y="21.22">Desiderio</tspan>
-                <tspan x="50" y="38.02">(1887-1980)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-351">
+        <g transform="translate(5335.5 940.5)" fill="#fff">
+            <rect x="0" y="0" width="100" height="50"/>
+            <g>
+                <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="50" y="21.22">Desiderio</tspan>
+                    <tspan x="50" y="38.02">(1887-1980)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(5315.5 920.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -1689,16 +1707,18 @@
     </g>
     <path fill="none" d="M 50 0 L 25 0 L 25 0 L 0 1e-13" transform="translate(450.5 765.5)"/>
     <path fill="none" d="M 0 175 L 0 75 L 640 75 L 640 0" transform="translate(575.5 565.5)"/>
-    <g transform="translate(300.5 940.5)">
-        <rect x="0" y="0" width="150" height="50"/>
-        <g>
-            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="75" y="21.22">Celeste/Celestino</tspan>
-                <tspan x="75" y="38.02">(1841-1905)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-19,Death-199,Marriage-255">
+        <g transform="translate(300.5 940.5)" fill="#fff">
+            <rect x="0" y="0" width="150" height="50"/>
+            <g>
+                <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="75" y="21.22">Celeste/Celestino</tspan>
+                    <tspan x="75" y="38.02">(1841-1905)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(280.5 920.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -1708,25 +1728,28 @@
             </text>
         </g>
     </g>
-    <g transform="translate(125.5 950.5)">
-        <rect x="0" y="0" width="125" height="30"/>
+    <g transform="translate(125.5 940.5)">
+        <rect x="0" y="0" width="125" height="50"/>
         <g>
-            <rect x="0" y="0" width="125" height="30" fill="none" stroke="none"/>
+            <rect x="0" y="0" width="125" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan x="62.5" y="19.62">Rosa Muzio</tspan>
+                <tspan x="62.5" y="21.22">Rosa Muzio</tspan>
+                <tspan x="62.5" y="38.02">e Angela</tspan>
             </text>
         </g>
     </g>
-    <g transform="translate(500.5 940.5)">
-        <rect x="0" y="0" width="150" height="50"/>
-        <g>
-            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="75" y="21.22">Eugenio Luigi</tspan>
-                <tspan x="75" y="38.02">(1845-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-44">
+        <g transform="translate(500.5 940.5)" fill="#fff">
+            <rect x="0" y="0" width="150" height="50"/>
+            <g>
+                <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="75" y="21.22">Eugenio Luigi</tspan>
+                    <tspan x="75" y="38.02">(1845-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(480.5 920.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -1745,16 +1768,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(175.5 1090.5)">
-        <rect x="0" y="0" width="200" height="50"/>
-        <g>
-            <rect x="0" y="0" width="200" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="100" y="21.22">Pietro Francesco Tranquillo</tspan>
-                <tspan x="100" y="38.02">(1875-1943)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-233,Marriage-275">
+        <g transform="translate(175.5 1090.5)" fill="#fff">
+            <rect x="0" y="0" width="200" height="50"/>
+            <g>
+                <rect x="0" y="0" width="200" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="100" y="21.22">Pietro Francesco Tranquillo</tspan>
+                    <tspan x="100" y="38.02">(1875-1943)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(155.5 1070.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -1779,16 +1804,18 @@
     <path fill="none" d="M 100 175 L 100 125 L 0 125 L 1e-13 0" transform="translate(475.5 765.5)"/>
     <path fill="none" d="M 50 0 L 25 0 L 25 0 L 0 1e-13" transform="translate(125.5 1115.5)"/>
     <path fill="none" d="M 0 125 L 0 62.5 L 0 62.5 L 1e-13 1e-13" transform="translate(275.5 965.5)"/>
-    <g transform="translate(60.5 1240.5)">
-        <rect x="0" y="0" width="200" height="50"/>
-        <g>
-            <rect x="0" y="0" width="200" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="100" y="21.22">Celestino Giovanni Federico</tspan>
-                <tspan x="100" y="38.02">(1905-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-445,Death-205">
+        <g transform="translate(60.5 1240.5)" fill="#fff">
+            <rect x="0" y="0" width="200" height="50"/>
+            <g>
+                <rect x="0" y="0" width="200" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="100" y="21.22">Celestino Giovanni Federico</tspan>
+                    <tspan x="100" y="38.02">(1905-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(40.5 1220.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -1798,16 +1825,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(610.5 1090.5)">
-        <rect x="0" y="0" width="120" height="50"/>
-        <g>
-            <rect x="0" y="0" width="120" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="60" y="21.22">Luigi Pietro</tspan>
-                <tspan x="60" y="38.02">(1872-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-216">
+        <g transform="translate(610.5 1090.5)" fill="#fff">
+            <rect x="0" y="0" width="120" height="50"/>
+            <g>
+                <rect x="0" y="0" width="120" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="60" y="21.22">Luigi Pietro</tspan>
+                    <tspan x="60" y="38.02">(1872-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(590.5 1070.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -1910,16 +1939,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(1000.5 940.5)">
-        <rect x="0" y="0" width="100" height="50"/>
-        <g>
-            <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="50" y="21.22">Emilo</tspan>
-                <tspan x="50" y="38.02">(1858-1924)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-133">
+        <g transform="translate(1000.5 940.5)" fill="#fff">
+            <rect x="0" y="0" width="100" height="50"/>
+            <g>
+                <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="50" y="21.22">Emilo</tspan>
+                    <tspan x="50" y="38.02">(1858-1924)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(980.5 920.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -1929,16 +1960,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(1150.5 940.5)">
-        <rect x="0" y="0" width="150" height="50"/>
-        <g>
-            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="75" y="21.22">Giuseppe Angelo</tspan>
-                <tspan x="75" y="38.02">(1848-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-63">
+        <g transform="translate(1150.5 940.5)" fill="#fff">
+            <rect x="0" y="0" width="150" height="50"/>
+            <g>
+                <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="75" y="21.22">Giuseppe Angelo</tspan>
+                    <tspan x="75" y="38.02">(1848-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(1130.5 920.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -1958,16 +1991,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(1550.5 940.5)">
-        <rect x="0" y="0" width="150" height="50"/>
-        <g>
-            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="75" y="21.22">Antonio Giuseppe</tspan>
-                <tspan x="75" y="38.02">(1853-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-96">
+        <g transform="translate(1550.5 940.5)" fill="#fff">
+            <rect x="0" y="0" width="150" height="50"/>
+            <g>
+                <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="75" y="21.22">Antonio Giuseppe</tspan>
+                    <tspan x="75" y="38.02">(1853-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(1530.5 920.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -1981,16 +2016,18 @@
     <path fill="none" d="M 1e-13 1e-13 L 25 0 L 25 0 L 50 0" transform="translate(1300.5 965.5)"/>
     <path fill="none" d="M 30 100 L 0 100 L 1e-13 0" transform="translate(970.5 965.5)"/>
     <path fill="none" d="M 30 205 L 0 205 L 1e-13 0" transform="translate(970.5 965.5)"/>
-    <g transform="translate(1350.5 1040.5)">
-        <rect x="0" y="0" width="100" height="50"/>
-        <g>
-            <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="50" y="21.22">Tarsilla</tspan>
-                <tspan x="50" y="38.02">(1882-1962)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-312">
+        <g transform="translate(1350.5 1040.5)" fill="#fff">
+            <rect x="0" y="0" width="100" height="50"/>
+            <g>
+                <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="50" y="21.22">Tarsilla</tspan>
+                    <tspan x="50" y="38.02">(1882-1962)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(1330.5 1020.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -2000,16 +2037,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(1350.5 1140.5)">
-        <rect x="0" y="0" width="100" height="50"/>
-        <g>
-            <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="50" y="21.22">Edoardo</tspan>
-                <tspan x="50" y="38.02">(1880-1952)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-292">
+        <g transform="translate(1350.5 1140.5)" fill="#fff">
+            <rect x="0" y="0" width="100" height="50"/>
+            <g>
+                <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="50" y="21.22">Edoardo</tspan>
+                    <tspan x="50" y="38.02">(1880-1952)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(1330.5 1120.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -2019,16 +2058,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(1350.5 1240.5)">
-        <rect x="0" y="0" width="100" height="50"/>
-        <g>
-            <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="50" y="21.22">Luigia</tspan>
-                <tspan x="50" y="38.02">(1885-1950)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-331">
+        <g transform="translate(1350.5 1240.5)" fill="#fff">
+            <rect x="0" y="0" width="100" height="50"/>
+            <g>
+                <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="50" y="21.22">Luigia</tspan>
+                    <tspan x="50" y="38.02">(1885-1950)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(1330.5 1220.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -2038,16 +2079,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(1350.5 1340.5)">
-        <rect x="0" y="0" width="100" height="50"/>
-        <g>
-            <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="50" y="21.22">Dante</tspan>
-                <tspan x="50" y="38.02">(1898-1965)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-354">
+        <g transform="translate(1350.5 1340.5)" fill="#fff">
+            <rect x="0" y="0" width="100" height="50"/>
+            <g>
+                <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="50" y="21.22">Dante</tspan>
+                    <tspan x="50" y="38.02">(1898-1965)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(1330.5 1320.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -2061,16 +2104,18 @@
     <path fill="none" d="M 25 205 L 0 205 L 1e-13 0" transform="translate(1325.5 965.5)"/>
     <path fill="none" d="M 25 300 L 0 300 L 1e-13 0" transform="translate(1325.5 965.5)"/>
     <path fill="none" d="M 25 405 L 0 405 L 1e-13 0" transform="translate(1325.5 965.5)"/>
-    <g transform="translate(1600.5 1040.5)">
-        <rect x="0" y="0" width="100" height="50"/>
-        <g>
-            <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="50" y="21.22">Alfredo</tspan>
-                <tspan x="50" y="38.02">(1880-1952)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-303">
+        <g transform="translate(1600.5 1040.5)" fill="#fff">
+            <rect x="0" y="0" width="100" height="50"/>
+            <g>
+                <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="50" y="21.22">Alfredo</tspan>
+                    <tspan x="50" y="38.02">(1881-1952)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(1580.5 1020.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -2080,16 +2125,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(1600.5 1140.5)">
-        <rect x="0" y="0" width="100" height="50"/>
-        <g>
-            <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="50" y="21.22">Gemma</tspan>
-                <tspan x="50" y="38.02">(1885-1907)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-335">
+        <g transform="translate(1600.5 1140.5)" fill="#fff">
+            <rect x="0" y="0" width="100" height="50"/>
+            <g>
+                <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="50" y="21.22">Gemma</tspan>
+                    <tspan x="50" y="38.02">(1885-1907)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(1580.5 1120.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -2128,16 +2175,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(1750.5 1040.5)">
-        <rect x="0" y="0" width="100" height="50"/>
-        <g>
-            <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="50" y="21.22">Pericle</tspan>
-                <tspan x="50" y="38.02">(1883-1919)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-317">
+        <g transform="translate(1750.5 1040.5)" fill="#fff">
+            <rect x="0" y="0" width="100" height="50"/>
+            <g>
+                <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="50" y="21.22">Pericle</tspan>
+                    <tspan x="50" y="38.02">(1883-1919)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(1730.5 1020.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -2147,16 +2196,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(1750.5 1140.5)">
-        <rect x="0" y="0" width="100" height="50"/>
-        <g>
-            <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="50" y="21.22">Rosa</tspan>
-                <tspan x="50" y="38.02">(1889-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-310,Birth_1800-358">
+        <g transform="translate(1750.5 1140.5)" fill="#fff">
+            <rect x="0" y="0" width="100" height="50"/>
+            <g>
+                <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="50" y="21.22">Rosa</tspan>
+                    <tspan x="50" y="38.02">(1888-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(1730.5 1120.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -2190,16 +2241,18 @@
     <path fill="none" d="M 1e-13 1e-13 L 420 0 L 420 50" transform="translate(880.5 840.5)"/>
     <path fill="none" d="M 0 75 L 0 37.5 L 0 37.5 L 1e-13 0" transform="translate(880.5 765.5)"/>
     <path fill="none" d="M 5 0 L 2.5 0 L 2.5 0 L 0 1e-13" transform="translate(1850.5 1165.5)"/>
-    <g transform="translate(1925.5 940.5)">
-        <rect x="0" y="0" width="135" height="50"/>
-        <g>
-            <rect x="0" y="0" width="135" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="67.5" y="21.22">Paolo Rolando</tspan>
-                <tspan x="67.5" y="38.02">(1873-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-226">
+        <g transform="translate(1925.5 940.5)" fill="#fff">
+            <rect x="0" y="0" width="135" height="50"/>
+            <g>
+                <rect x="0" y="0" width="135" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="67.5" y="21.22">Paolo Rolando</tspan>
+                    <tspan x="67.5" y="38.02">(1873-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(1905.5 925.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -2227,16 +2280,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(2450.5 940.5)">
-        <rect x="0" y="0" width="150" height="50"/>
-        <g>
-            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="75" y="21.22">Francesco Carlo</tspan>
-                <tspan x="75" y="38.02">(1865-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-172,Marriage-253">
+        <g transform="translate(2450.5 940.5)" fill="#fff">
+            <rect x="0" y="0" width="150" height="50"/>
+            <g>
+                <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="75" y="21.22">Francesco Carlo</tspan>
+                    <tspan x="75" y="38.02">(1865-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(2430.5 920.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -2249,16 +2304,18 @@
     <path fill="none" d="M 1e-13 1e-13 L 0 75 L 667.5 75 L 667.5 175" transform="translate(1325.5 765.5)"/>
     <path fill="none" d="M 1e-13 1e-13 L 25 0 L 25 0 L 50 0" transform="translate(2400.5 965.5)"/>
     <path fill="none" d="M 1e-13 1e-13 L 15 0 L 15 0 L 40 0" transform="translate(2060.5 965.5)"/>
-    <g transform="translate(2640.5 940.5)">
-        <rect x="0" y="0" width="150" height="50"/>
-        <g>
-            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="75" y="21.22">Antonio Luigi</tspan>
-                <tspan x="75" y="38.02">(1889-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-360">
+        <g transform="translate(2640.5 940.5)" fill="#fff">
+            <rect x="0" y="0" width="150" height="50"/>
+            <g>
+                <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="75" y="21.22">Antonio Luigi</tspan>
+                    <tspan x="75" y="38.02">(1889-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(2620.5 920.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -2292,16 +2349,18 @@
         </g>
     </g>
     <path fill="none" d="M 0 125 L 0 62.5 L 0 62.5 L 1e-13 0" transform="translate(3980.5 965.5)"/>
-    <g transform="translate(4800.5 1090.5)">
-        <rect x="0" y="0" width="150" height="50"/>
-        <g>
-            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="75" y="21.22">Riccardo</tspan>
-                <tspan x="75" y="38.02">(1884-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-329,Marriage-303">
+        <g transform="translate(4800.5 1090.5)" fill="#fff">
+            <rect x="0" y="0" width="150" height="50"/>
+            <g>
+                <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="75" y="21.22">Riccardo</tspan>
+                    <tspan x="75" y="38.02">(1884-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <path fill="none" d="M 0 325 L 0 162.5 L 0 162.5 L 1e-13 0" transform="translate(4875.5 765.5)"/>
     <g transform="translate(4450.5 1240.5)">
         <rect x="0" y="0" width="150" height="50"/>
@@ -2314,16 +2373,18 @@
         </g>
     </g>
     <path fill="none" d="M 0 275 L 0 137.5 L 0 137.5 L 1e-13 0" transform="translate(4525.5 965.5)"/>
-    <g transform="translate(4200.5 1240.5)">
-        <rect x="0" y="0" width="150" height="50"/>
-        <g>
-            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="75" y="21.22">Giuseppe Michele</tspan>
-                <tspan x="75" y="38.02">(1906-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-448">
+        <g transform="translate(4200.5 1240.5)" fill="#fff">
+            <rect x="0" y="0" width="150" height="50"/>
+            <g>
+                <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="75" y="21.22">Giuseppe Michele</tspan>
+                    <tspan x="75" y="38.02">(1906-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(4780.5 1070.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -2343,16 +2404,18 @@
         </g>
     </g>
     <path fill="none" d="M 0 125 L 0 62.5 L 0 62.5 L 1e-13 0" transform="translate(4275.5 1115.5)"/>
-    <g transform="translate(3540.5 1240.5)">
-        <rect x="0" y="0" width="150" height="50"/>
-        <g>
-            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="75" y="21.22">Luigi</tspan>
-                <tspan x="75" y="38.02">(1910-1986)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-472">
+        <g transform="translate(3540.5 1240.5)" fill="#fff">
+            <rect x="0" y="0" width="150" height="50"/>
+            <g>
+                <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="75" y="21.22">Luigi</tspan>
+                    <tspan x="75" y="38.02">(1910-1986)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(3520.5 1220.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -2363,16 +2426,18 @@
         </g>
     </g>
     <path fill="none" d="M 0 275 L 0 137.5 L 0 137.5 L 1e-13 0" transform="translate(3615.5 965.5)"/>
-    <g transform="translate(5950.5 1240.5)">
-        <rect x="0" y="0" width="150" height="50"/>
-        <g>
-            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="75" y="21.22">Giacomo Carlo</tspan>
-                <tspan x="75" y="38.02">(1914-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-494">
+        <g transform="translate(5950.5 1240.5)" fill="#fff">
+            <rect x="0" y="0" width="150" height="50"/>
+            <g>
+                <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="75" y="21.22">Giacomo Carlo</tspan>
+                    <tspan x="75" y="38.02">(1914-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(5930.5 1220.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -2409,15 +2474,17 @@
             </text>
         </g>
     </g>
-    <g transform="translate(7900.5 240.5)">
-        <rect x="0" y="0" width="130" height="50"/>
-        <g>
-            <rect x="0" y="0" width="130" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="65" y="29.62">Pauli</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-59">
+        <g transform="translate(7900.5 240.5)" fill="#fff">
+            <rect x="0" y="0" width="130" height="50"/>
+            <g>
+                <rect x="0" y="0" width="130" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="65" y="29.62">Pauli</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(7880.5 225.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -2436,16 +2503,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(7850.5 390.5)">
-        <rect x="0" y="0" width="150" height="50"/>
-        <g>
-            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="75" y="21.22">Vincenti</tspan>
-                <tspan x="75" y="38.02">(1782-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-366">
+        <g transform="translate(7850.5 390.5)" fill="#fff">
+            <rect x="0" y="0" width="150" height="50"/>
+            <g>
+                <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="75" y="21.22">Vincenti</tspan>
+                    <tspan x="75" y="38.02">(1782-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(7830.5 370.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -2455,16 +2524,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(8115.5 390.5)">
-        <rect x="0" y="0" width="150" height="50"/>
-        <g>
-            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="75" y="21.22">Andrea</tspan>
-                <tspan x="75" y="38.02">(1777-after 1829)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-504,Marriage-111">
+        <g transform="translate(8115.5 390.5)" fill="#fff">
+            <rect x="0" y="0" width="150" height="50"/>
+            <g>
+                <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="75" y="21.22">Andrea</tspan>
+                    <tspan x="75" y="38.02">(1771-after 1829)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(8095.5 370.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -2474,16 +2545,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(7600.5 390.5)">
-        <rect x="0" y="0" width="150" height="50"/>
-        <g>
-            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="75" y="21.22">Maria Gerrone</tspan>
-                <tspan x="75" y="38.02">(1783-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-366,Birth_1700-607">
+        <g transform="translate(7600.5 390.5)" fill="#fff">
+            <rect x="0" y="0" width="150" height="50"/>
+            <g>
+                <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="75" y="21.22">Maria Gerrone</tspan>
+                    <tspan x="75" y="38.02">(1783-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(7580.5 370.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -2493,16 +2566,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(7720.5 540.5)">
-        <rect x="0" y="0" width="150" height="50"/>
-        <g>
-            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="75" y="21.22">Gian. Battista</tspan>
-                <tspan x="75" y="38.02">(1815- 1889)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-948,Death-151,Marriage-178">
+        <g transform="translate(7720.5 540.5)" fill="#fff">
+            <rect x="0" y="0" width="150" height="50"/>
+            <g>
+                <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="75" y="21.22">Gian. Battista</tspan>
+                    <tspan x="75" y="38.02">(1815- 1889)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(7700.5 520.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -2512,16 +2587,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(7520.5 540.5)">
-        <rect x="0" y="0" width="150" height="50"/>
-        <g>
-            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="75" y="21.22">Teresa Maranzana</tspan>
-                <tspan x="75" y="38.02">(1819-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-178">
+        <g transform="translate(7520.5 540.5)" fill="#fff">
+            <rect x="0" y="0" width="150" height="50"/>
+            <g>
+                <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="75" y="21.22">Teresa Maranzana</tspan>
+                    <tspan x="75" y="38.02">(1819-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(7500.5 520.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -2531,16 +2608,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(7620.5 740.5)">
-        <rect x="0" y="0" width="150" height="50"/>
-        <g>
-            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="75" y="21.22">Filippo Fedele</tspan>
-                <tspan x="75" y="38.02">(1850-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-72">
+        <g transform="translate(7620.5 740.5)" fill="#fff">
+            <rect x="0" y="0" width="150" height="50"/>
+            <g>
+                <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="75" y="21.22">Filippo Fedele</tspan>
+                    <tspan x="75" y="38.02">(1850-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(7600.5 720.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -2610,16 +2689,18 @@
     </g>
     <path fill="none" d="M 1e-13 1e-13 L 25 0 L 25 0 L 50 0" transform="translate(7650.5 265.5)"/>
     <path fill="none" d="M 0 125 L 0 62.5 L 0 62.5 L 1e-13 0" transform="translate(7675.5 265.5)"/>
-    <g transform="translate(8350.5 390.5)">
-        <rect x="0" y="0" width="150" height="50"/>
-        <g>
-            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="75" y="21.22">Angela Maria</tspan>
-                <tspan x="75" y="38.02">(1776-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-111,Birth_1700-546">
+        <g transform="translate(8350.5 390.5)" fill="#fff">
+            <rect x="0" y="0" width="150" height="50"/>
+            <g>
+                <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="75" y="21.22">Angela Maria</tspan>
+                    <tspan x="75" y="38.02">(1776-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(8330.5 370.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -2629,16 +2710,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(8250.5 240.5)">
-        <rect x="0" y="0" width="150" height="50"/>
-        <g>
-            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="75" y="21.22">Jois Antoni</tspan>
-                <tspan x="75" y="38.02">(1741-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-223">
+        <g transform="translate(8250.5 240.5)" fill="#fff">
+            <rect x="0" y="0" width="150" height="50"/>
+            <g>
+                <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="75" y="21.22">Jois Antoni</tspan>
+                    <tspan x="75" y="38.02">(1741-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(8230.5 220.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -2694,16 +2777,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(8245.5 540.5)">
-        <rect x="0" y="0" width="140" height="50"/>
-        <g>
-            <rect x="0" y="0" width="140" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="70" y="21.22">Valentino</tspan>
-                <tspan x="70" y="38.02">(1804-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-817,Marriage-157">
+        <g transform="translate(8245.5 540.5)" fill="#fff">
+            <rect x="0" y="0" width="140" height="50"/>
+            <g>
+                <rect x="0" y="0" width="140" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="70" y="21.22">Valentino</tspan>
+                    <tspan x="70" y="38.02">(1804-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(8230.5 520.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
@@ -2713,16 +2798,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(8165.5 740.5)">
-        <rect x="0" y="0" width="100" height="50"/>
-        <g>
-            <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="50" y="21.22">Andrea</tspan>
-                <tspan x="50" y="38.02">(1838-)</tspan>
-            </text>
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-0">
+        <g transform="translate(8165.5 740.5)" fill="#fff">
+            <rect x="0" y="0" width="100" height="50"/>
+            <g>
+                <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="50" y="21.22">Andrea</tspan>
+                    <tspan x="50" y="38.02">(1838-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(8145.5 720.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g>
