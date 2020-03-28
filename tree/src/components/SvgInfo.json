@@ -1,0 +1,702 @@
+{
+ "list": [
+  {
+   "name": "Rolando",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-39",
+   "pos": {
+    "x": 1300,
+    "y": 240
+   }
+  },
+  {
+   "name": "Anna Catharina",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-39,Birth_1700-85",
+   "pos": {
+    "x": 1550,
+    "y": 240
+   }
+  },
+  {
+   "name": "Jois Bapta",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-321",
+   "pos": {
+    "x": 1420,
+    "y": 390
+   }
+  },
+  {
+   "name": "Giovanna",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Death-99,Birth_1700-770,Marriage-144",
+   "pos": {
+    "x": 1540,
+    "y": 540
+   }
+  },
+  {
+   "name": "Francesca",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-732,Marriage-136,Death-100",
+   "pos": {
+    "x": 1300,
+    "y": 540
+   }
+  },
+  {
+   "name": "Giuseppe detto Rolando",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-614,Marriage-130,Marriage-409,Death-67",
+   "pos": {
+    "x": 1800,
+    "y": 540
+   }
+  },
+  {
+   "name": "Pasquale",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-639,Marriage-136",
+   "pos": {
+    "x": 955,
+    "y": 540
+   }
+  },
+  {
+   "name": "Jois Jacobus",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-338,Marriage-82",
+   "pos": {
+    "x": 850,
+    "y": 390
+   }
+  },
+  {
+   "name": "Tommaso",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-936",
+   "pos": {
+    "x": 1550,
+    "y": 740
+   }
+  },
+  {
+   "name": "Antonio Rolando",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-1003,Marriage-182",
+   "pos": {
+    "x": 1150,
+    "y": 740
+   }
+  },
+  {
+   "name": "Giov. Battista",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-885",
+   "pos": {
+    "x": 900,
+    "y": 740
+   }
+  },
+  {
+   "name": "Chiara/Clara",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-687,Marriage-130,Marriage-409,Death-94",
+   "pos": {
+    "x": 2145,
+    "y": 540
+   }
+  },
+  {
+   "name": "Carlo Clemente",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-767,Marriage-144,Death-64",
+   "pos": {
+    "x": 2340,
+    "y": 540
+   }
+  },
+  {
+   "name": "Tommaso Domenico",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-16",
+   "pos": {
+    "x": 2055,
+    "y": 740
+   }
+  },
+  {
+   "name": "Pietro",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-590,Death-62",
+   "pos": {
+    "x": 2545,
+    "y": 540
+   }
+  },
+  {
+   "name": "Stefano",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-340",
+   "pos": {
+    "x": 2230,
+    "y": 390
+   }
+  },
+  {
+   "name": "Petrus Antonio",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-161",
+   "pos": {
+    "x": 2125,
+    "y": 240
+   }
+  },
+  {
+   "name": "Sebastiano",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-1110,Death-203",
+   "pos": {
+    "x": 2660,
+    "y": 740
+   }
+  },
+  {
+   "name": "Maddalena",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-23,Death-106",
+   "pos": {
+    "x": 3650,
+    "y": 740
+   }
+  },
+  {
+   "name": "Paolo Giuseppe",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-211",
+   "pos": {
+    "x": 3035,
+    "y": 940
+   }
+  },
+  {
+   "name": "Ferdinando Giuseppe",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-250",
+   "pos": {
+    "x": 3395,
+    "y": 940
+   }
+  },
+  {
+   "name": "Rosa",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-156,Marriage-234,Death-192",
+   "pos": {
+    "x": 3850,
+    "y": 940
+   }
+  },
+  {
+   "name": "Marco Domenico",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-92,Marriage-203",
+   "pos": {
+    "x": 3855,
+    "y": 740
+   }
+  },
+  {
+   "name": "Rosa Maranzana",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Death-31",
+   "pos": {
+    "x": 3650,
+    "y": 540
+   }
+  },
+  {
+   "name": "Paolo",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-940,Death-142",
+   "pos": {
+    "x": 3850,
+    "y": 540
+   }
+  },
+  {
+   "name": "Giovanni",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-712",
+   "pos": {
+    "x": 3900,
+    "y": 390
+   }
+  },
+  {
+   "name": "Pauli Antoni",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-220",
+   "pos": {
+    "x": 3805,
+    "y": 240
+   }
+  },
+  {
+   "name": "Pietro",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-978",
+   "pos": {
+    "x": 4050,
+    "y": 540
+   }
+  },
+  {
+   "name": "Aurelio",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-385",
+   "pos": {
+    "x": 4195,
+    "y": 940
+   }
+  },
+  {
+   "name": "Luigi Guglielmo",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-95,Marriage-201",
+   "pos": {
+    "x": 4250,
+    "y": 740
+   }
+  },
+  {
+   "name": "Margherita Masoero",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Death-110",
+   "pos": {
+    "x": 4245,
+    "y": 540
+   }
+  },
+  {
+   "name": "Maria Rosa Antonia",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-201,Birth_1800-121",
+   "pos": {
+    "x": 4450,
+    "y": 740
+   }
+  },
+  {
+   "name": "Casimiro Vincenzo",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-100,Marriage-232,",
+   "pos": {
+    "x": 4695,
+    "y": 740
+   }
+  },
+  {
+   "name": "Michele Domenico",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-968,Death-118",
+   "pos": {
+    "x": 4500,
+    "y": 540
+   }
+  },
+  {
+   "name": "Giuseppe",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-664,Death-50",
+   "pos": {
+    "x": 4435,
+    "y": 390
+   }
+  },
+  {
+   "name": "Antonia Rosaero",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Death-63",
+   "pos": {
+    "x": 4600,
+    "y": 390
+   }
+  },
+  {
+   "name": "Giovanni Battista",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-374",
+   "pos": {
+    "x": 4285,
+    "y": 240
+   }
+  },
+  {
+   "name": "Giuseppina Monica",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-232,Birth_1800-154",
+   "pos": {
+    "x": 4900,
+    "y": 740
+   }
+  },
+  {
+   "name": "Antonio Domenico Enrico",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-77",
+   "pos": {
+    "x": 5150,
+    "y": 740
+   }
+  },
+  {
+   "name": "Giacomo Calisto Edoardo",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-88,Marriage-209",
+   "pos": {
+    "x": 5650,
+    "y": 740
+   }
+  },
+  {
+   "name": "Paolo Stefano Luigi",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-135",
+   "pos": {
+    "x": 6150,
+    "y": 740
+   }
+  },
+  {
+   "name": "Maria Lucia Costanza",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-189,Birth_1800-102",
+   "pos": {
+    "x": 6600,
+    "y": 740
+   }
+  },
+  {
+   "name": "Carlo",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-1073",
+   "pos": {
+    "x": 5500,
+    "y": 540
+   }
+  },
+  {
+   "name": "Gervasio",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-934,Death-17,Marriage-168",
+   "pos": {
+    "x": 5250,
+    "y": 540
+   }
+  },
+  {
+   "name": "Pietro Angelo Felice",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-81",
+   "pos": {
+    "x": 7150,
+    "y": 740
+   }
+  },
+  {
+   "name": "Prospera Valleggia",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Death-148",
+   "pos": {
+    "x": 7005,
+    "y": 540
+   }
+  },
+  {
+   "name": "Paolo Ernesto Secondo",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-322,Birth_1800-362",
+   "pos": {
+    "x": 7270,
+    "y": 940
+   }
+  },
+  {
+   "name": "Gemma Riccomagno",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-322",
+   "pos": {
+    "x": 6730,
+    "y": 940
+   }
+  },
+  {
+   "name": "Pasquale",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-338",
+   "pos": {
+    "x": 6310,
+    "y": 940
+   }
+  },
+  {
+   "name": "Secondo Francesco Antonio",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-348",
+   "pos": {
+    "x": 5750,
+    "y": 940
+   }
+  },
+  {
+   "name": "Desiderio",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-351",
+   "pos": {
+    "x": 5335,
+    "y": 940
+   }
+  },
+  {
+   "name": "Giovanni Battista",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-961,Marriage-175",
+   "pos": {
+    "x": 500,
+    "y": 740
+   }
+  },
+  {
+   "name": "Maria Gambertolio",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-175",
+   "pos": {
+    "x": 300,
+    "y": 740
+   }
+  },
+  {
+   "name": "Celeste/Celestino",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-19,Death-199,Marriage-255",
+   "pos": {
+    "x": 300,
+    "y": 940
+   }
+  },
+  {
+   "name": "Eugenio Luigi",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-44",
+   "pos": {
+    "x": 500,
+    "y": 940
+   }
+  },
+  {
+   "name": "Pietro Francesco Tranquillo",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-233,Marriage-275,Death-205",
+   "pos": {
+    "x": 175,
+    "y": 1090
+   }
+  },
+  {
+   "name": "Celestino Giovanni Federico",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-445",
+   "pos": {
+    "x": 60,
+    "y": 1240
+   }
+  },
+  {
+   "name": "Luigi Pietro",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-216",
+   "pos": {
+    "x": 610,
+    "y": 1090
+   }
+  },
+  {
+   "name": "Emilo",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-133",
+   "pos": {
+    "x": 1000,
+    "y": 940
+   }
+  },
+  {
+   "name": "Giuseppe Angelo",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-63",
+   "pos": {
+    "x": 1150,
+    "y": 940
+   }
+  },
+  {
+   "name": "Antonio Giuseppe",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-96",
+   "pos": {
+    "x": 1550,
+    "y": 940
+   }
+  },
+  {
+   "name": "Tarsilla",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-312",
+   "pos": {
+    "x": 1350,
+    "y": 1040
+   }
+  },
+  {
+   "name": "Edoardo",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-292",
+   "pos": {
+    "x": 1350,
+    "y": 1140
+   }
+  },
+  {
+   "name": "Luigia",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-331",
+   "pos": {
+    "x": 1350,
+    "y": 1240
+   }
+  },
+  {
+   "name": "Dante",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-354",
+   "pos": {
+    "x": 1350,
+    "y": 1340
+   }
+  },
+  {
+   "name": "Alfredo",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-303",
+   "pos": {
+    "x": 1600,
+    "y": 1040
+   }
+  },
+  {
+   "name": "Gemma",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-335",
+   "pos": {
+    "x": 1600,
+    "y": 1140
+   }
+  },
+  {
+   "name": "Pericle",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-317",
+   "pos": {
+    "x": 1750,
+    "y": 1040
+   }
+  },
+  {
+   "name": "Rosa",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-310,Birth_1800-358",
+   "pos": {
+    "x": 1750,
+    "y": 1140
+   }
+  },
+  {
+   "name": "Paolo Rolando",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-226",
+   "pos": {
+    "x": 1925,
+    "y": 940
+   }
+  },
+  {
+   "name": "Francesco Carlo",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-172,Marriage-253",
+   "pos": {
+    "x": 2450,
+    "y": 940
+   }
+  },
+  {
+   "name": "Antonio Luigi",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-360",
+   "pos": {
+    "x": 2640,
+    "y": 940
+   }
+  },
+  {
+   "name": "Riccardo",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-329,Marriage-303",
+   "pos": {
+    "x": 4800,
+    "y": 1090
+   }
+  },
+  {
+   "name": "Giuseppe Michele",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-448",
+   "pos": {
+    "x": 4200,
+    "y": 1240
+   }
+  },
+  {
+   "name": "Luigi",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-472",
+   "pos": {
+    "x": 3540,
+    "y": 1240
+   }
+  },
+  {
+   "name": "Giacomo Carlo",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-494",
+   "pos": {
+    "x": 5950,
+    "y": 1240
+   }
+  },
+  {
+   "name": "Pauli",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-59",
+   "pos": {
+    "x": 7900,
+    "y": 240
+   }
+  },
+  {
+   "name": "Vincenti",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-366",
+   "pos": {
+    "x": 7850,
+    "y": 390
+   }
+  },
+  {
+   "name": "Andrea",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-504,Marriage-111",
+   "pos": {
+    "x": 8115,
+    "y": 390
+   }
+  },
+  {
+   "name": "Maria Gerrone",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-366,Birth_1700-607",
+   "pos": {
+    "x": 7600,
+    "y": 390
+   }
+  },
+  {
+   "name": "Gian. Battista",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-948,Death-151,Marriage-178",
+   "pos": {
+    "x": 7720,
+    "y": 540
+   }
+  },
+  {
+   "name": "Teresa Maranzana",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-178",
+   "pos": {
+    "x": 7520,
+    "y": 540
+   }
+  },
+  {
+   "name": "Filippo Fedele",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-72",
+   "pos": {
+    "x": 7620,
+    "y": 740
+   }
+  },
+  {
+   "name": "Angela Maria",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-111,Birth_1700-546",
+   "pos": {
+    "x": 8350,
+    "y": 390
+   }
+  },
+  {
+   "name": "Jois Antoni",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-223",
+   "pos": {
+    "x": 8250,
+    "y": 240
+   }
+  },
+  {
+   "name": "Valentino",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-817,Marriage-157",
+   "pos": {
+    "x": 8245,
+    "y": 540
+   }
+  },
+  {
+   "name": "Andrea",
+   "link": "https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-0",
+   "pos": {
+    "x": 8165,
+    "y": 740
+   }
+  }
+ ],
+ "width": 8652,
+ "height": 1393
+}

@@ -7,6 +7,8 @@
 
 #generate 
 AccomazzoFamilyTree.js
+AccomazzoFamilyTree.tmp
+SvgInfo.js
 
 # testing
 /coverage
