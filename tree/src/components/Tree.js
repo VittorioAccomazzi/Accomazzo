@@ -28,6 +28,12 @@ export default class Tree extends React.PureComponent {
   }
 
   handleClick(e) {
+    
+    let userAgentString = navigator.userAgent;
+    let isChrome = userAgentString.indexOf("Chrome") > -1 ||  userAgentString.indexOf("CriOS") > -1; 
+    let isSafari = userAgentString.indexOf("Safari") > -1 && !isChrome;
+    let isTouch  = 'ontouchstart' in window || navigator.msMaxTouchPoints; // notice modern Safari do not have iPad or iPhone in ua
+
     let xTollerance = 150;
     let yTollerance = 60;
     let minDx = 2*xTollerance;
@@ -44,7 +50,7 @@ export default class Tree extends React.PureComponent {
       }
     })
 
-    if( minDx < xTollerance && minDy < yTollerance && url ) window.open(url, "_blank");
+    if( minDx < xTollerance && minDy < yTollerance && url ) window.open(url, (isTouch && isSafari) ? "_self" : "_blank");
   }
 
   handleTouchStart (e){
