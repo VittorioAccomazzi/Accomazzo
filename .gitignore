@@ -13,6 +13,8 @@
 
 #json file for document engine
 /src/docEngine/json
+Corrections.csv
+Names.csv
 
 #Information of the current build.
 gitInfo.json

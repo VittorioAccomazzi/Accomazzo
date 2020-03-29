@@ -39,8 +39,8 @@ export default function  AppHelp ({handleClose, open}) {
                 <center><img src="Search.gif" alt="how to search"/></center>
               </DialogContentText>
               <DialogContentText id="alert-dialog-description">
-                The documents have been manually typed in, and automatically corrected. <a href="https://accomazzo-app.s3.amazonaws.com/static/media/Names.3fe23a1b.csv">Here</a> you can download the list of the names which appears in the documents,
-                and <a href="https://accomazzo-app.s3.amazonaws.com/static/media/Corrections.b6e34d28.csv">here</a> you can download the correction done. If you find an error please use the link <b>Report Error</b> in the record of the document to let us know.
+                The documents have been manually typed in, and automatically corrected. <a href="Names.csv">Here</a> you can download the list of the names which appears in the documents,
+                and <a href="Corrections.csv">here</a> you can download the correction done. If you find an error please use the link <b>Report Error</b> in the record of the document to let us know.
               </DialogContentText>
               <DialogContentText id="alert-dialog-description">
                 <small>{ (gitInfo.long == null)  && (`Application Developer Version`)}

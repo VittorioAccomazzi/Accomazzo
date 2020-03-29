@@ -52,8 +52,8 @@ let safeWords =[
 
     // capitalize the names
     names = Utilities.Capitalize(names,["name"]);
-    Utilities.SaveCsv(names, ["name","num"], docDefs.JsonFolder+docDefs.NameInfo); // save the list
-    Utilities.SaveCsv(fixList, ["src","dst"], docDefs.JsonFolder+docDefs.NameFixes)
+    Utilities.SaveCsv(names, ["name","num"], docDefs.PublicFolder+docDefs.NameInfo); // save the list
+    Utilities.SaveCsv(fixList, ["src","dst"], docDefs.PublicFolder+docDefs.NameFixes)
 
     Utilities.SaveJson(names.map(name=> name.name), docDefs.JsonFolder+docDefs.NameAutocmpl); // save only the names, not frequency.
     Utilities.SaveJson(birth1700, docDefs.JsonFolder+docDefs.Birth1700.json);
