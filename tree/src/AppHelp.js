@@ -25,7 +25,7 @@ export default function  AppHelp ({handleClose, open}) {
                 <li>You can <b>view the documents</b> of a specific individual if you click on the name, or  if you select the arrow button on your right and then click on the name, or with a single touch on a tablet.</li>
               </DialogContentText>
               <DialogContentText id="alert-dialog-description">
-                <center><img src="tree/viewtree.gif" alt="how to navigate the tree"/></center>
+                <center><img src="viewtree.gif" alt="how to navigate the tree"/></center>
               </DialogContentText>
               <DialogContentText id="alert-dialog-description">
                 If you find any error or any inaccuracies, please <a href="mailto:vittorio.accomazzi+accomazzo@gmail.com?subject=Error in Accomazzo Tree&body=Please describe the error you have encountered">let us know</a>
