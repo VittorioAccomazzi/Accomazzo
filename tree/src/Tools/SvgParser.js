@@ -63,7 +63,7 @@ const readline = require('readline');
 
     rl.on('close', ()=>{
         fs.writeFileSync(dstFile, JSON.stringify(svgInfo,null, ' '));
-        console.log(`**** Processing completed. Created ${dstFile}`)
+        console.log(`**** Processing completed. Created ${dstFile} width ${svgInfo.list.length} entries`)
     })
 
 })();
