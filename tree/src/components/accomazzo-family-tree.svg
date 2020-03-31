@@ -2448,7 +2448,7 @@
             </text>
         </g>
     </g>
-    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-366">
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-366,Birth_1700-607">
         <g transform="translate(8270.5 390.5)" fill="#fff">
             <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
             <g>
@@ -2490,13 +2490,13 @@
             </text>
         </g>
     </g>
-    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-366,Birth_1700-607">
+    <a target="_blank" fill="none" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-366">
         <g transform="translate(8020.5 390.5)" fill="#fff">
             <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
             <g>
                 <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
-                    <tspan x="75" y="21.22">Maria Gerrone</tspan>
+                    <tspan x="75" y="21.22">Maria Gerrone</tspan>
                     <tspan x="75" y="38.02">(1783-)</tspan>
                 </text>
             </g>
