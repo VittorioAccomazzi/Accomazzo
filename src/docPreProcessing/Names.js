@@ -24,10 +24,10 @@ let safeWords =[
 
     // generate the list of names with occurrences for each one
     
-    let b1700 = Utilities.Extract( birth1700, ["Name", "Family","Godfather", "Godmother"] ,docDefs.AccoKey);
-    let b1800 = Utilities.Extract( birth1800, ["Name", "Father", "Mother","Godfather", "Godmother"],docDefs.AccoKey );
-    let death = Utilities.Extract( deathDocs, ["Name","Father", "Mother", "Spouse","Witness1","Witness2"],docDefs.AccoKey)
-    let marrg = Utilities.Extract( marriages, ["Groom","Bride", "GroomFather", "GroomMother", "BrideFather", "BrideMother"],docDefs.AccoKey)
+    let b1700 = Utilities.Extract( birth1700, ["Name", "Family","Godfather", "Godmother"] ,docDefs.IgnoreKey);
+    let b1800 = Utilities.Extract( birth1800, ["Name", "Father", "Mother","Godfather", "Godmother"],docDefs.IgnoreKey );
+    let death = Utilities.Extract( deathDocs, ["Name","Father", "Mother", "Spouse","Witness1","Witness2"],docDefs.IgnoreKey)
+    let marrg = Utilities.Extract( marriages, ["Groom","Bride", "GroomFather", "GroomMother", "BrideFather", "BrideMother"],docDefs.IgnoreKey)
 
     let names = merge(b1700, merge(b1800,merge(death,marrg)))
 
