@@ -28,7 +28,7 @@ export default function  AppHelp ({handleClose, open}) {
                 <center><img src="viewtree.gif" alt="how to navigate the tree"/></center>
               </DialogContentText>
               <DialogContentText id="alert-dialog-description">
-                You can use the <b>Search Box</b> <img src="searchbox.png" alt="search box"/> at the top to locate quickly one individual typing his name or index (the nunber reported close to his name).
+                You can use the <b>Search Box</b> <img src="SearchBox.png" alt="search box"/> at the top to locate quickly one individual typing his name or index (the nunber reported close to his name).
               </DialogContentText>
               <DialogContentText id="alert-dialog-description">
                 If you find any error or any inaccuracies, please <a href="mailto:vittorio.accomazzi+accomazzo@gmail.com?subject=Error in Accomazzo Tree&body=Please describe the error you have encountered">let us know</a>
