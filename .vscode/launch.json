@@ -7,6 +7,16 @@
         {
             "type": "node",
             "request": "launch",
+            "name": "Debug SvgParser",
+            "cwd": "${workspaceRoot}/tree",
+            "program": "${workspaceFolder}/tree/src/Tools/SvgParser.js",
+            "skipFiles": [
+                "<node_internals>/**"
+            ]
+        },
+        {
+            "type": "node",
+            "request": "launch",
             "name": "Debug Names",
             "program": "${workspaceFolder}/src/docPreProcessing/Names.js",
             "skipFiles": [

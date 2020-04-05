@@ -17,7 +17,7 @@ const dstFld= null; // do not check the image path
     // check that input file exists
     if( !fs.existsSync(srcCsv ) ){
         console.error("Error : file "+srcCsv+" not found !");
-        exit;
+        process.exit(-1);
     }
 
     try

@@ -3,6 +3,8 @@ import {INITIAL_VALUE, ReactSVGPanZoom, ALIGN_LEFT, ALIGN_CENTER, TOOL_AUTO} fro
 import AccomazzoTree from './AccomazzoFamilyTree'
 
 let graph = require('./SvgInfo.json');
+const xBox = 150; // box size.
+const yBox = 60;
 
 export default class Tree extends React.PureComponent {
 
@@ -13,12 +15,17 @@ export default class Tree extends React.PureComponent {
     this.point  = null
   }
 
-
-
   componentDidMount() {
     this.Viewer.fitToViewer(ALIGN_LEFT, ALIGN_CENTER)
   }
 
+  componentDidUpdate(prevProps) {
+    if (this.props.position !== prevProps.position && this.props.position ) {
+      this.Viewer.setPointOnViewerCenter(this.props.position.x+xBox/2,this.props.position.y+yBox/2,1.0);
+    }
+  }
+
+  componentDidMount
   changeTool(nextTool) {
     this.setState({tool: nextTool})
   }
@@ -28,16 +35,13 @@ export default class Tree extends React.PureComponent {
   }
 
   handleClick(e) {
-    
     let userAgentString = navigator.userAgent;
     let isChrome = userAgentString.indexOf("Chrome") > -1 ||  userAgentString.indexOf("CriOS") > -1; 
     let isSafari = userAgentString.indexOf("Safari") > -1 && !isChrome;
     let isTouch  = 'ontouchstart' in window || navigator.msMaxTouchPoints; // notice modern Safari do not have iPad or iPhone in ua
 
-    let xTollerance = 150;
-    let yTollerance = 60;
-    let minDx = 2*xTollerance;
-    let minDy = 2*yTollerance;
+    let minDx = 2*xBox;
+    let minDy = 2*yBox;
     let url = null;
 
     graph.list.forEach((i)=>{
@@ -50,7 +54,7 @@ export default class Tree extends React.PureComponent {
       }
     })
 
-    if( minDx < xTollerance && minDy < yTollerance && url ) window.open(url, (isTouch && isSafari) ? "_self" : "_blank");
+    if( minDx < xBox && minDy < yBox && url ) window.open(url, (isTouch && isSafari) ? "_self" : "_blank");
   }
 
   handleTouchStart (e){

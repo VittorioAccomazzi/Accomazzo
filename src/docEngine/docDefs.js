@@ -1,4 +1,4 @@
-exports.AccoKey =  "ACCO" // this will account for Accomazzo, Accomazzi, Accomasso, Accomatia
+exports.AccoKey =  "ACCOM" // this will account for Accomazzo, Accomazzi, Accomasso, Accomatia
 exports.JsonFolder = "src/docEngine/json/" // location json file with document content
 exports.PublicFolder= "Public/"
 exports.DocsBaseUrl = "https://accomazzo-document.s3.amazonaws.com/" // location document images

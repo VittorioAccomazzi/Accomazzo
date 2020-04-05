@@ -11,7 +11,7 @@ const readline = require('readline');
 
     if( !fs.existsSync(srcFile ) ){
         console.error("Error : file "+srcFile+" not found !");
-        exit;
+        process.exit(-1);
     }
 
     const rl = readline.createInterface({
@@ -38,7 +38,8 @@ const readline = require('readline');
             lastPos = null;
         } 
 
-        let p=extract('<text fill="#000" transform="translate(', ')', line);
+        let p=extract('<text fill="#000" transform="translate(', ')', line) ||  // extrat line for names.
+              extract('<g transform="translate(',')', line);                    // extract line for circle.
         if( p ){
             lastPos = p.split(" ");
             lastName= null;
@@ -47,7 +48,7 @@ const readline = require('readline');
         let n=extract('{"','"', line);
         if( n ) lastName = n;
 
-        if( lastLink && lastPos && lastName ){
+        if( lastPos && lastName ){
             svgInfo.list.push({
                 name : lastName,
                 link : lastLink,
@@ -57,8 +58,8 @@ const readline = require('readline');
                 }
             })
             lastLink = null;
+            lastPos  = null;
         }
-
     })
 
     rl.on('close', ()=>{

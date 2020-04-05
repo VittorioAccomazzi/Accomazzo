@@ -1,18 +1,12 @@
 import React from 'react';
 import Paper from '@material-ui/core/Paper';
-import { makeStyles } from '@material-ui/core/styles';
 import TreeSizer from './TreeSizer';
 
 
-const useStyles = makeStyles(theme => ({
-
-}));
-
-export default function DataView ({paperClass}) {
-    const classes = useStyles();
+export default function DataView ({paperClass, position}) {
     return (
         <Paper className={paperClass} >
-            <TreeSizer />
+            <TreeSizer position = {position}/>
         </Paper>
     )
 }
