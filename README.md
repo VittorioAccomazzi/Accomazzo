@@ -1,22 +1,9 @@
-# Accomazzo
-This web site is the front end for the Accomazzo document search web app.
-Uses React-redux and it is designed to be hosted on AWS S3
+# Accomazzo Web Site
+The web site is live at the [Accomazzo Documents](https://accomazzo-app.s3.amazonaws.com/index.html) Web site. 
+Documents are linked from the [Accomazzo Tree](https://accomazzo-app.s3.amazonaws.com/tree/index.html) Web Site.
+The images of the document needs to be whitelisted when accessed from a browser. the video below shows how to use the application.
+[![Accomazzo Genealogy Web Site](http://img.youtube.com/vi/PJEN77-Qv8E/0.jpg)](http://www.youtube.com/watch?v=PJEN77-Qv8E)
 
+### The Application
+This application uses  React-redux and it is designed to be hosted on AWS S3
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Important Notice
-
-Application relies on a set of json file which contains the list of the documents.
-These json file are generated processing the csv file in the `Data` folder with the 
-application in the `src/docPreProcessing` folder. The processing is triggered by 
-the command :
-`npm run processing` 
-if you don't run this command, the application **will not** compile. 
-This command will run automatically for the build, but not when you use 'npm start' for debugging.
-Notice that the command will print out several information, for instance record which do not
-contains any Accomazzo record.
-
-## The Web Site
-
-The web site is live at https://accomazzo-app.s3.amazonaws.com/index.html.
-The images of the document are stored in a separate S3 bucket. The access needs to be whitelisted.

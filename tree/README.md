@@ -1,5 +1,3 @@
 # Accomazzo Family Tree
-This web site is the front end for the Accomazzo document search web app.
-Uses React-redux and it is designed to be hosted on AWS S3
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This application is lve at the [Accomazzo Tree](https://accomazzo-app.s3.amazonaws.com/tree/index.html) Web Site.
