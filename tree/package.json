@@ -12,6 +12,7 @@
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-ga": "^2.7.0",
     "react-redux": "^7.2.0",
     "react-scripts": "3.4.1",
     "react-svg-pan-zoom": "^3.8.0",

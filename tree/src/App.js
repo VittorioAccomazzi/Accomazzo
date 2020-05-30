@@ -9,6 +9,9 @@ import Button from '@material-ui/core/Button';
 import AppHelp from './AppHelp';
 import AppSearch from './AppSearch';
 import Hidden from '@material-ui/core/Hidden';
+import { useEffect } from 'react';
+import ReactGA from 'react-ga';
+import './App.css'
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -33,6 +36,11 @@ function App() {
   const classes = useStyles();
   const [open, setOpen] = React.useState(false);
   const [position, setPosition] = React.useState(null);
+
+  useEffect(()=>{
+    ReactGA.initialize('UA-168075958-1');
+    ReactGA.pageview(window.location.pathname + window.location.search);
+  },[])
 
   const handleClickOpen = () => {
     setOpen(true);

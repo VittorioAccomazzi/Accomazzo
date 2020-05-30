@@ -15,6 +15,7 @@
     "query-string": "^5.1.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "react-ga": "^2.7.0",
     "react-redux": "^7.2.0",
     "react-scripts": "3.4.0",
     "redux": "^4.0.5",
@@ -24,7 +25,7 @@
     "process": "node src/tools/gitInfo.js  && node src/docPreProcessing/Birth1700.js &&  node src/docPreProcessing/Birth1800.js && node src/docPreProcessing/Death.js && node src/docPreProcessing/Marriage.js && node src/docPreProcessing/Names.js",
     "start": "react-scripts start",
     "build": "npm run process && react-scripts build && cd tree && npm run build",
-    "deploy" : "aws s3 sync build/ s3://accomazzo-app/ --profile s3-accomazzo",
+    "deploy": "aws s3 sync build/ s3://accomazzo-app/ --profile s3-accomazzo",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

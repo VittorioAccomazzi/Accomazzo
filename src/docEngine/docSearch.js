@@ -1,4 +1,5 @@
 import  {docTypes} from './docTypes'
+import ReactGA from 'react-ga';
 const docDefs = require('./docDefs') 
 
 let birth1700 = require("./json/"+docDefs.Birth1700.json);
@@ -12,7 +13,13 @@ let types = {
     [docTypes.Marriage]   : marriages
  };
 
+ export function trackingInit(){
+    ReactGA.initialize('UA-168075958-1');
+    ReactGA.pageview(window.location.pathname + window.location.search); 
+ }
+
  export function documentInit(){
+
      Object.entries(types).forEach(([key, value])=>{
         value.forEach((doc,i)=>{
             doc.key=key+"-"+i;

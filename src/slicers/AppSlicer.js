@@ -1,5 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit"
-import { documentInit, documentSearch, documentByID } from '../docEngine/docSearch'
+import { trackingInit, documentInit, documentSearch, documentByID } from '../docEngine/docSearch'
 const queryString = require('query-string');
 
 const AppSlicer = createSlice({
@@ -15,6 +15,7 @@ const AppSlicer = createSlice({
 })
 
 function generateState(){
+    trackingInit();
     documentInit();
     let param = queryString.parse(window.location.search);
     return documentByID( param.show )
