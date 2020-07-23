@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="https://accomazzo-app.s3.amazonaws.com/icon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Accomazzo Family Web Site"
+    />
+    <link rel="apple-touch-icon" href="https://accomazzo-app.s3.amazonaws.com/icon.png" />
+    <title>Accomazzo Tree</title>
+    <style type="text/css">
+        #main {
+            position:absolute;
+            top:0;
+            bottom:0;
+            left:0;
+            right:0;
+        }
+        #frame {
+            border-width: 0;
+        }
+    </style>
+</head>
+    <body>
+        <div id="main">
+            <iframe src="https://accomazzo-app.s3.amazonaws.com/tree/index.html"  width="100%" height="100%" id="frame" >the browser doesn't support iFrame</iframe>
+        </div>
+    </body>
+    <script type="text/javascript">
+        var documentURL="https://accomazzo-app.s3.amazonaws.com/index.html"; 
+        if(window.location.search != "" ){
+            var fullUrl = documentURL+window.location.search;
+            document.getElementById('frame').src=fullUrl;
+        }
+    </script>
+</html>
+

@@ -16,6 +16,7 @@ import { Grid } from "@material-ui/core";
 import copy from 'copy-to-clipboard';
 
 const Doc =  ({year, name, icon, url, id, children}) => {
+    const siteUrl='http://accomazzo.org/';
     const timer = React.useRef(null);
     const classes = DocStyle();
     const [state, setState] = React.useState({
@@ -35,7 +36,7 @@ const Doc =  ({year, name, icon, url, id, children}) => {
             expanded:state.expanded,
             copied : true
         });
-        let url = window.location.origin+window.location.pathname+"?show="+id;
+        let url = siteUrl+"?show="+id;
         if( e.shiftKey )  url = id;
         copy(url);
         timer.current = setTimeout( ()=>{
