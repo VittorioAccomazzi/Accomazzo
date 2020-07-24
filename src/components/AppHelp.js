@@ -44,7 +44,7 @@ export default function  AppHelp ({handleClose, open}) {
               </DialogContentText>
               <DialogContentText id="alert-dialog-description">
                 <small>{ (gitInfo.long == null)  && (`Application Developer Version`)}
-                       { (gitInfo.long != null)  && (<a href={"https://github.com/VittorioAccomazzi/Accomazzo/"+gitInfo.long} target="_blank"> Application Version {gitInfo.version}</a> 
+                       { (gitInfo.long != null)  && (<a href={"https://github.com/VittorioAccomazzi/Accomazzo/tree/"+gitInfo.long} target="_blank"> Application Version {gitInfo.version}</a> 
                        )} </small>
               </DialogContentText>
             </DialogContent>
