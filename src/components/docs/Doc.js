@@ -107,7 +107,7 @@ const Doc =  ({year, name, icon, url, id, children}) => {
                         </Typography>
                     </Link>
                     <Link underline='hover' color="textSecondary"
-                        href= { "mailto:vittorio.accomazzi+accomazzo@gmail.com?subject=Report on "+name+" "+year+"("+id+")&body=Please describe the error you have encountered.%0D%0A%0D%0AThe document URL is : "+url}>
+                        href= { "mailto:vittorio.accomazzi+accomazzo@gmail.com?subject=Report on "+name+" "+year+"("+id+")&body=Please describe the error you have encountered.%0D%0A%0D%0AThe document URL is : "+url} target="_blank">
                         <Typography
                             className={"MuiTypography--heading"}
                             variant="caption"
