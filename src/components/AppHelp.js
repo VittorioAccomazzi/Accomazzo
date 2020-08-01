@@ -5,6 +5,7 @@ import DialogActions from '@material-ui/core/DialogActions';
 import DialogContent from '@material-ui/core/DialogContent';
 import DialogContentText from '@material-ui/core/DialogContentText';
 import DialogTitle from '@material-ui/core/DialogTitle';
+import ReactGA from 'react-ga';
 
 
 const gitInfo = require('../tools/gitInfo.json');
@@ -39,12 +40,12 @@ export default function  AppHelp ({handleClose, open}) {
                 <center><img src="Search.gif" alt="how to search"/></center>
               </DialogContentText>
               <DialogContentText id="alert-dialog-description">
-                The documents have been manually typed in, and automatically corrected. <a href="Names.csv">Here</a> you can download the list of the names which appears in the documents,
-                and <a href="Corrections.csv">here</a> you can download the correction done. If you find an error please use the link <b>Report Error</b> in the record of the document to let us know.
+                The documents have been manually typed in, and automatically corrected. <ReactGA.OutboundLink eventLabel="Name Download" to="Names.csv">Here</ReactGA.OutboundLink> you can download the list of the names which appears in the documents,
+                and <ReactGA.OutboundLink eventLabel="Correction Download" to="Corrections.csv">here</ReactGA.OutboundLink> you can download the correction done. If you find an error please use the link <b>Report Error</b> in the record of the document to let us know.
               </DialogContentText>
               <DialogContentText id="alert-dialog-description">
                 <small>{ (gitInfo.long == null)  && (`Application Developer Version`)}
-                       { (gitInfo.long != null)  && (<a href={"https://github.com/VittorioAccomazzi/Accomazzo/tree/"+gitInfo.long} target="_blank"> Application Version {gitInfo.version}</a> 
+                       { (gitInfo.long != null)  && (<ReactGA.OutboundLink eventLabel="Github Link" to={"https://github.com/VittorioAccomazzi/Accomazzo/tree/"+gitInfo.long} target="_blank"> Application Version {gitInfo.version}</ReactGA.OutboundLink> 
                        )} </small>
               </DialogContentText>
             </DialogContent>

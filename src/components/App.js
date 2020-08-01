@@ -8,7 +8,8 @@ import Typography from '@material-ui/core/Typography';
 import Paper from '@material-ui/core/Paper';
 import { makeStyles } from '@material-ui/core/styles';
 import Button from '@material-ui/core/Button';
-import AppHelp from './AppHelp'
+import AppHelp from './AppHelp';
+import ReactGA from 'react-ga';
 
 const useStyles = makeStyles(theme => ({
     root: {
@@ -30,6 +31,10 @@ export default function  App () {
   const [open, setOpen] = React.useState(false);
 
   const handleClickOpen = () => {
+    ReactGA.event({
+      category : 'User',
+      action : 'Open Database Help'
+    });
     setOpen(true);
   };
 
