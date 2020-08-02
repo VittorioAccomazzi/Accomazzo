@@ -4,7 +4,7 @@ const readline = require('readline');
 ( async ()=>{
 
     let srcSite = 'https://accomazzo-app.s3.amazonaws.com/index.html';
-    let dstSite = 'http://accomazzo.org/';
+    let dstSite = 'https://accomazzo.org/';
     let srcFile = 'src/components/AccomazzoFamilyTree.tmp';
     let dstFile = 'src/components/SvgInfo.json';
     let svgInfo = {

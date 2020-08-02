@@ -14,9 +14,10 @@ import FormLabel from '@material-ui/core/FormLabel';
 import Link from '@material-ui/core/Link';
 import { Grid } from "@material-ui/core";
 import copy from 'copy-to-clipboard';
+import ReactGA from 'react-ga';
 
 const Doc =  ({year, name, icon, url, id, children}) => {
-    const siteUrl='http://accomazzo.org/';
+    const siteUrl='https://accomazzo.org/';
     const timer = React.useRef(null);
     const classes = DocStyle();
     const [state, setState] = React.useState({
@@ -46,6 +47,10 @@ const Doc =  ({year, name, icon, url, id, children}) => {
             });
             timer.current = null;   
         }, 1000);
+        ReactGA.event({
+            category : 'User',
+            action : 'Copy Link'
+        });
     }
 
     React.useEffect(()=> {

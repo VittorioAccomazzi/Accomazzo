@@ -69,6 +69,14 @@ function App() {
     setHistory(false);
   }
 
+  const setSearchPos= ( pos )=>{
+    setPosition(pos);
+    ReactGA.event({
+      category : 'User',
+      action : 'Search'
+    });
+  }
+
   return (
     <div className={classes.root}>
     <AppBar position="static">
@@ -78,7 +86,7 @@ function App() {
             Accomazzo Tree
           </Typography>
         </Hidden>
-        <AppSearch setPosition={setPosition}/>
+        <AppSearch setPosition={setSearchPos}/>
         { showHistoryLink &&
           <>
             <Hidden smDown>
