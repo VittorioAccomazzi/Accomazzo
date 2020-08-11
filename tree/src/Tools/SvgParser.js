@@ -74,11 +74,12 @@ const readline = require('readline');
 
 function extract( key, end, line ){
     let val = null;
-    if( line.startsWith(key)){
+    let pos = line.indexOf(key);
+    if( pos >=0 ){
         // extract the numbers following
-        let eIndex = line.indexOf(end, key.length);
+        let eIndex = line.indexOf(end, pos+key.length);
         if( eIndex >=0 ){
-            val = line.substring(key.length, eIndex);
+            val = line.substring(pos+key.length, eIndex);
         }
     }
     return val;

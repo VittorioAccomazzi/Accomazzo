@@ -7,6 +7,7 @@ const readline = require('readline');
     let tlpFile = 'src/components/AccomazzoFamilyTree.tpl.js'
     let dstFile = 'src/components/AccomazzoFamilyTree.js';
     let parsing= false;
+    let linkTag= false;
     let svg=""
 
 
@@ -27,11 +28,9 @@ const readline = require('readline');
         if( !parsing ) parsing = tline.startsWith("<svg")
 
         if( parsing ){
-            let l=extract('xlinkHref="', '"', tline);
-            if ( l ){
-                line = ''; // remove the link
-            }
-            svg += line+"\n";
+            if( !linkTag ) linkTag = startLink(line) || closeLink(line);
+            if( !linkTag ) svg += line+"\n";
+            if( linkTag ) linkTag = !closeTag(line);
         } 
 
         if( parsing ) parsing = !(tline.startsWith("</svg>"))
@@ -46,15 +45,17 @@ const readline = require('readline');
 
 })();
 
-
-function extract( key, end, line ){
-    let val = null;
-    if( line.startsWith(key)){
-        // extract the numbers following
-        let eIndex = line.indexOf(end, key.length);
-        if( eIndex >=0 ){
-            val = line.substring(key.length, eIndex);
-        }
-    }
-    return val;
+function startLink( line ){
+    return normalize(line).startsWith("<a");
+}
+function closeTag( line ){
+    return normalize(line).indexOf(">") >=0;
+}
+function closeLink( line ){
+    return normalize(line).startsWith("</a");
+}
+function normalize( line ){
+   return line
+        .replace(/\s/g, "") // remove all the spaces
+        .toLowerCase(); 
 }
