@@ -24,6 +24,7 @@ const readline = require('readline');
     let lastLink = null;
     let lastPos  = null;
     let lastName = null;
+    let lastDate = null;
 
     rl.on('line', async (line)=>{
         line = line.trim();
@@ -48,17 +49,29 @@ const readline = require('readline');
         } 
 
         let n=extract('{"','"', line);
-        if( n ) lastName = n;
+        if( n ){ 
+            if(n.startsWith('(')) lastDate =n
+            else {
+                lastName = n.replace(/^and /,"")
+                            .replace(/^e /,"")
+                            .replace(/ e$/,"")
+                            .replace(/ and$/,"")
+            }
+        }
 
-        if( lastPos && lastName ){
+        let textClosed = extract('</tex','>', line);
+
+        if( lastPos && textClosed ){
             svgInfo.list.push({
-                name : lastName,
+                name : lastName + ( lastDate ? " "+lastDate : "" ), 
                 link : lastLink,
                 pos : {
                     x : parseInt(lastPos[0]),
                     y : parseInt(lastPos[1])
                 }
             })
+            lastName = null;
+            lastDate = null;
             lastLink = null;
             lastPos  = null;
         }
