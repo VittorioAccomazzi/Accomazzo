@@ -41,6 +41,9 @@ const useStyles = makeStyles(theme => ({
       [theme.breakpoints.up('sm')]: {
         width: '256px',
       },
+      [theme.breakpoints.up('md')]: {
+        width: '512px',
+      },
     },
     listBox : {
       fontSize : 'small',
