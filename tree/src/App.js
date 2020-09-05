@@ -38,7 +38,7 @@ function App() {
   const [help, setHelp] = React.useState(false);
   const [history, setHistory] = React.useState(false);
   const [position, setPosition] = React.useState(null);
-  const showHistoryLink = false;
+  const showHistoryLink = true;
 
   useEffect(()=>{
     ReactGA.initialize('UA-168075958-1');

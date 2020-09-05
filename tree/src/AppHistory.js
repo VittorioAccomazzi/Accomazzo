@@ -30,7 +30,7 @@ export default function  AppHistory ({handleClose, open}) {
                         </td>
                         <td>
                             Learn the history of the people in this tree :
-                            <li>Download the <ReactGA.OutboundLink eventLabel="Book Download" to="https://accomazzo-book.s3.amazonaws.com/Accomazzo.online.pdf" target="_blank">Accomazzo Family History</ReactGA.OutboundLink>.</li>
+                            <li>Download the <ReactGA.OutboundLink eventLabel="Book Download" to="https://accomazzo-book.s3.amazonaws.com/Accomazzo.online.pdf" target="_blank">Accomazzo Family History book</ReactGA.OutboundLink>.</li>
                             <li>Order a printed copy of the <ReactGA.OutboundLink eventLabel="Book Order" to="https://www.lulu.com/en/ca/shop/tonino-accomazzo-and-pierluigi-accomazzo-and-anna-bignoli-and-luis-angel-accomazzo/accomazzo/paperback/product-mzj8zg.html" target="_blank">Accomazzo Family History book</ReactGA.OutboundLink>.</li>
                         </td>
                     </tr>
