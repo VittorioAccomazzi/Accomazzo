@@ -4632,9 +4632,9 @@
     <path d="M 0 100 L 0 50 L 5295 50 L 5295 0" fill="none" transform="translate(5010.5 990.5)"/>
     <path d="M 565 50 L 565 0 L 0 1e-13" fill="none" transform="translate(10300.5 1040.5)"/>
     <path d="M 75 50 L 75 0 L 1e-13 1e-13" fill="none" transform="translate(10640.5 1040.5)"/>
-    <path d="M 0 100 L 0 50 L 160 50 L 160 0" fill="none" transform="translate(11065.5 990.5)"/>
-    <path d="M 0 80 L 0 30 L 10 30 L 10 0" fill="none" transform="translate(11215.5 1010.5)"/>
-    <path d="M 175 100 L 175 50 L 0 50 L 1e-13 1e-13" fill="none" transform="translate(11225.5 990.5)"/>
+    <path d="M 0 105 L 0 55 L 260 55 L 260 0" fill="none" transform="translate(11065.5 985.5)"/>
+    <path d="M 0 85 L 0 35 L 110 35 L 110 0" fill="none" transform="translate(11215.5 1005.5)"/>
+    <path d="M 75 125 L 75 75 L 0 75 L 1e-13 0" fill="none" transform="translate(11325.5 965.5)"/>
     <path d="M 180 50 L 180 0 L 1e-13 1e-13" fill="none" transform="translate(11385.5 1040.5)"/>
     <path d="M 0 100 L 1e-13 1e-13 L 5900 0" fill="none" transform="translate(4325.5 840.5)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Birth_1800-443">
@@ -5344,7 +5344,7 @@
         <g>
             <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan x="75" y="21.22">Roland Philips</tspan>
+                <tspan x="75" y="21.22">Ronald Philips</tspan>
                 <tspan x="75" y="38.02">(1943-)</tspan>
             </text>
         </g>
@@ -5801,4 +5801,58 @@
     <path fill="none" d="M 0 100 L 0 50 L 65 50 L 65 0" transform="translate(17285.5 1440.5)"/>
     <path fill="none" d="M 85 100 L 85 50 L 0 50 L 1e-13 0" transform="translate(17350.5 1440.5)"/>
     <path fill="none" d="M 235 100 L 235 50 L 0 50 L 1e-13 0" transform="translate(17350.5 1440.5)"/>
+    <g transform="translate(4935.5 1690.5)">
+        <rect height="50" width="140" x="0" y="0"/>
+        <g>
+            <rect x="0" y="0" width="140" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="70" y="21.22">Diana Louise Bell</tspan>
+                <tspan x="70" y="38.02">(1960-)</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(5125.5 1690.5)">
+        <rect height="50" width="150" x="0" y="0"/>
+        <g>
+            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="75" y="21.22">Erica Ann Bell</tspan>
+                <tspan x="75" y="38.02">(1967-)</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(4735.5 1690.5)">
+        <rect height="50" width="140" x="0" y="0"/>
+        <g>
+            <rect x="0" y="0" width="140" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="70" y="21.22">Arlene Claudia Bell</tspan>
+                <tspan x="70" y="38.02">(1958-)</tspan>
+            </text>
+        </g>
+    </g>
+    <path fill="none" d="M 0 125 L 0 75 L 280 75 L 280 0" transform="translate(4805.5 1565.5)"/>
+    <path fill="none" d="M 0 100 L 0 50 L 80 50 L 80 0" transform="translate(5005.5 1590.5)"/>
+    <path fill="none" d="M 115 100 L 115 50 L 0 50 L 1e-13 0" transform="translate(5085.5 1590.5)"/>
+    <g transform="translate(4735.5 1850.5)">
+        <rect height="30" width="140" x="0" y="0"/>
+        <g>
+            <rect x="0" y="0" width="140" height="30" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="70" y="19.62">Leann</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(4735.5 1990.5)">
+        <rect height="50" width="140" x="0" y="0"/>
+        <g>
+            <rect x="0" y="0" width="140" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="70" y="21.22">Elyee</tspan>
+                <tspan x="70" y="38.02">(2007-)</tspan>
+            </text>
+        </g>
+    </g>
+    <path fill="none" d="M 0 110 L 0 55 L 0 55 L 1e-13 0" transform="translate(4805.5 1740.5)"/>
+    <path fill="none" d="M 0 110 L 0 55 L 0 55 L 1e-13 0" transform="translate(4805.5 1880.5)"/>
 </svg>
