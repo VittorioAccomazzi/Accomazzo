@@ -8344,7 +8344,7 @@
     <path d="M 0 0 Q 11 0 11 15" fill="none" transform="translate(2419.5 825.5)"/>
     <path d="M 0 15 Q 0 0 10 0" fill="none" transform="translate(2940.5 825.5)"/>
     <path d="M 0 0 Q 11 0 11 15" fill="none" transform="translate(2950.5 825.5)"/>
-    <path fill="none" d="M 1e-13 1e-13 L 547.5 0 L 547.5 0 L 1345 0" transform="translate(2960.5 840.5)"/>
+    <path fill="none" d="M 1e-13 1e-13 L 547.5 0 L 547.5 0 L 1489 0" transform="translate(2960.5 840.5)"/>
     <path fill="none" d="M 0 100 L 0 50 L 0 50 L 1e-13 0" transform="translate(4305.5 840.5)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Birth_1800-441">
         <g transform="translate(4500.5 1240.5)">
@@ -8564,4 +8564,30 @@
         </g>
     </g>
     <path fill="none" d="M 1e-13 1e-13 L 22.5 0 L 22.5 0 L 40 0" transform="translate(3375.5 1115.5)"/>
+    <a xlink:href="https://accomazzo.org/?show=Birth_1800-145,Marriage-217">
+        <g transform="translate(4555.5 940.5)">
+            <rect height="50" width="100" x="0" y="0" stroke-width="3"/>
+            <g>
+                <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="50" y="21.22">Rosa</tspan>
+                    <tspan x="50" y="38.02">(1860-)</tspan>
+                </text>
+            </g>
+        </g>
+    </a>
+    <g transform="translate(4705.5 950.5)">
+        <rect height="30" width="110" x="0" y="0"/>
+        <g>
+            <rect x="0" y="0" width="110" height="30" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="55" y="19.62">Angelo Berruti</tspan>
+            </text>
+        </g>
+    </g>
+    <path fill="none" d="M 1e-13 1e-13 L 25 0 L 25 0 L 50 0" transform="translate(4655.5 965.5)"/>
+    <path fill="none" d="M 0 135 L 0 75 L 67.5 75 L 67.5 0" transform="translate(4613 965.5)"/>
+    <path fill="none" d="M 135 100 L 135 0 L 1e-13 1e-13" transform="translate(4470.5 840.5)"/>
+    <path d="M 0 15 Q 0 0 10 0" fill="none" transform="translate(4449.5 825.5)"/>
+    <path d="M 1e-13 1e-13 Q 11 0 11 15" fill="none" transform="translate(4459.5 825.5)"/>
 </svg>
