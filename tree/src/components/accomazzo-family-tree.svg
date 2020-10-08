@@ -8614,7 +8614,7 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 1e-13 1e-13 L 25 0 L 25 0 L 50 0" transform="translate(35570.5 1265.5)"/>
+    <path d="M 1e-13 1e-13 L 25 0 L 25 0 L 50 0" fill="none" transform="translate(35570.5 1265.5)"/>
     <a xlink:href="https://accomazzo.org/?show=Birth_1800-511">
         <g transform="translate(35905.5 1240.5)">
             <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
@@ -8649,7 +8649,7 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 0 125 L 0 62.5 L 0 62.5 L 1e-13 0" transform="translate(35595.5 1265.5)"/>
+    <path d="M 0 125 L 0 62.5 L 0 62.5 L 1e-13 0" fill="none" transform="translate(35595.5 1265.5)"/>
     <a xlink:href="https://accomazzo.org/?show=Birth_1800-308">
         <g transform="translate(35355.5 940.5)">
             <rect height="50" stroke-width="3" width="100" x="0" y="0"/>
@@ -8671,10 +8671,10 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 1e-13 1e-13 L 25 0 L 25 0 L 50 0" transform="translate(35455.5 965.5)"/>
-    <path fill="none" d="M 0 275 L 0 225 L 210 225 L 210 0" transform="translate(35270.5 965.5)"/>
-    <path fill="none" d="M 15 85 L 15 35 L 0 35 L 1e-13 0" transform="translate(35480.5 1155.5)"/>
-    <path fill="none" d="M 490 50 L 490 0 L 0 1e-13" transform="translate(35490.5 1190.5)"/>
+    <path d="M 1e-13 1e-13 L 25 0 L 25 0 L 50 0" fill="none" transform="translate(35455.5 965.5)"/>
+    <path d="M 0 275 L 0 225 L 210 225 L 210 0" fill="none" transform="translate(35270.5 965.5)"/>
+    <path d="M 15 85 L 15 35 L 0 35 L 1e-13 0" fill="none" transform="translate(35480.5 1155.5)"/>
+    <path d="M 490 50 L 490 0 L 0 1e-13" fill="none" transform="translate(35490.5 1190.5)"/>
     <a xlink:href="https://accomazzo.org/?show=Birth_1800-270">
         <g transform="translate(35700.5 940.5)">
             <rect height="50" stroke-width="3" width="105" x="0" y="0"/>
@@ -8708,7 +8708,7 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 1e-13 1e-13 L 25 0 L 25 0 L 50 0" transform="translate(36205.5 965.5)"/>
+    <path d="M 1e-13 1e-13 L 25 0 L 25 0 L 50 0" fill="none" transform="translate(36205.5 965.5)"/>
     <a xlink:href="https://accomazzo.org/?show=Birth_1800-364">
         <g transform="translate(35855.5 940.5)">
             <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
@@ -8766,7 +8766,7 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 1e-13 1e-13 L 25 0 L 25 0 L 50 0" transform="translate(35955.5 765.5)"/>
+    <path d="M 1e-13 1e-13 L 25 0 L 25 0 L 50 0" fill="none" transform="translate(35955.5 765.5)"/>
     <a xlink:href="https://accomazzo.org/?show=Birth_1800-86,Marriage-187">
         <g transform="translate(36175.5 740.5)">
             <rect height="50" stroke-width="3" width="100" x="0" y="0"/>
@@ -8788,7 +8788,7 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 1e-13 1e-13 L 25 0 L 25 0 L 50 0" transform="translate(36275.5 765.5)"/>
+    <path d="M 1e-13 1e-13 L 25 0 L 25 0 L 50 0" fill="none" transform="translate(36275.5 765.5)"/>
     <a xlink:href="https://accomazzo.org/?show=Birth_1800-67">
         <g transform="translate(35705.5 740.5)">
             <rect height="50" stroke-width="3" width="100" x="0" y="0"/>
@@ -8822,7 +8822,7 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 1e-13 1e-13 L 25 0 L 25 0 L 50 0" transform="translate(35495.5 765.5)"/>
+    <path d="M 1e-13 1e-13 L 25 0 L 25 0 L 50 0" fill="none" transform="translate(35495.5 765.5)"/>
     <a xlink:href="https://accomazzo.org/?show=Birth_1800-134">
         <g transform="translate(36495.5 740.5)">
             <rect height="50" stroke-width="3" width="100" x="0" y="0"/>
@@ -8844,7 +8844,7 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 1e-13 1e-13 L 25 0 L 25 0 L 50 0" transform="translate(35970.5 565.5)"/>
+    <path d="M 1e-13 1e-13 L 25 0 L 25 0 L 50 0" fill="none" transform="translate(35970.5 565.5)"/>
     <g transform="translate(35870.5 550.5)">
         <rect height="30" width="100" x="0" y="0"/>
         <g>
@@ -8863,16 +8863,27 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 0 120 L 0 65 L 0 65 L 1e-13 0" transform="translate(35920.5 430.5)"/>
-    <path fill="none" d="M 0 175 L 0 75 L 575 75 L 575 0" transform="translate(35405.5 765.5)"/>
-    <path fill="none" d="M 0 100 L 0 50 L 0 50 L 1e-13 0" transform="translate(35753 840.5)"/>
-    <path fill="none" d="M 0 100 L 0 50 L 0 50 L 1e-13 0" transform="translate(35930.5 840.5)"/>
-    <path fill="none" d="M 150 150 L 150 50 L 0 50 L 1e-13 0" transform="translate(35980.5 790.5)"/>
-    <path fill="none" d="M 450 100 L 450 0 L 0 1e-13" transform="translate(36130.5 840.5)"/>
-    <path fill="none" d="M 200 100 L 200 0 L 0 1e-13" transform="translate(36580.5 840.5)"/>
-    <path fill="none" d="M 0 175 L 0 75 L 550 75 L 550 0" transform="translate(35445.5 565.5)"/>
-    <path fill="none" d="M 0 100 L 0 50 L 0 50 L 1e-13 0" transform="translate(35755.5 640.5)"/>
-    <path fill="none" d="M 0 100 L 0 50 L 0 50 L 1e-13 0" transform="translate(35905.5 640.5)"/>
-    <path fill="none" d="M 230 145 L 230 45 L 0 45 L 1e-13 0" transform="translate(35995.5 595.5)"/>
-    <path fill="none" d="M 320 100 L 320 0 L 1e-13 1e-13" transform="translate(36225.5 640.5)"/>
+    <path d="M 0 120 L 0 65 L 0 65 L 1e-13 0" fill="none" transform="translate(35920.5 430.5)"/>
+    <path d="M 0 175 L 0 75 L 575 75 L 575 0" fill="none" transform="translate(35405.5 765.5)"/>
+    <path d="M 0 100 L 0 50 L 0 50 L 1e-13 0" fill="none" transform="translate(35753 840.5)"/>
+    <path d="M 0 100 L 0 50 L 0 50 L 1e-13 0" fill="none" transform="translate(35930.5 840.5)"/>
+    <path d="M 150 150 L 150 50 L 0 50 L 1e-13 0" fill="none" transform="translate(35980.5 790.5)"/>
+    <path d="M 450 100 L 450 0 L 0 1e-13" fill="none" transform="translate(36130.5 840.5)"/>
+    <path d="M 200 100 L 200 0 L 0 1e-13" fill="none" transform="translate(36580.5 840.5)"/>
+    <path d="M 0 175 L 0 75 L 550 75 L 550 0" fill="none" transform="translate(35445.5 565.5)"/>
+    <path d="M 0 100 L 0 50 L 0 50 L 1e-13 0" fill="none" transform="translate(35755.5 640.5)"/>
+    <path d="M 0 100 L 0 50 L 0 50 L 1e-13 0" fill="none" transform="translate(35905.5 640.5)"/>
+    <path d="M 230 145 L 230 45 L 0 45 L 1e-13 0" fill="none" transform="translate(35995.5 595.5)"/>
+    <path d="M 320 100 L 320 0 L 1e-13 1e-13" fill="none" transform="translate(36225.5 640.5)"/>
+    <g transform="translate(22455.5 1840.5)">
+        <rect height="50" width="100" x="0" y="0"/>
+        <g>
+            <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="50" y="21.22">Aidan</tspan>
+                <tspan x="50" y="38.02">(2020-)</tspan>
+            </text>
+        </g>
+    </g>
+    <path fill="none" d="M 0 125 L 0 62.5 L 0 62.5 L 1e-13 0" transform="translate(22505.5 1715.5)"/>
 </svg>
