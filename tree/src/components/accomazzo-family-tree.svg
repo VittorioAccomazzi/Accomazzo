@@ -1919,7 +1919,7 @@
             <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
                 <tspan x="75" y="21.22">Giuseppina Cerrato</tspan>
-                <tspan x="75" y="38.02">(1855-)</tspan>
+                <tspan x="75" y="38.02">(1855-1928)</tspan>
             </text>
         </g>
     </g>
@@ -1930,7 +1930,7 @@
                 <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
                     <tspan x="75" y="21.22">Antonio Giuseppe</tspan>
-                    <tspan x="75" y="38.02">(1853-)</tspan>
+                    <tspan x="75" y="38.02">(1853-1935)</tspan>
                 </text>
             </g>
         </g>
@@ -2060,12 +2060,13 @@
             </text>
         </g>
     </g>
-    <g transform="translate(21445.5 950.5)">
-        <rect height="30" width="125" x="0" y="0"/>
+    <g transform="translate(21445.5 940.5)">
+        <rect height="50" width="160" x="0" y="0"/>
         <g>
-            <rect x="0" y="0" width="125" height="30" fill="none" stroke="none"/>
+            <rect x="0" y="0" width="160" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan x="62.5" y="19.62">Adele De Volpe</tspan>
+                <tspan x="80" y="21.22">Adele De Volpe</tspan>
+                <tspan x="80" y="38.02">(1848-1898)</tspan>
             </text>
         </g>
     </g>
