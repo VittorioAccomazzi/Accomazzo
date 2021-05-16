@@ -4274,7 +4274,7 @@
         </g>
     </g>
     <path d="M 2.5 100 L 2.5 0 L 0 1e-13" fill="none" stroke="#000" transform="translate(38070.5 840.5)"/>
-    <path d="M 1e-13 1e-13 L 25 0 L 25 0 L 1e-13 1e-13" fill="none" stroke="#000" transform="translate(38135.5 965.5)"/>
+    <path d="M 1e-13 1e-13 L 50 0 L 50 0 L 1e-13 1e-13" fill="none" stroke="#000" transform="translate(38135.5 965.5)"/>
     <g transform="translate(38185.5 940.5)">
         <rect height="50" width="130" x="0" y="0"/>
         <g class="Text.cls">
