@@ -27,8 +27,7 @@
     "build": "npm run process && react-scripts build && cd tree && npm run build",
     "predeploy" : "git diff-index --quiet HEAD",
     "deploy": "git tag deploy_`date '+%Y%m%d-%H%M%S'` && aws s3 sync build/ s3://accomazzo-app/ --profile s3-accomazzo && aws s3 sync main/ s3://accomazzo.org/ --profile s3-accomazzo",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "test": "react-scripts test"
   },
   "eslintConfig": {
     "extends": "react-app"

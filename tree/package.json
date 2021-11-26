@@ -21,12 +21,11 @@
     "typeface-roboto": "0.0.75"
   },
   "scripts": {
-    "process": "npx @svgr/cli src/components/accomazzo-family-tree.svg  > src/components/AccomazzoFamilyTree.tmp && node src/Tools/SvgParser.js && node src/Tools/SvgModifier.js",
+    "process": "npm_config_yes=true npx @svgr/cli src/components/accomazzo-family-tree.svg  > src/components/AccomazzoFamilyTree.tmp && node src/Tools/SvgParser.js && node src/Tools/SvgModifier.js",
     "start": "react-scripts start",
     "build": "npm run process && react-scripts build",
     "postbuild": "mv build ../build/tree",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "test": "react-scripts test"
   },
   "eslintConfig": {
     "extends": "react-app"
