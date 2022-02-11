@@ -55,15 +55,17 @@ const readline = require('readline');
                 lastName = n.replace(/^and /,"")
                             .replace(/^e /,"")
                             .replace(/ e$/,"")
-                            .replace(/ and$/,"")
+                            .replace(/ and$/,"")          
             }
         }
 
         let textClosed = extract('</tex','>', line);
 
         if( lastPos && textClosed ){
+            let name = lastName + ( lastDate ? " "+lastDate : "" )
+            name = name.replace(/\\xA0/g," ")
             svgInfo.list.push({
-                name : lastName + ( lastDate ? " "+lastDate : "" ), 
+                name, 
                 link : lastLink,
                 pos : {
                     x : parseInt(lastPos[0]),
