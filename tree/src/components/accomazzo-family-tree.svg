@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:v="http://vecta.io" width="41167" height="2041" viewBox="0 0 41167 2041">
     <style>
-         <![CDATA[svg{stroke:#000;stroke-linecap:round;stroke-linejoin:round;fill:#fff;fill-rule:evenodd;font-family:Roboto;font-size:14px;text-anchor:middle}svg text{stroke:none;white-space:pre}svg .Text\.cls{stroke:none}]]>
+        <![CDATA[svg{stroke:#000;stroke-linecap:round;stroke-linejoin:round;fill:#fff;fill-rule:evenodd;font-family:Roboto;font-size:14px;text-anchor:middle}svg text{stroke:none;white-space:pre}svg .Text\.cls{stroke:none}]]>
     </style>
     <defs>
         <style>@import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i");</style>
@@ -9934,7 +9934,7 @@
                 <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
                     <tspan x="75" y="21.22">Maggiorino</tspan>
-                    <tspan x="75" y="38.02">(1852-)</tspan>
+                    <tspan x="75" y="38.02">(1852-1935)</tspan>
                 </text>
             </g>
         </g>
@@ -9965,22 +9965,24 @@
         </g>
     </a>
     <path d="M 1e-13 1e-13 L 50 0 L 50 0 L 100 0" fill="none" stroke="#000" transform="translate(26655.5 965.5)"/>
-    <g transform="translate(26510.5 750.5)">
-        <rect height="30" width="150" x="0" y="0"/>
+    <g transform="translate(26510.5 740.5)">
+        <rect height="50" width="150" x="0" y="0"/>
         <g class="Text.cls">
-            <rect x="0" y="0" width="150" height="30" fill="none" stroke="none"/>
+            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan x="75" y="19.62">Angela Capello</tspan>
+                <tspan x="75" y="21.22">Angela Capello</tspan>
+                <tspan x="75" y="38.02">(1826-1900)</tspan>
             </text>
         </g>
     </g>
     <path d="M 1e-13 1e-13 L 55 0 L 55 0 L 105 0" fill="none" stroke="#000" transform="translate(26405.5 765.5)"/>
-    <g transform="translate(26255.5 750.5)">
-        <rect height="30" width="150" x="0" y="0"/>
+    <g transform="translate(26255.5 740.5)">
+        <rect height="50" width="150" x="0" y="0"/>
         <g class="Text.cls">
-            <rect x="0" y="0" width="150" height="30" fill="none" stroke="none"/>
+            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan x="75" y="19.62">Giuseppe</tspan>
+                <tspan x="75" y="21.22">Giuseppe</tspan>
+                <tspan x="75" y="38.02">(1820-1892)</tspan>
             </text>
         </g>
     </g>
@@ -9993,7 +9995,7 @@
             </text>
         </g>
     </g>
-    <path d="M 0 170 L 0 85 L 0 85 L 1e-13 0" fill="none" stroke="#000" transform="translate(26330.5 580.5)"/>
+    <path d="M 0 160 L 0 85 L 0 85 L 1e-13 0" fill="none" stroke="#000" transform="translate(26330.5 580.5)"/>
     <path d="M 0 175 L 0 75 L 125 75 L 125 0" fill="none" stroke="#000" transform="translate(26330.5 765.5)"/>
     <path d="M 125 175 L 125 75 L 0 75 L 1e-13 0" fill="none" stroke="#000" transform="translate(26455.5 765.5)"/>
     <path d="M 0 10 Q 0 0 10 0" fill="none" transform="translate(26320.5 630.5)"/>
