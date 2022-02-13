@@ -9941,7 +9941,7 @@
     </a>
     <path d="M 1e-13 1e-13 L 50 0 L 50 0 L 100 0" fill="none" stroke="#000" transform="translate(26155.5 965.5)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Birth_1800-74,Marriage-197">
-        <g transform="translate(26505.5 940.5)">
+        <g transform="translate(26575.5 940.5)">
             <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
@@ -9953,7 +9953,7 @@
         </g>
     </a>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-197">
-        <g transform="translate(26755.5 940.5)">
+        <g transform="translate(26825.5 940.5)">
             <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
@@ -9964,7 +9964,7 @@
             </g>
         </g>
     </a>
-    <path d="M 1e-13 1e-13 L 50 0 L 50 0 L 100 0" fill="none" stroke="#000" transform="translate(26655.5 965.5)"/>
+    <path d="M 1e-13 1e-13 L 50 0 L 50 0 L 100 0" fill="none" stroke="#000" transform="translate(26725.5 965.5)"/>
     <g transform="translate(26510.5 740.5)">
         <rect height="50" width="150" x="0" y="0"/>
         <g class="Text.cls">
@@ -9997,11 +9997,11 @@
     </g>
     <path d="M 0 160 L 0 85 L 0 85 L 1e-13 0" fill="none" stroke="#000" transform="translate(26330.5 580.5)"/>
     <path d="M 0 175 L 0 75 L 125 75 L 125 0" fill="none" stroke="#000" transform="translate(26330.5 765.5)"/>
-    <path d="M 125 175 L 125 75 L 0 75 L 1e-13 0" fill="none" stroke="#000" transform="translate(26455.5 765.5)"/>
+    <path d="M 195 175 L 195 75 L 0 75 L 1e-13 0" fill="none" stroke="#000" transform="translate(26455.5 765.5)"/>
     <path d="M 0 10 Q 0 0 10 0" fill="none" transform="translate(26320.5 630.5)"/>
     <path d="M 10 10 Q 10 0 1e-13 1e-13" fill="none" transform="translate(26330.5 630.5)"/>
     <path d="M 1e-13 1e-13 L 635 0 L 635 100" fill="none" stroke="#000" transform="translate(26340.5 640.5)"/>
-    <g transform="translate(26635.5 1090.5)">
+    <g transform="translate(26705.5 1090.5)">
         <rect height="50" width="150" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
@@ -10011,7 +10011,7 @@
             </text>
         </g>
     </g>
-    <g transform="translate(26885.5 1090.5)">
+    <g transform="translate(26955.5 1090.5)">
         <rect height="50" width="150" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
@@ -10021,9 +10021,9 @@
             </text>
         </g>
     </g>
-    <path d="M 1e-13 1e-13 L 50 0 L 50 0 L 100 0" fill="none" stroke="#000" transform="translate(26785.5 1115.5)"/>
-    <path d="M 0 125 L 0 60 L 0 60 L 1e-13 0" fill="none" stroke="#000" transform="translate(26705.5 965.5)"/>
-    <g transform="translate(26770.5 1240.5)">
+    <path d="M 1e-13 1e-13 L 50 0 L 50 0 L 100 0" fill="none" stroke="#000" transform="translate(26855.5 1115.5)"/>
+    <path d="M 0 125 L 0 60 L 0 60 L 1e-13 0" fill="none" stroke="#000" transform="translate(26775.5 965.5)"/>
+    <g transform="translate(26835.5 1240.5)">
         <rect height="50" width="150" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
@@ -10033,5 +10033,101 @@
             </text>
         </g>
     </g>
-    <path d="M 0 125 L 0 62.5 L 0 62.5 L 1e-13 0" fill="none" stroke="#000" transform="translate(26840.5 1115.5)"/>
+    <path d="M 0 125 L 0 62.5 L 0 62.5 L 1e-13 0" fill="none" stroke="#000" transform="translate(26905.5 1115.5)"/>
+    <g transform="translate(26005.5 1100.5)">
+        <rect height="30" width="100" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="100" height="30" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="50" y="19.62">Santina</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(26155.5 1090.5)">
+        <rect height="50" width="125" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="125" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="62.5" y="21.22">Baldassarre</tspan>
+                <tspan x="62.5" y="38.02">(1889-1973)</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(26500.5 1090.5)">
+        <rect height="50" width="105" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="105" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="52.5" y="21.22">Rosina</tspan>
+                <tspan x="52.5" y="38.02">(1882-1974)</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(26330.5 1100.5)">
+        <rect height="30" width="115" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="115" height="30" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="57.5" y="19.62">Luigia Zanello</tspan>
+            </text>
+        </g>
+    </g>
+    <path fill="none" d="M 0 135 L 0 75 L 150 75 L 150 0" stroke="#000" transform="translate(26055.5 965.5)"/>
+    <path fill="none" d="M 12.5 85 L 12.5 35 L 0 35 L 1e-13 0" stroke="#000" transform="translate(26205.5 1005.5)"/>
+    <path fill="none" d="M 347.5 50 L 347.5 0 L 0 1e-13" stroke="#000" transform="translate(26205.5 1040.5)"/>
+    <path fill="none" d="M 1e-13 1e-13 L 25 0 L 25 0 L 50 0" stroke="#000" transform="translate(26280.5 1115.5)"/>
+    <g transform="translate(26150.5 1240.5)">
+        <rect height="50" width="105" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="105" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="52.5" y="21.22">Ermete</tspan>
+                <tspan x="52.5" y="38.02">(1910-2003)</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(25955.5 1250.5)">
+        <rect height="30" width="125" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="125" height="30" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="62.5" y="19.62">Maria Rissone</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(26355.5 1240.5)">
+        <rect height="50" width="105" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="105" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="52.5" y="21.22">Elvina</tspan>
+                <tspan x="52.5" y="38.02">(1920-2014)</tspan>
+            </text>
+        </g>
+    </g>
+    <path fill="none" d="M 1e-13 1e-13 L 47.5 0 L 47.5 0 L 70 0" stroke="#000" transform="translate(26080.5 1265.5)"/>
+    <path fill="none" d="M 0 125 L 0 75 L 100 75 L 100 0" stroke="#000" transform="translate(26205.5 1115.5)"/>
+    <path fill="none" d="M 102.5 55 L 102.5 5 L 0 5 L 1e-13 0" stroke="#000" transform="translate(26305.5 1185.5)"/>
+    <g transform="translate(26000.5 1390.5)">
+        <rect height="50" width="105" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="105" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="52.5" y="21.22">Ivelise</tspan>
+                <tspan x="52.5" y="38.02">(1949-)</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(26155.5 1390.5)">
+        <rect height="50" width="105" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="105" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="52.5" y="21.22">Eliana</tspan>
+                <tspan x="52.5" y="38.02">(1954-)</tspan>
+            </text>
+        </g>
+    </g>
+    <path fill="none" d="M 0 125 L 0 75 L 62.5 75 L 62.5 0" stroke="#000" transform="translate(26053 1265.5)"/>
+    <path fill="none" d="M 92.5 85 L 92.5 35 L 0 35 L 1e-13 0" stroke="#000" transform="translate(26115.5 1305.5)"/>
 </svg>
