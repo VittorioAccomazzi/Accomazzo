@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:v="http://vecta.io" width="41167" height="2041" viewBox="0 0 41167 2041">
     <style>
-        <![CDATA[svg{stroke:#000;stroke-linecap:round;stroke-linejoin:round;fill:#fff;fill-rule:evenodd;font-family:Roboto;font-size:14px;text-anchor:middle}svg text{stroke:none;white-space:pre}svg .Text\.cls{stroke:none}]]>
+                <![CDATA[svg{stroke:#000;stroke-linecap:round;stroke-linejoin:round;fill:#fff;fill-rule:evenodd;font-family:Roboto;font-size:14px;text-anchor:middle}svg text{stroke:none;white-space:pre}svg .Text\.cls{stroke:none}]]>
     </style>
     <defs>
         <style>@import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i");</style>
@@ -10072,10 +10072,10 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 0 135 L 0 75 L 150 75 L 150 0" stroke="#000" transform="translate(26055.5 965.5)"/>
-    <path fill="none" d="M 12.5 85 L 12.5 35 L 0 35 L 1e-13 0" stroke="#000" transform="translate(26205.5 1005.5)"/>
-    <path fill="none" d="M 347.5 50 L 347.5 0 L 0 1e-13" stroke="#000" transform="translate(26205.5 1040.5)"/>
-    <path fill="none" d="M 1e-13 1e-13 L 25 0 L 25 0 L 50 0" stroke="#000" transform="translate(26280.5 1115.5)"/>
+    <path d="M 0 135 L 0 75 L 150 75 L 150 0" fill="none" stroke="#000" transform="translate(26055.5 965.5)"/>
+    <path d="M 12.5 85 L 12.5 35 L 0 35 L 1e-13 0" fill="none" stroke="#000" transform="translate(26205.5 1005.5)"/>
+    <path d="M 347.5 50 L 347.5 0 L 0 1e-13" fill="none" stroke="#000" transform="translate(26205.5 1040.5)"/>
+    <path d="M 1e-13 1e-13 L 25 0 L 25 0 L 50 0" fill="none" stroke="#000" transform="translate(26280.5 1115.5)"/>
     <g transform="translate(26150.5 1240.5)">
         <rect height="50" width="105" x="0" y="0"/>
         <g class="Text.cls">
@@ -10100,14 +10100,14 @@
         <g class="Text.cls">
             <rect x="0" y="0" width="105" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan x="52.5" y="21.22">Elvina</tspan>
+                <tspan x="52.5" y="21.22">Evelina</tspan>
                 <tspan x="52.5" y="38.02">(1920-2014)</tspan>
             </text>
         </g>
     </g>
-    <path fill="none" d="M 1e-13 1e-13 L 47.5 0 L 47.5 0 L 70 0" stroke="#000" transform="translate(26080.5 1265.5)"/>
-    <path fill="none" d="M 0 125 L 0 75 L 100 75 L 100 0" stroke="#000" transform="translate(26205.5 1115.5)"/>
-    <path fill="none" d="M 102.5 55 L 102.5 5 L 0 5 L 1e-13 0" stroke="#000" transform="translate(26305.5 1185.5)"/>
+    <path d="M 1e-13 1e-13 L 47.5 0 L 47.5 0 L 70 0" fill="none" stroke="#000" transform="translate(26080.5 1265.5)"/>
+    <path d="M 0 125 L 0 75 L 100 75 L 100 0" fill="none" stroke="#000" transform="translate(26205.5 1115.5)"/>
+    <path d="M 102.5 55 L 102.5 5 L 0 5 L 1e-13 0" fill="none" stroke="#000" transform="translate(26305.5 1185.5)"/>
     <g transform="translate(26000.5 1390.5)">
         <rect height="50" width="105" x="0" y="0"/>
         <g class="Text.cls">
@@ -10128,6 +10128,6 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 0 125 L 0 75 L 62.5 75 L 62.5 0" stroke="#000" transform="translate(26053 1265.5)"/>
-    <path fill="none" d="M 92.5 85 L 92.5 35 L 0 35 L 1e-13 0" stroke="#000" transform="translate(26115.5 1305.5)"/>
+    <path d="M 0 125 L 0 75 L 62.5 75 L 62.5 0" fill="none" stroke="#000" transform="translate(26053 1265.5)"/>
+    <path d="M 92.5 85 L 92.5 35 L 0 35 L 1e-13 0" fill="none" stroke="#000" transform="translate(26115.5 1305.5)"/>
 </svg>
