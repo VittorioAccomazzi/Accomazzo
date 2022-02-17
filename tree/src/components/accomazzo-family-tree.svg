@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:v="http://vecta.io" width="41167" height="2041" viewBox="0 0 41167 2041">
     <style>
-        <![CDATA[svg{stroke:#000;stroke-linecap:round;stroke-linejoin:round;fill:#fff;fill-rule:evenodd;font-family:Roboto;font-size:14px;text-anchor:middle}svg text{paint-order:stroke;white-space:pre}svg .Text\.cls{stroke:none}]]>
+        <![CDATA[svg{stroke:#000;stroke-linecap:round;stroke-linejoin:round;fill:#fff;fill-rule:evenodd;font-family:Roboto;font-size:14px;text-anchor:middle}svg text{stroke:none;white-space:pre}svg .Text\.cls{stroke:none}]]>
     </style>
     <defs>
         <style>@import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i");</style>
@@ -1172,7 +1172,7 @@
                 <rect x="0" y="0" width="175" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
                     <tspan x="87.5" y="21.22">Giuseppina Monica</tspan>
-                    <tspan x="87.5" y="38.02">(1862-)</tspan>
+                    <tspan x="87.5" y="38.02">(1862-1944)</tspan>
                 </text>
             </g>
         </g>
