@@ -354,7 +354,7 @@
             </g>
         </g>
     </a>
-    <g transform="translate(23055.5 915.5)">
+    <g transform="translate(23055.5 920.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
@@ -699,7 +699,7 @@
     </g>
     <a xlink:href="https://accomazzo.org/?show=Death-227">
         <g transform="translate(30885.5 940.5)">
-            <rect height="50" width="150" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -1239,7 +1239,7 @@
     </g>
     <a xlink:href="https://accomazzo.org/?show=Death-215">
         <g transform="translate(36295.5 740.5)">
-            <rect height="50" width="200" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="200" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="200" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -1533,7 +1533,7 @@
     </g>
     <a xlink:href="https://accomazzo.org/?show=Death-217">
         <g transform="translate(36480.5 940.5)">
-            <rect height="50" width="145" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="145" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="145" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -2126,7 +2126,7 @@
     </g>
     <a xlink:href="https://accomazzo.org/?show=Death-214">
         <g transform="translate(22350.5 1090.5)">
-            <rect height="50" width="150" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -2232,7 +2232,7 @@
     <path d="M 1e-13 1e-13 L 30 0 L 30 0 L 40 0" fill="none" transform="translate(24620.5 965.5)"/>
     <a xlink:href="https://accomazzo.org/?show=Death-216">
         <g transform="translate(32035.5 1090.5)">
-            <rect height="50" width="200" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="200" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="200" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -3788,7 +3788,7 @@
     <path d="M 770 100 L 770 0 L 0 1e-13" fill="none" transform="translate(36305.5 840.5)"/>
     <a xlink:href="https://accomazzo.org/?show=Death-218">
         <g transform="translate(37185.5 940.5)">
-            <rect height="50" width="170" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="170" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="170" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -7099,7 +7099,7 @@
     </g>
     <a xlink:href="https://accomazzo.org/?show=Death-226">
         <g transform="translate(22155.5 1390.5)">
-            <rect height="50" width="110" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="110" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="110" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -9984,7 +9984,7 @@
     <path d="M 1e-13 1e-13 L 50 0 L 50 0 L 100 0" fill="none" stroke="#000" transform="translate(26725.5 965.5)"/>
     <a xlink:href="https://accomazzo.org/?show=Death-219">
         <g transform="translate(26510.5 740.5)">
-            <rect height="50" width="150" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -9997,7 +9997,7 @@
     <path d="M 1e-13 1e-13 L 55 0 L 55 0 L 105 0" fill="none" stroke="#000" transform="translate(26405.5 765.5)"/>
     <a xlink:href="https://accomazzo.org/?show=Death-220">
         <g transform="translate(26255.5 740.5)">
-            <rect height="50" width="150" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -10044,16 +10044,6 @@
     </g>
     <path d="M 1e-13 1e-13 L 50 0 L 50 0 L 100 0" fill="none" stroke="#000" transform="translate(26855.5 1115.5)"/>
     <path d="M 0 125 L 0 60 L 0 60 L 1e-13 0" fill="none" stroke="#000" transform="translate(26775.5 965.5)"/>
-    <g transform="translate(26835.5 1240.5)">
-        <rect height="50" width="150" x="0" y="0"/>
-        <g class="Text.cls">
-            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="75" y="21.22">Edoardo</tspan>
-                <tspan x="75" y="38.02">(1909-)</tspan>
-            </text>
-        </g>
-    </g>
     <path d="M 0 125 L 0 62.5 L 0 62.5 L 1e-13 0" fill="none" stroke="#000" transform="translate(26905.5 1115.5)"/>
     <g transform="translate(26005.5 1100.5)">
         <rect height="30" width="100" x="0" y="0"/>
@@ -10151,4 +10141,58 @@
     </g>
     <path d="M 0 125 L 0 75 L 62.5 75 L 62.5 0" fill="none" stroke="#000" transform="translate(26053 1265.5)"/>
     <path d="M 92.5 85 L 92.5 35 L 0 35 L 1e-13 0" fill="none" stroke="#000" transform="translate(26115.5 1305.5)"/>
+    <g transform="translate(26850.5 1240.5)">
+        <rect height="50" width="115" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="115" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="57.5" y="21.22">Edoardo</tspan>
+                <tspan x="57.5" y="38.02">(1909-1966)</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(26555.5 1240.5)">
+        <rect height="50" width="200" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="200" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="100" y="21.22">Evelyn “Tootie” May Lee</tspan>
+                <tspan x="100" y="38.02">(1915-2007)</tspan>
+            </text>
+        </g>
+    </g>
+    <path d="M 1e-13 1e-13 L 40 0 L 40 0 L 95 0" fill="none" stroke="#000" transform="translate(26755.5 1265.5)"/>
+    <g transform="translate(26715.5 1390.5)">
+        <rect height="50" width="150" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="75" y="21.22">Edward Charles</tspan>
+                <tspan x="75" y="38.02">(1941-2004)</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(26435.5 1390.5)">
+        <rect height="50" width="200" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="200" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="100" y="21.22">Janice Mckinney</tspan>
+                <tspan x="100" y="38.02">(1942-2002)</tspan>
+            </text>
+        </g>
+    </g>
+    <path d="M 1e-13 1e-13 L 40 0 L 40 0 L 80 0" fill="none" stroke="#000" transform="translate(26635.5 1415.5)"/>
+    <path d="M 1e-13 1e-13 L 0 62.5 L 0 62.5 L 0 125" fill="none" stroke="#000" transform="translate(26790.5 1265.5)"/>
+    <g transform="translate(26625.5 1540.5)">
+        <rect height="50" width="105" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="105" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="52.5" y="21.22">Karen Lynn</tspan>
+                <tspan x="52.5" y="38.02">(1964-)</tspan>
+            </text>
+        </g>
+    </g>
+    <path d="M 0 125 L 0 75 L 0 75 L 1e-13 0" fill="none" stroke="#000" transform="translate(26675.5 1415.5)"/>
 </svg>
