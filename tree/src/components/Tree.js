@@ -59,17 +59,14 @@ export default class Tree extends React.PureComponent {
 
   handleTouchStart (e){
     this.point = null;
-    console.log(`handleTouchStart ${e.points.length}`)
     if( e && e.points && e.points.length===1) this.point=e.points[0];
   }
 
   handleTouchMove(e){
-    console.log(`handleTouchMove ${e.points.length}`)
     this.point = null;
   }
 
-  handleTouchEnd(e){
-    console.log(`handleTouchEnd ${e.points.length}`)    
+  handleTouchEnd(e){ 
     if( this.point ) this.handleClick(this.point)
     this.point = null;
   }
@@ -87,6 +84,7 @@ export default class Tree extends React.PureComponent {
           onTouchStart={e=>this.handleTouchStart(e)}
           onTouchMove={e=>this.handleTouchMove(e)}
           onTouchEnd={e=>this.handleTouchEnd(e)}
+          detectAutoPan={false}
         >
 
           <svg width={graph.width} height={graph.height}>
