@@ -10645,4 +10645,37 @@
     </g>
     <path fill="none" d="M 1e-13 1e-13 L 37.5 0 L 37.5 0 L 75 0" stroke="#000" transform="translate(35930.5 765.5)"/>
     <path fill="none" d="M 17.5 100 L 17.5 0 L 0 1e-13" stroke="#000" transform="translate(35840.5 640.5)"/>
+    <g transform="translate(37595.5 1390.5)">
+        <rect height="50" width="110" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="110" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="55" y="21.22">Angela Leone</tspan>
+                <tspan x="55" y="38.02">(1969-)</tspan>
+            </text>
+        </g>
+    </g>
+    <path fill="none" d="M 1e-13 1e-13 L 28.75 0 L 28.75 0 L 57.5 0" stroke="#000" transform="translate(37538 1415.5)"/>
+    <g transform="translate(37443 1540.5)">
+        <rect height="50" width="100" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="50" y="21.22">Valentina</tspan>
+                <tspan x="50" y="38.02">(2003-)</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(37605.5 1540.5)">
+        <rect height="50" width="110" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="110" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="55" y="21.22">Edoardo</tspan>
+                <tspan x="55" y="38.02">(2006-)</tspan>
+            </text>
+        </g>
+    </g>
+    <path fill="none" d="M 0 50 L 1e-13 1e-13 L 162.5 0 L 162.5 50" stroke="#000" transform="translate(37493 1490.5)"/>
+    <path fill="none" d="M 0 75 L 0 37.5 L 0 37.5 L 1e-13 0" stroke="#000" transform="translate(37570.5 1415.5)"/>
 </svg>
