@@ -64,6 +64,8 @@ const readline = require('readline');
         if( lastPos && textClosed ){
             let name = lastName + ( lastDate ? " "+lastDate : "" )
             name = name.replace(/\\xA0/g," ")
+                   .replace(/\\uD.../g," ")
+                   .trim()
             svgInfo.list.push({
                 name, 
                 link : lastLink,
