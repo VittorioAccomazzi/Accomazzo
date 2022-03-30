@@ -1217,18 +1217,18 @@
         </g>
     </g>
     <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-88,Marriage-209,Death-224">
-        <g transform="translate(38675.5 740.5)">
-            <rect height="50" stroke-width="3" width="200" x="0" y="0"/>
+        <g transform="translate(38655.5 740.5)">
+            <rect height="50" stroke-width="3" width="220" x="0" y="0"/>
             <g class="Text.cls">
-                <rect x="0" y="0" width="200" height="50" fill="none" stroke="none"/>
+                <rect x="0" y="0" width="220" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
-                    <tspan x="100" y="21.22">🇮🇹 Giacomo Calisto Edoardo</tspan>
-                    <tspan x="100" y="38.02">(1852-1932)</tspan>
+                    <tspan x="110" y="21.22">🇮🇹 Giacomo Calisto Edoardo</tspan>
+                    <tspan x="110" y="38.02">(1852-1932)</tspan>
                 </text>
             </g>
         </g>
     </a>
-    <g transform="translate(38655.5 720.5)">
+    <g transform="translate(38635.5 720.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
@@ -1539,18 +1539,18 @@
     <path d="M 1e-13 1e-13 L 25 0 L 25 0 L 50 0" fill="none" transform="translate(39060.5 965.5)"/>
     <path d="M 45 175 L 45 75 L 0 75 L 1e-13 0" fill="none" transform="translate(38900.5 765.5)"/>
     <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-351">
-        <g transform="translate(36890.5 940.5)">
-            <rect height="50" stroke-width="3" width="100" x="0" y="0"/>
+        <g transform="translate(36883 940.5)">
+            <rect height="50" stroke-width="3" width="107.5" x="0" y="0"/>
             <g class="Text.cls">
-                <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
+                <rect x="0" y="0" width="107.5" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
-                    <tspan x="50" y="21.22">🇮🇹 Desiderio</tspan>
-                    <tspan x="50" y="38.02">(1887-1980)</tspan>
+                    <tspan x="53.75" y="21.22">🇮🇹 Desiderio</tspan>
+                    <tspan x="53.75" y="38.02">(1887-1980)</tspan>
                 </text>
             </g>
         </g>
     </a>
-    <g transform="translate(36870.5 920.5)">
+    <g transform="translate(36863 920.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
@@ -1864,14 +1864,13 @@
             </text>
         </g>
     </g>
-    <g transform="translate(5945.5 940.5)">
-        <rect height="50" width="100" x="0" y="0"/>
+    <g transform="translate(5880.5 940.5)">
+        <rect height="50" width="165" x="0" y="0"/>
         <g class="Text.cls">
-            <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
+            <rect x="0" y="0" width="165" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan x="50" y="12.82">🇮🇹 Rosa </tspan>
-                <tspan x="50" y="29.62">Poggio</tspan>
-                <tspan x="50" y="46.42">(1866-1952)</tspan>
+                <tspan x="82.5" y="21.22">🇮🇹 Rosa Poggio</tspan>
+                <tspan x="82.5" y="38.02">(1866-1952)</tspan>
             </text>
         </g>
     </g>
@@ -2236,7 +2235,7 @@
             </g>
         </g>
     </a>
-    <path d="M 0 125 L 0 62.5 L 0 62.5 L 1e-13 1e-13" fill="none" transform="translate(32690.5 965.5)"/>
+    <path d="M 0 125 L 0 62.5 L 0 62.5 L 1e-13 0" fill="none" transform="translate(32685.5 965.5)"/>
     <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-329,Marriage-303">
         <g transform="translate(35185.5 1090.5)">
             <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
@@ -2763,7 +2762,7 @@
                 <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
                     <tspan x="75" y="21.22">🇮🇹 Angela</tspan>
-                    <tspan x="75" y="38.02">(1856-)</tspan>
+                    <tspan x="75" y="38.02">(1855-)</tspan>
                 </text>
             </g>
         </g>
@@ -3625,7 +3624,7 @@
             </g>
         </g>
     </a>
-    <g transform="translate(23565.5 925.5)">
+    <g transform="translate(23565.5 920.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
@@ -3637,7 +3636,7 @@
     <path d="M 1e-13 1e-13 L 150 0 L 150 0 L 170 0" fill="none" transform="translate(23130.5 1115.5)"/>
     <path d="M 1e-13 1e-13 L 32.5 0 L 32.5 0 L 65 0" fill="none" transform="translate(36990.5 965.5)"/>
     <path d="M 315 125 L 315 75 L 0 75 L 1e-13 0" fill="none" transform="translate(24195.5 415.5)"/>
-    <path d="M 3387.5 100 L 3387.5 0 L 1e-13 1e-13 L 0 100" fill="none" transform="translate(35388 640.5)"/>
+    <path d="M 3377.5 100 L 3377.5 0 L 1e-13 1e-13 L 0 100" fill="none" transform="translate(35388 640.5)"/>
     <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-309">
         <g transform="translate(38660.5 940.5)">
             <rect height="50" stroke-width="3" width="120" x="0" y="0"/>
@@ -3756,7 +3755,7 @@
             </g>
         </g>
     </a>
-    <g transform="translate(23755.5 925.5)">
+    <g transform="translate(23755.5 920.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
@@ -6960,12 +6959,11 @@
     </g>
     <path d="M 1e-13 1e-13 L 22.5 0 L 22.5 0 L 45 0" fill="none" transform="translate(23090.5 1715.5)"/>
     <g transform="translate(23135.5 1700.5)">
-        <rect height="30" width="165" x="0" y="0"/>
+        <rect height="30" width="210" x="0" y="0"/>
         <g class="Text.cls">
-            <rect x="0" y="0" width="165" height="30" fill="none" stroke="none"/>
+            <rect x="0" y="0" width="210" height="30" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan x="82.5" y="11.22">🇪🇸 Yasmin Shawi </tspan>
-                <tspan x="82.5" y="28.02">Sanchez</tspan>
+                <tspan x="105" y="19.62">🇪🇸 Yasmin Shawi Sanchez</tspan>
             </text>
         </g>
     </g>
@@ -8272,13 +8270,13 @@
     <path d="M 295 100 L 295 50 L 0 50 L 1e-13 0" fill="none" transform="translate(18230.5 1740.5)"/>
     <path d="M 0 125 L 0 75 L 105 75 L 105 0" fill="none" transform="translate(18125.5 1715.5)"/>
     <path d="M 0 125 L 0 62.5 L 0 62.5 L 1e-13 0" fill="none" transform="translate(18630.5 1865.5)"/>
-    <g transform="translate(18580.5 1990.5)">
-        <rect height="50" width="100" x="0" y="0"/>
+    <g transform="translate(18575.5 1990.5)">
+        <rect height="50" width="110" x="0" y="0"/>
         <g class="Text.cls">
-            <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
+            <rect x="0" y="0" width="110" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan x="50" y="21.22">🇺🇸 Gianni Keola</tspan>
-                <tspan x="50" y="38.02">(2017-)</tspan>
+                <tspan x="55" y="21.22">🇺🇸 Gianni Keola</tspan>
+                <tspan x="55" y="38.02">(2017-)</tspan>
             </text>
         </g>
     </g>
@@ -8527,10 +8525,10 @@
     <path d="M 0 85 L 0 35 L 970 35 L 970 0" fill="none" transform="translate(20760.5 1455.5)"/>
     <path d="M 210 100 L 210 50 L 0 50 L 1e-13 0" fill="none" transform="translate(21730.5 1440.5)"/>
     <path d="M 0 125 L 0 75 L 395 75 L 395 0" fill="none" transform="translate(21335.5 1415.5)"/>
-    <path d="M 370 100 L 370 50 L 0 50 L 1e-13 0" fill="none" transform="translate(22035.5 1590.5)"/>
-    <path d="M 220 100 L 220 50 L 0 50 L 1e-13 0" fill="none" transform="translate(22035.5 1590.5)"/>
+    <path d="M 400 100 L 400 50 L 0 50 L 1e-13 0" fill="none" transform="translate(22035.5 1590.5)"/>
+    <path d="M 250 100 L 250 50 L 0 50 L 1e-13 0" fill="none" transform="translate(22035.5 1590.5)"/>
     <path d="M 0 125 L 0 75 L 150 75 L 150 0" fill="none" transform="translate(21885.5 1565.5)"/>
-    <g transform="translate(22355.5 1690.5)">
+    <g transform="translate(22385.5 1690.5)">
         <rect height="50" width="100" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
@@ -8540,7 +8538,7 @@
             </text>
         </g>
     </g>
-    <g transform="translate(22205.5 1690.5)">
+    <g transform="translate(22235.5 1690.5)">
         <rect height="50" width="100" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
@@ -8886,13 +8884,13 @@
     <path d="M 80 0 L 40 0 L 40 0 L 1e-13 1e-13" fill="none" transform="translate(35100.5 1565.5)"/>
     <path d="M 0 125 L 0 62.5 L 0 62.5 L 1e-13 1e-13" fill="none" transform="translate(35253 1415.5)"/>
     <path d="M 1e-13 1e-13 L 52.5 0 L 52.5 0 L 105 0" fill="none" transform="translate(35195.5 1415.5)"/>
-    <g transform="translate(34970.5 1540.5)">
-        <rect height="50" width="130" x="0" y="0"/>
+    <g transform="translate(34965.5 1540.5)">
+        <rect height="50" width="135" x="0" y="0"/>
         <g class="Text.cls">
-            <rect x="0" y="0" width="130" height="50" fill="none" stroke="none"/>
+            <rect x="0" y="0" width="135" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan x="65" y="21.22">🇮🇹 Ilaria Beccaris</tspan>
-                <tspan x="65" y="38.02">(1956)</tspan>
+                <tspan x="67.5" y="21.22">🇮🇹 Ilaria Beccaris</tspan>
+                <tspan x="67.5" y="38.02">(1956)</tspan>
             </text>
         </g>
     </g>
@@ -9406,13 +9404,13 @@
     </g>
     <path d="M 1e-13 1e-13 L 65 0 L 65 0 L 130 0" fill="none" stroke="#000" transform="translate(25605.5 965.5)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Birth_1800-325">
-        <g transform="translate(25605.5 1090.5)">
-            <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
+        <g transform="translate(25600.5 1090.5)">
+            <rect height="50" stroke-width="3" width="155" x="0" y="0"/>
             <g class="Text.cls">
-                <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
+                <rect x="0" y="0" width="155" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
-                    <tspan x="75" y="21.22">🇮🇹 Ettore Giuseppe</tspan>
-                    <tspan x="75" y="38.02">(1884-1966)</tspan>
+                    <tspan x="77.5" y="21.22">🇮🇹 Ettore Giuseppe</tspan>
+                    <tspan x="77.5" y="38.02">(1884-1966)</tspan>
                 </text>
             </g>
         </g>
@@ -9428,7 +9426,7 @@
         </g>
     </g>
     <path d="M 1e-13 1e-13 L 30 0 L 30 0 L 55 0" fill="none" transform="translate(25755.5 1115.5)"/>
-    <path d="M 0 125 L 0 62.5 L 0 62.5 L 1e-13 0" fill="none" stroke="#000" transform="translate(25680.5 965.5)"/>
+    <path d="M 0 125 L 1e-13 1e-13 L 2.5 0" fill="none" stroke="#000" transform="translate(25678 965.5)"/>
     <g transform="translate(25580.5 1070.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g class="Text.cls">
@@ -9820,18 +9818,18 @@
         </g>
     </a>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Birth_1800-476">
-        <g transform="translate(39465.5 1240.5)">
-            <rect height="50" stroke-width="3" width="195" x="0" y="0"/>
+        <g transform="translate(39455.5 1240.5)">
+            <rect height="50" stroke-width="3" width="205" x="0" y="0"/>
             <g class="Text.cls">
-                <rect x="0" y="0" width="195" height="50" fill="none" stroke="none"/>
+                <rect x="0" y="0" width="205" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
-                    <tspan x="97.5" y="21.22">🇮🇹 Luigia Adelaide Prassede</tspan>
-                    <tspan x="97.5" y="38.02">(1906-)</tspan>
+                    <tspan x="102.5" y="21.22">🇮🇹 Luigia Adelaide Prassede</tspan>
+                    <tspan x="102.5" y="38.02">(1906-)</tspan>
                 </text>
             </g>
         </g>
     </a>
-    <g transform="translate(39445.5 1220.5)">
+    <g transform="translate(39435.5 1220.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
@@ -9853,7 +9851,7 @@
         </g>
     </a>
     <path d="M 0 275 L 0 125 L 90 125 L 90 0" fill="none" stroke="#000" transform="translate(39340.5 965.5)"/>
-    <path d="M 132.5 250 L 132.5 100 L 0 100 L 1e-13 0" fill="none" stroke="#000" transform="translate(39430.5 990.5)"/>
+    <path d="M 127.5 250 L 127.5 100 L 0 100 L 1e-13 0" fill="none" stroke="#000" transform="translate(39430.5 990.5)"/>
     <path d="M 1e-13 1e-13 L 27.5 0 L 27.5 0 L 55 0" fill="none" stroke="#000" transform="translate(39660.5 1265.5)"/>
     <path d="M 0 95 L 0 45 L 65 45 L 65 0" fill="none" stroke="#000" transform="translate(42370.5 1445.5)"/>
     <path d="M 475 50 L 475 0 L 1e-13 1e-13" fill="none" stroke="#000" transform="translate(43310.5 1190.5)"/>
@@ -9963,7 +9961,7 @@
     </g>
     <path d="M 1e-13 1e-13 L 50 0 L 50 0 L 100 0" fill="none" stroke="#000" transform="translate(26755.5 1115.5)"/>
     <path d="M 0 125 L 0 60 L 0 60 L 1e-13 0" fill="none" stroke="#000" transform="translate(26675.5 965.5)"/>
-    <path d="M 0 125 L 1e-13 1e-13 L 37.5 0" fill="none" stroke="#000" transform="translate(26813 1115.5)"/>
+    <path d="M 0 125 L 1e-13 1e-13 L 32.5 0" fill="none" stroke="#000" transform="translate(26810.5 1115.5)"/>
     <a xlink:href="https://accomazzo.org/?show=Birth_1800-280">
         <g transform="translate(25995.5 1090.5)">
             <rect height="50" stroke-width="3" width="100" x="0" y="0"/>
@@ -10088,7 +10086,7 @@
         <g class="Text.cls">
             <rect x="0" y="0" width="200" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan x="100" y="21.22">🇺🇸 Evelyn “Tootie” May Lee</tspan>
+                <tspan x="100" y="21.22">🇺🇸 Evelyn (Tootie) May Lee</tspan>
                 <tspan x="100" y="38.02">(1915-2007)</tspan>
             </text>
         </g>
@@ -10103,13 +10101,13 @@
             </text>
         </g>
     </g>
-    <g transform="translate(26370.5 1390.5)">
-        <rect height="50" width="200" x="0" y="0"/>
+    <g transform="translate(26405.5 1390.5)">
+        <rect height="50" width="165" x="0" y="0"/>
         <g class="Text.cls">
-            <rect x="0" y="0" width="200" height="50" fill="none" stroke="none"/>
+            <rect x="0" y="0" width="165" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan x="100" y="21.22">🇺🇸 Janice Mckinney</tspan>
-                <tspan x="100" y="38.02">(1942-2002)</tspan>
+                <tspan x="82.5" y="21.22">🇺🇸 Janice Mckinney</tspan>
+                <tspan x="82.5" y="38.02">(1942-2002)</tspan>
             </text>
         </g>
     </g>
@@ -10594,7 +10592,7 @@
             </g>
         </g>
     </a>
-    <path d="M 0 100 L 1e-13 1e-13 L 445 0 L 445 100" fill="none" stroke="#000" transform="translate(36495.5 840.5)"/>
+    <path d="M 0 100 L 1e-13 1e-13 L 441.25 0 L 441.25 100" fill="none" stroke="#000" transform="translate(36495.5 840.5)"/>
     <path d="M 0 75 L 0 37.5 L 0 37.5 L 1e-13 0" fill="none" stroke="#000" transform="translate(36725.5 765.5)"/>
     <path d="M 0 105 L 0 52.5 L 0 52.5 L 1e-13 0" fill="none" stroke="#000" transform="translate(36725.5 835.5)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-318,Death-235,Birth_1800-373">
@@ -10928,14 +10926,47 @@
     <path d="M 0 50 L 1e-13 1e-13 L 195 0 L 195 50" fill="none" stroke="#000" transform="translate(36093 1490.5)"/>
     <path d="M 1e-13 1e-13 L 0 50 L 2.5 50" fill="none" stroke="#000" transform="translate(36183 1440.5)"/>
     <g transform="translate(22005.5 1690.5)">
-        <rect height="50" width="150" x="0" y="0"/>
+        <rect height="50" width="185" x="0" y="0"/>
         <g class="Text.cls">
-            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
+            <rect x="0" y="0" width="185" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan x="75" y="21.22">🇺🇸 Michelle Whitfield</tspan>
-                <tspan x="75" y="38.02">(1989-)</tspan>
+                <tspan x="92.5" y="21.22">🇺🇸 Ashley Michelle Whitfield</tspan>
+                <tspan x="92.5" y="38.02">(1989-)</tspan>
             </text>
         </g>
     </g>
-    <path fill="none" d="M 1e-13 1e-13 L 22.5 0 L 22.5 0 L 45 0" stroke="#000" transform="translate(21960.5 1715.5)"/>
+    <path d="M 1e-13 1e-13 L 22.5 0 L 22.5 0 L 45 0" fill="none" stroke="#000" transform="translate(21960.5 1715.5)"/>
+    <g transform="translate(3535.5 1540.5)">
+        <rect height="50" width="120" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="120" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="60" y="21.22">🇮🇹 Franca Osella</tspan>
+                <tspan x="60" y="38.02">(1969-)</tspan>
+            </text>
+        </g>
+    </g>
+    <path fill="none" d="M 1e-13 1e-13 L 30 0 L 30 0 L 60 0" stroke="#000" transform="translate(3475.5 1565.5)"/>
+    <g transform="translate(3445.5 1690.5)">
+        <rect height="50" width="120" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="120" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="60" y="21.22">🇮🇹 Daniele</tspan>
+                <tspan x="60" y="38.02">(2005-)</tspan>
+            </text>
+        </g>
+    </g>
+    <path fill="none" d="M 0 125 L 0 62.5 L 0 62.5 L 1e-13 0" stroke="#000" transform="translate(3505.5 1565.5)"/>
+    <g transform="translate(3000.5 1690.5)">
+        <rect height="50" width="120" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="120" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="60" y="21.22">🇮🇹🇺🇦 Vlada</tspan>
+                <tspan x="60" y="38.02">(2005-)</tspan>
+            </text>
+        </g>
+    </g>
+    <path fill="none" d="M 1e-13 1e-13 L 0 50 L 0 50 L 0 100" stroke="#000" transform="translate(3065.5 1590.5)"/>
 </svg>
