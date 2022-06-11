@@ -476,7 +476,7 @@
     </g>
     <path d="M 1e-13 1e-13 L 15 0 L 15 0 L 50 0" fill="none" transform="translate(25465.5 765.5)"/>
     <path d="M 1360 137.5 L 1360 87.5 L 0 87.5 L 1e-13 0" fill="none" transform="translate(23400.5 603)"/>
-    <path d="M 0 337.5 L 0 87.5 L 227.5 87.5 L 227.5 0" fill="none" transform="translate(23173 603)"/>
+    <path d="M 0 337.5 L 0 87.5 L 229.5 87.5 L 229.5 0" fill="none" transform="translate(23171 603)"/>
     <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-590,Death-62">
         <g transform="translate(25480.5 540.5)">
             <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
@@ -745,18 +745,18 @@
     <path d="M 1e-13 1e-13 L 35 0 L 35 0 L 60 0" fill="none" transform="translate(32725.5 965.5)"/>
     <path d="M 50 0 L 25 0 L 25 0 L 0 1e-13" fill="none" transform="translate(34005.5 965.5)"/>
     <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-92,Marriage-203">
-        <g transform="translate(34305.5 740.5)">
-            <rect height="50" stroke-width="3" width="145" x="0" y="0"/>
+        <g transform="translate(34295.5 740.5)">
+            <rect height="50" stroke-width="3" width="155" x="0" y="0"/>
             <g class="Text.cls">
-                <rect x="0" y="0" width="145" height="50" fill="none" stroke="none"/>
+                <rect x="0" y="0" width="155" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
-                    <tspan x="72.5" y="21.22">🇮🇹 Marco Domenico</tspan>
-                    <tspan x="72.5" y="38.02">(1853-1939)</tspan>
+                    <tspan x="77.5" y="21.22">🇮🇹 Marco Domenico</tspan>
+                    <tspan x="77.5" y="38.02">(1853-1939)</tspan>
                 </text>
             </g>
         </g>
     </a>
-    <g transform="translate(34285.5 720.5)">
+    <g transform="translate(34275.5 720.5)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
@@ -915,7 +915,7 @@
     <path d="M 970 120 L 970 57.5 L 0 57.5 L 1e-13 0" fill="none" transform="translate(34710.5 420.5)"/>
     <path d="M 0 125 L 0 62.5 L 0 62.5 L 1e-13 0" fill="none" transform="translate(34550.5 115.5)"/>
     <path d="M 0 175 L 0 75 L 72.5 75 L 72.5 0" fill="none" transform="translate(33808 565.5)"/>
-    <path d="M 497.5 175 L 497.5 75 L 0 75 L 1e-13 0" fill="none" transform="translate(33880.5 565.5)"/>
+    <path d="M 492.5 175 L 492.5 75 L 0 75 L 1e-13 0" fill="none" transform="translate(33880.5 565.5)"/>
     <g transform="translate(34510.5 750.5)">
         <rect height="30" width="150" x="0" y="0"/>
         <g class="Text.cls">
@@ -9569,11 +9569,11 @@
         </g>
     </a>
     <g transform="translate(22775.5 550.5)">
-        <rect height="30" width="100" x="0" y="0"/>
+        <rect height="30" width="120" x="0" y="0"/>
         <g class="Text.cls">
-            <rect x="0" y="0" width="100" height="30" fill="none" stroke="none"/>
+            <rect x="0" y="0" width="120" height="30" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan x="50" y="19.62">🇮🇹 Luigia Testa</tspan>
+                <tspan x="60" y="19.62">🇮🇹 Luigia Testa</tspan>
             </text>
         </g>
     </g>
@@ -9853,19 +9853,19 @@
     <path d="M 40 0 L 20 0 L 20 0 L 0 1e-13" fill="none" stroke="#000" transform="translate(45045.5 1265.5)"/>
     <path d="M 1e-13 1e-13 L 0 37.5 L 0 37.5 L 0 75" fill="none" stroke="#000" transform="translate(45420.5 765.5)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Birth_1800-140,Marriage-206">
-        <g transform="translate(27350.5 940.5)">
-            <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
+        <g transform="translate(27335.5 940.5)">
+            <rect height="50" stroke-width="3" width="165" x="0" y="0"/>
             <g class="Text.cls">
-                <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
+                <rect x="0" y="0" width="165" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
-                    <tspan x="75" y="21.22">🇮🇹 Carolina Francesca</tspan>
-                    <tspan x="75" y="38.02">(1859-1944)</tspan>
+                    <tspan x="82.5" y="21.22">🇮🇹 Carolina Francesca</tspan>
+                    <tspan x="82.5" y="38.02">(1859-1944)</tspan>
                 </text>
             </g>
         </g>
     </a>
     <path d="M 0 175 L 0 75 L 145 75 L 145 0" fill="none" stroke="#000" transform="translate(27155.5 765.5)"/>
-    <path d="M 125 175 L 125 75 L 0 75 L 1e-13 0" fill="none" stroke="#000" transform="translate(27300.5 765.5)"/>
+    <path d="M 117.5 175 L 117.5 75 L 0 75 L 1e-13 0" fill="none" stroke="#000" transform="translate(27300.5 765.5)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Birth_1800-89,Marriage-206,Death-231">
         <g transform="translate(27600.5 940.5)">
             <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
@@ -10134,12 +10134,12 @@
     </a>
     <a xlink:href="https://accomazzo.org/?show=Marriage-196">
         <g transform="translate(28750.5 940.5)">
-            <rect height="50" stroke-width="3" width="165" x="0" y="0"/>
+            <rect height="50" stroke-width="3" width="180" x="0" y="0"/>
             <g class="Text.cls">
-                <rect x="0" y="0" width="165" height="50" fill="none" stroke="none"/>
+                <rect x="0" y="0" width="180" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
-                    <tspan x="82.5" y="21.22">🇮🇹 Marcellina Germanino</tspan>
-                    <tspan x="82.5" y="38.02">(1852-)</tspan>
+                    <tspan x="90" y="21.22">🇮🇹 Marcellina Germanino</tspan>
+                    <tspan x="90" y="38.02">(1852-)</tspan>
                 </text>
             </g>
         </g>
@@ -11191,10 +11191,10 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 90 0 L 45 0 L 45 0 L 0 1e-13" stroke="#000" transform="translate(23890.5 1265.5)"/>
-    <path fill="none" d="M 1e-13 1e-13 L 51.25 0 L 51.25 0 L 102.5 0" stroke="#000" transform="translate(24325.5 1115.5)"/>
-    <path fill="none" d="M 0 60 L 1e-13 1e-13 L 432.5 0 L 432.5 50" stroke="#000" transform="translate(24073 1190.5)"/>
-    <path fill="none" d="M 1e-13 1e-13 L 0 37.5 L 0 37.5 L 0 75" stroke="#000" transform="translate(24375.5 1115.5)"/>
+    <path d="M 90 0 L 45 0 L 45 0 L 0 1e-13" fill="none" stroke="#000" transform="translate(23890.5 1265.5)"/>
+    <path d="M 1e-13 1e-13 L 51.25 0 L 51.25 0 L 102.5 0" fill="none" stroke="#000" transform="translate(24325.5 1115.5)"/>
+    <path d="M 0 60 L 1e-13 1e-13 L 432.5 0 L 432.5 50" fill="none" stroke="#000" transform="translate(24073 1190.5)"/>
+    <path d="M 1e-13 1e-13 L 0 37.5 L 0 37.5 L 0 75" fill="none" stroke="#000" transform="translate(24375.5 1115.5)"/>
     <g transform="translate(24650.5 1400.5)">
         <rect height="30" width="105" x="0" y="0"/>
         <g class="Text.cls">
@@ -11204,9 +11204,9 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 1e-13 1e-13 L 28.75 0 L 28.75 0 L 57.5 0" stroke="#000" transform="translate(24430.5 1415.5)"/>
-    <path fill="none" d="M 0 60 L 1e-13 1e-13 L 162.5 0 L 162.5 60" stroke="#000" transform="translate(24540.5 1340.5)"/>
-    <path fill="none" d="M 1e-13 1e-13 L 0 37.5 L 0 37.5 L 0 75" stroke="#000" transform="translate(24620.5 1265.5)"/>
+    <path d="M 1e-13 1e-13 L 28.75 0 L 28.75 0 L 57.5 0" fill="none" stroke="#000" transform="translate(24430.5 1415.5)"/>
+    <path d="M 0 60 L 1e-13 1e-13 L 162.5 0 L 162.5 60" fill="none" stroke="#000" transform="translate(24540.5 1340.5)"/>
+    <path d="M 1e-13 1e-13 L 0 37.5 L 0 37.5 L 0 75" fill="none" stroke="#000" transform="translate(24620.5 1265.5)"/>
     <g transform="translate(24328 1550.5)">
         <rect height="30" width="105" x="0" y="0"/>
         <g class="Text.cls">
@@ -11225,8 +11225,8 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 0 60 L 1e-13 1e-13 L 160 0 L 160 60" stroke="#000" transform="translate(24380.5 1490.5)"/>
-    <path fill="none" d="M 1e-13 1e-13 L 0 37.5 L 0 37.5 L 0 75" stroke="#000" transform="translate(24460.5 1415.5)"/>
+    <path d="M 0 60 L 1e-13 1e-13 L 160 0 L 160 60" fill="none" stroke="#000" transform="translate(24380.5 1490.5)"/>
+    <path d="M 1e-13 1e-13 L 0 37.5 L 0 37.5 L 0 75" fill="none" stroke="#000" transform="translate(24460.5 1415.5)"/>
     <g transform="translate(23808 1400.5)">
         <rect height="30" width="105" x="0" y="0"/>
         <g class="Text.cls">
@@ -11263,9 +11263,207 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 0 60 L 1e-13 1e-13 L 165 0 L 165 60" stroke="#000" transform="translate(23860.5 1340.5)"/>
-    <path fill="none" d="M 1e-13 1e-13 L 0 37.5 L 0 37.5 L 0 75" stroke="#000" transform="translate(23940.5 1265.5)"/>
-    <path fill="none" d="M 0 60 L 1e-13 1e-13 L 162.5 0 L 162.5 60" stroke="#000" transform="translate(23950.5 1490.5)"/>
-    <path fill="none" d="M 1e-13 1e-13 L 0 30 L 0 30 L 0 60" stroke="#000" transform="translate(24025.5 1430.5)"/>
-    <path fill="none" d="M 1e-13 1e-13 L 230 0 L 230 100" stroke="#000" transform="translate(45995.5 840.5)"/>
+    <path d="M 0 60 L 1e-13 1e-13 L 165 0 L 165 60" fill="none" stroke="#000" transform="translate(23860.5 1340.5)"/>
+    <path d="M 1e-13 1e-13 L 0 37.5 L 0 37.5 L 0 75" fill="none" stroke="#000" transform="translate(23940.5 1265.5)"/>
+    <path d="M 0 60 L 1e-13 1e-13 L 162.5 0 L 162.5 60" fill="none" stroke="#000" transform="translate(23950.5 1490.5)"/>
+    <path d="M 1e-13 1e-13 L 0 30 L 0 30 L 0 60" fill="none" stroke="#000" transform="translate(24025.5 1430.5)"/>
+    <path d="M 1e-13 1e-13 L 230 0 L 230 100" fill="none" stroke="#000" transform="translate(45995.5 840.5)"/>
+    <g transform="translate(22555.5 520.5)">
+        <ellipse cx="20" cy="20" rx="20" ry="20"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="20" y="24.62">166</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(22755.5 525.5)">
+        <ellipse cx="20" cy="20" rx="20" ry="20"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="20" y="24.62">167</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(22530.5 720.5)">
+        <ellipse cx="20" cy="20" rx="20" ry="20"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="20" y="24.62">168</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(22800.5 720.5)">
+        <ellipse cx="20" cy="20" rx="20" ry="20"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="20" y="24.62">169</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(27580.5 720.5)">
+        <ellipse cx="20" cy="20" rx="20" ry="20"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="20" y="24.62">170</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(27835.5 720.5)">
+        <ellipse cx="20" cy="20" rx="20" ry="20"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="20" y="24.62">171</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(27315.5 920.5)">
+        <ellipse cx="20" cy="20" rx="20" ry="20"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="20" y="24.62">172</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(27580.5 920.5)">
+        <ellipse cx="20" cy="20" rx="20" ry="20"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="20" y="24.62">173</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(27990.5 920.5)">
+        <ellipse cx="20" cy="20" rx="20" ry="20"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="20" y="24.62">174</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(28240.5 920.5)">
+        <ellipse cx="20" cy="20" rx="20" ry="20"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="20" y="24.62">175</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(28500.5 920.5)">
+        <ellipse cx="20" cy="20" rx="20" ry="20"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="20" y="24.62">176</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(28730.5 920.5)">
+        <ellipse cx="20" cy="20" rx="20" ry="20"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="20" y="24.62">177</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(27450.5 1070.5)">
+        <ellipse cx="20" cy="20" rx="20" ry="20"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="20" y="24.62">178</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(27610.5 1065.5)">
+        <ellipse cx="20" cy="20" rx="20" ry="20"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="20" y="24.62">179</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(27940.5 1070.5)">
+        <ellipse cx="20" cy="20" rx="20" ry="20"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="20" y="24.62">180</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(28135.5 1070.5)">
+        <ellipse cx="20" cy="20" rx="20" ry="20"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="20" y="24.62">181</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(27475.5 1220.5)">
+        <ellipse cx="20" cy="20" rx="20" ry="20"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="20" y="24.62">182</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(27785.5 1220.5)">
+        <ellipse cx="20" cy="20" rx="20" ry="20"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="20" y="24.62">183</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(28050.5 1220.5)">
+        <ellipse cx="20" cy="20" rx="20" ry="20"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="20" y="24.62">184</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(27700.5 1370.5)">
+        <ellipse cx="20" cy="20" rx="20" ry="20"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="20" y="24.62">185</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(27945.5 1370.5)">
+        <ellipse cx="20" cy="20" rx="20" ry="20"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="20" y="24.62">186</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(28960.5 1070.5)">
+        <ellipse cx="20" cy="20" rx="20" ry="20"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="20" y="24.62">187</tspan>
+            </text>
+        </g>
+    </g>
 </svg>
