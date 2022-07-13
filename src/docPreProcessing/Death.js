@@ -63,7 +63,7 @@ const dstFld= null; // do not check the image path
                     }
 
                     // sanity check. This will get a rid of lines which are comments.
-                    if( doc.Year <1000 || doc.Year > 1980 || isNaN(doc.Year) || doc.Name === "" ){
+                    if( doc.Year <1000 || doc.Year > 2010 || isNaN(doc.Year) || doc.Name === "" ){
                         console.warn(`[Warning] the year for line [${line}] seems wrong. Not included`)
                         return;
                     }
