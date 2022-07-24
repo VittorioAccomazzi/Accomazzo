@@ -1185,7 +1185,7 @@
             </text>
         </g>
     </g>
-    <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-77,Death-237">
+    <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-77,Death-237,Marriage-427">
         <g transform="translate(39730.5 740.5)">
             <rect height="50" stroke-width="3" width="200" x="0" y="0"/>
             <g class="Text.cls">
@@ -1206,16 +1206,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(39995.5 740.5)">
-        <rect height="50" width="180" x="0" y="0"/>
-        <g class="Text.cls">
-            <rect x="0" y="0" width="180" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="90" y="21.22">🇮🇹 Massimina Maranzana</tspan>
-                <tspan x="90" y="38.02">(1853-1938)</tspan>
-            </text>
+    <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-427">
+        <g transform="translate(39995.5 740.5)">
+            <rect height="50" width="180" x="0" y="0" stroke-width="3"/>
+            <g class="Text.cls">
+                <rect x="0" y="0" width="180" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="90" y="21.22">🇮🇹 Massimina Maranzana</tspan>
+                    <tspan x="90" y="38.02">(1853-1938)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-88,Marriage-209,Death-224">
         <g transform="translate(41895.5 740.5)">
             <rect height="50" stroke-width="3" width="220" x="0" y="0"/>
@@ -1642,7 +1644,7 @@
     </g>
     <path d="M 55 0.00001 L 25 0 L 25 0 L 0 0" fill="none" transform="translate(3540.5 765.5)"/>
     <path d="M 0.00001 175 L 0 75 L 19605 75 L 19605 0" fill="none" transform="translate(3670.5 565.5)"/>
-    <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-19,Death-199,Marriage-255">
+    <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-19,Death-199,Marriage-255,Marriage-428">
         <g transform="translate(2600.5 940.5)">
             <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
             <g class="Text.cls">
@@ -1663,16 +1665,18 @@
             </text>
         </g>
     </g>
-    <g transform="translate(2810.5 940.5)">
-        <rect height="50" width="125" x="0" y="0"/>
-        <g class="Text.cls">
-            <rect x="0" y="0" width="125" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="62.5" y="21.22">🇮🇹 Rosa Muzio</tspan>
-                <tspan x="62.5" y="38.02">(1843-1886)</tspan>
-            </text>
+    <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-428">
+        <g transform="translate(2810.5 940.5)">
+            <rect height="50" width="125" x="0" y="0" stroke-width="3"/>
+            <g class="Text.cls">
+                <rect x="0" y="0" width="125" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="62.5" y="21.22">🇮🇹 Rosa Muzio</tspan>
+                    <tspan x="62.5" y="38.02">(1843-1886)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-41">
         <g transform="translate(4180.5 940.5)">
             <rect height="50" stroke-width="3" width="120" x="0" y="0"/>
@@ -4740,16 +4744,19 @@
         </g>
     </a>
     <path d="M 0.00001 0.00001 L 50 0 L 50 0 L 0 0" fill="none" transform="translate(47330.5 765.5)"/>
-    <g transform="translate(47380.5 750.5)">
-        <rect height="30" width="140" x="0" y="0"/>
-        <g class="Text.cls">
-            <rect x="0" y="0" width="140" height="30" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan x="70" y="19.62">🇮🇹 Francesco Capra</tspan>
-            </text>
+    <a xlink:href="https://accomazzo.org/?show=Marriage-187,Marriage-429">
+        <g transform="translate(47380.5 740.5)">
+            <rect height="50" width="140" x="0" y="0" stroke-width="3"/>
+            <g class="Text.cls">
+                <rect x="0" y="0" width="140" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan x="70" y="21.22">🇮🇹 Francesco Capra</tspan>
+                    <tspan x="70" y="38.02">(1838-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
-    <a xlink:href="https://accomazzo.org/?show=Birth_1800-86,Marriage-187">
+    </a>
+    <a xlink:href="https://accomazzo.org/?show=Birth_1800-86,Marriage-187,Marriage-429">
         <g transform="translate(47230.5 740.5)">
             <rect height="50" stroke-width="3" width="100" x="0" y="0"/>
             <g class="Text.cls">
@@ -9535,7 +9542,7 @@
                 <rect x="0" y="0" width="115" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
                     <tspan x="57.5" y="21.22">🇮🇹 Rosa</tspan>
-                    <tspan x="57.5" y="38.02">(1813-1889)</tspan>
+                    <tspan x="57.5" y="38.02">(1814-1889)</tspan>
                 </text>
             </g>
         </g>
@@ -11630,7 +11637,7 @@
     </a>
     <a xlink:href="https://accomazzo.org/?show=Death-248">
         <g transform="translate(5920.5 1090.5)">
-            <rect height="50" width="150" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
