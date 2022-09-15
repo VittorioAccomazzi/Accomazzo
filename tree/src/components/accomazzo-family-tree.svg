@@ -4948,11 +4948,11 @@
         </g>
     </g>
     <path d="M 0.00001 125 L 0 62.5 L 0 62.5 L 0 0" fill="none" transform="translate(5920.5 1265.5)"/>
-    <path d="M 0.00001 110 L 0 50 L 90 50 L 90 0" fill="none" transform="translate(5988 1440.5)"/>
+    <path d="M 0.00001 110 L 0 50 L 0 50 L 0 0" fill="none" transform="translate(6078 1440.5)"/>
     <path d="M 527.5 50 L 527.5 0 L 0 0" fill="none" transform="translate(5840.5 1190.5)"/>
     <path d="M 0.00001 90 L 0 40 L 0 40 L 0 0" fill="none" transform="translate(5840.5 1150.5)"/>
     <path d="M 0.00001 125 L 0 75 L 297.5 75 L 297.5 0" fill="none" transform="translate(5543 1115.5)"/>
-    <g transform="translate(5930.5 1550.5)">
+    <g transform="translate(6015.5 1550.5)">
         <rect height="31" width="115" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="115" height="31" fill="none" stroke="none"/>
@@ -9627,7 +9627,7 @@
     <path d="M 10 10 Q 10 0 0 0" fill="none" transform="translate(25270.5 680.5)"/>
     <path d="M 0.00001 0.00001 L 0 12.5 L 295 12.5 L 295 10" fill="none" stroke="#000" transform="translate(24965.5 590.5)"/>
     <path d="M 0.00001 0.00001 L 300 0" fill="none" stroke="#000" transform="translate(25280.5 603)"/>
-    <path d="M 0.00001 0.00001 L 1890 0" fill="none" stroke="#000" transform="translate(25600.5 603)"/>
+    <path d="M 0.00001 0.00001 L 680 0" fill="none" stroke="#000" transform="translate(25600.5 603)"/>
     <path d="M 0.00001 0.00001 L 0 12.5" fill="none" stroke="#000" transform="translate(26280.5 590.5)"/>
     <path d="M 0.00001 0.00001 L 0 50 L 580 50" fill="none" stroke="#000" transform="translate(24680.5 590.5)"/>
     <path d="M 0.00001 0.00001 L 300 0" fill="none" stroke="#000" transform="translate(25280.5 640.5)"/>
@@ -11516,10 +11516,10 @@
         </g>
     </g>
     <path d="M 0.00001 0.00001 L 25 0" fill="none" stroke="#000" transform="translate(39853 1565.5)"/>
-    <path fill="none" d="M 0.00001 0.00001 L 60 0 L 60 0 L 120 0" stroke="#000" transform="translate(2920.5 765.5)"/>
-    <path fill="none" d="M 0.00001 0.00001 L 242.5 0 L 242.5 0 L 435 0" stroke="#000" transform="translate(2920.5 840.5)"/>
-    <path fill="none" d="M 0.00001 0.00001 L 0 37.5 L 0 37.5 L 0 75" stroke="#000" transform="translate(2980.5 765.5)"/>
-    <path fill="none" d="M 0.00001 0.00001 L 0 50 L 0 50 L 0 100" stroke="#000" transform="translate(2920.5 840.5)"/>
+    <path d="M 0.00001 0.00001 L 60 0 L 60 0 L 120 0" fill="none" stroke="#000" transform="translate(2920.5 765.5)"/>
+    <path d="M 0.00001 0.00001 L 242.5 0 L 242.5 0 L 435 0" fill="none" stroke="#000" transform="translate(2920.5 840.5)"/>
+    <path d="M 0.00001 0.00001 L 0 37.5 L 0 37.5 L 0 75" fill="none" stroke="#000" transform="translate(2980.5 765.5)"/>
+    <path d="M 0.00001 0.00001 L 0 50 L 0 50 L 0 100" fill="none" stroke="#000" transform="translate(2920.5 840.5)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Birth_1800-8">
         <g transform="translate(1920.5 740.5)">
             <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
@@ -11743,17 +11743,17 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 0.00001 0.00001 L 72.5 0 L 72.5 0 L 145 0" stroke="#000" transform="translate(2070.5 765.5)"/>
-    <path fill="none" d="M 0.00001 100 L 0 0 L 180 0 L 180 100" stroke="#000" transform="translate(2055.5 840.5)"/>
-    <path fill="none" d="M 0.00001 75 L 0 37.5 L 0 37.5 L 0 0" stroke="#000" transform="translate(2140.5 765.5)"/>
-    <path fill="none" d="M 0.00001 0.00001 L 42.5 0 L 42.5 0 L 85 0" stroke="#000" transform="translate(2395.5 1115.5)"/>
-    <path fill="none" d="M 0.00001 0.00001 L 22.5 0 L 22.5 0 L 37.5 0" stroke="#000" transform="translate(2365.5 1265.5)"/>
-    <path fill="none" d="M 0.00001 60 L 0 0 L 462.5 0 L 462.5 50" stroke="#000" transform="translate(2273 1190.5)"/>
-    <path fill="none" d="M 0.00001 0.00001 L 0 37.5 L 0 37.5 L 0 75" stroke="#000" transform="translate(2435.5 1115.5)"/>
-    <path fill="none" d="M 0.00001 100 L 0 0 L 235 0 L 235 100" stroke="#000" transform="translate(1760.5 640.5)"/>
-    <path fill="none" d="M 0.00001 0.00001 L 0 37.5 L 0 37.5 L 0 75" stroke="#000" transform="translate(1860.5 565.5)"/>
-    <path fill="none" d="M 10 10 L 10 5 L 0 5 L 0 0" stroke="#000" transform="translate(26210.5 1690.5)"/>
-    <path fill="none" d="M 0.00001 0.00001 L 180 0 L 180 0 L 360 0" stroke="#000" transform="translate(25715.5 715.5)"/>
+    <path d="M 0.00001 0.00001 L 72.5 0 L 72.5 0 L 145 0" fill="none" stroke="#000" transform="translate(2070.5 765.5)"/>
+    <path d="M 0.00001 100 L 0 0 L 180 0 L 180 100" fill="none" stroke="#000" transform="translate(2055.5 840.5)"/>
+    <path d="M 0.00001 75 L 0 37.5 L 0 37.5 L 0 0" fill="none" stroke="#000" transform="translate(2140.5 765.5)"/>
+    <path d="M 0.00001 0.00001 L 42.5 0 L 42.5 0 L 85 0" fill="none" stroke="#000" transform="translate(2395.5 1115.5)"/>
+    <path d="M 0.00001 0.00001 L 22.5 0 L 22.5 0 L 37.5 0" fill="none" stroke="#000" transform="translate(2365.5 1265.5)"/>
+    <path d="M 0.00001 60 L 0 0 L 462.5 0 L 462.5 50" fill="none" stroke="#000" transform="translate(2273 1190.5)"/>
+    <path d="M 0.00001 0.00001 L 0 37.5 L 0 37.5 L 0 75" fill="none" stroke="#000" transform="translate(2435.5 1115.5)"/>
+    <path d="M 0.00001 100 L 0 0 L 235 0 L 235 100" fill="none" stroke="#000" transform="translate(1760.5 640.5)"/>
+    <path d="M 0.00001 0.00001 L 0 37.5 L 0 37.5 L 0 75" fill="none" stroke="#000" transform="translate(1860.5 565.5)"/>
+    <path d="M 10 10 L 10 5 L 0 5 L 0 0" fill="none" stroke="#000" transform="translate(26210.5 1690.5)"/>
+    <path d="M 0.00001 0.00001 L 180 0 L 180 0 L 360 0" fill="none" stroke="#000" transform="translate(25715.5 715.5)"/>
     <g transform="translate(44200.5 750.5)">
         <rect height="30" width="130" x="0" y="0"/>
         <g class="Text.cls">
@@ -11784,7 +11784,7 @@
     </g>
     <path d="M 0.00001 170 L 0 85 L 0 85 L 0 0" fill="none" transform="translate(44265.5 580.5)"/>
     <path d="M 0.00001 0.00001 L 35 0 L 35 0 L 70 0" fill="none" stroke="#000" transform="translate(44330.5 765.5)"/>
-    <path fill="none" d="M 0.00001 100 L 0 0 L 165 0 L 165 100" stroke="#000" transform="translate(44285.5 840.5)"/>
+    <path d="M 0.00001 100 L 0 0 L 165 0 L 165 100" fill="none" stroke="#000" transform="translate(44285.5 840.5)"/>
     <g transform="translate(44375.5 940.5)">
         <rect height="50" width="150" x="0" y="0"/>
         <g class="Text.cls">
@@ -11819,7 +11819,7 @@
             </g>
         </g>
     </a>
-    <path fill="none" d="M 0.00001 0.00001 L 40 0 L 40 0 L 80 0" stroke="#000" transform="translate(40445.5 765.5)"/>
+    <path d="M 0.00001 0.00001 L 40 0 L 40 0 L 80 0" fill="none" stroke="#000" transform="translate(40445.5 765.5)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Death-166">
         <g transform="translate(40435.5 540.5)">
             <rect height="50" stroke-width="3" width="125" x="0" y="0"/>
@@ -11842,11 +11842,11 @@
         </g>
     </g>
     <path d="M 0.00001 0.00001 L 37.5 0 L 37.5 0 L 75 0" fill="none" stroke="#000" transform="translate(40560.5 565.5)"/>
-    <path fill="none" d="M 0.00001 0.00001 L 40 0 L 40 175" stroke="#000" transform="translate(40560.5 565.5)"/>
-    <path fill="none" d="M 1094 100 L 1094 0 L 0 0" stroke="#000" transform="translate(40611.5 640.5)"/>
+    <path d="M 0.00001 0.00001 L 40 0 L 40 175" fill="none" stroke="#000" transform="translate(40560.5 565.5)"/>
+    <path d="M 1094 100 L 1094 0 L 0 0" fill="none" stroke="#000" transform="translate(40611.5 640.5)"/>
     <path d="M 0.00001 0.00001 Q 11 1 11 15" fill="none" transform="translate(40600 625.5)"/>
     <path d="M 0 15 Q 0 0 10 0" fill="none" transform="translate(40590 625.5)"/>
-    <path fill="none" d="M 0.00001 0.00001 L 0 45 L 0 45 L 0 75" stroke="#000" transform="translate(44370.5 765.5)"/>
+    <path d="M 0.00001 0.00001 L 0 45 L 0 45 L 0 75" fill="none" stroke="#000" transform="translate(44370.5 765.5)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Birth_1800-328,Marriage-309">
         <g transform="translate(40415.5 940.5)">
             <rect height="50" stroke-width="3" width="130" x="0" y="0"/>
@@ -11859,7 +11859,7 @@
             </g>
         </g>
     </a>
-    <path fill="none" d="M 0.00001 0.00001 L 0 87.5 L 0 87.5 L 0 175" stroke="#000" transform="translate(40485.5 765.5)"/>
+    <path d="M 0.00001 0.00001 L 0 87.5 L 0 87.5 L 0 175" fill="none" stroke="#000" transform="translate(40485.5 765.5)"/>
     <g transform="translate(40200.5 940.5)">
         <rect height="50" stroke-dasharray="3 4" width="170" x="0" y="0"/>
         <g class="Text.cls">
@@ -11870,7 +11870,7 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 0.00001 0.00001 L 22.5 0 L 22.5 0 L 45 0" stroke="#000" transform="translate(40370.5 965.5)"/>
+    <path d="M 0.00001 0.00001 L 22.5 0 L 22.5 0 L 45 0" fill="none" stroke="#000" transform="translate(40370.5 965.5)"/>
     <g transform="translate(44590.5 940.5)">
         <rect height="50" stroke-dasharray="3 4" width="130" x="0" y="0"/>
         <g class="Text.cls">
@@ -11881,7 +11881,7 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 0.00001 0.00001 L 32.5 0 L 32.5 0 L 65 0" stroke="#000" transform="translate(44525.5 965.5)"/>
+    <path d="M 0.00001 0.00001 L 32.5 0 L 32.5 0 L 65 0" fill="none" stroke="#000" transform="translate(44525.5 965.5)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Birth_1800-467">
         <g transform="translate(44480.5 1090.5)">
             <rect height="50" stroke-width="3" width="155" x="0" y="0"/>
@@ -11894,8 +11894,8 @@
             </g>
         </g>
     </a>
-    <path fill="none" d="M 0.00001 0.00001 L 2.5 0 L 2.5 125" stroke="#000" transform="translate(44555.5 965.5)"/>
-    <path fill="none" d="M 2.5 0.00001 L 0 0 L 0 100" stroke="#000" transform="translate(40383 640.5)"/>
+    <path d="M 0.00001 0.00001 L 2.5 0 L 2.5 125" fill="none" stroke="#000" transform="translate(44555.5 965.5)"/>
+    <path d="M 2.5 0.00001 L 0 0 L 0 100" fill="none" stroke="#000" transform="translate(40383 640.5)"/>
     <g transform="translate(26620.5 1240.5)">
         <rect height="50" width="150" x="0" y="0"/>
         <g class="Text.cls">
@@ -11906,7 +11906,7 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 0.00001 0.00001 L 45 0 L 45 0 L 90 0" stroke="#000" transform="translate(26530.5 1265.5)"/>
+    <path d="M 0.00001 0.00001 L 45 0 L 45 0 L 90 0" fill="none" stroke="#000" transform="translate(26530.5 1265.5)"/>
     <g transform="translate(26370.5 1390.5)">
         <rect height="50" width="150" x="0" y="0"/>
         <g class="Text.cls">
@@ -11937,7 +11937,7 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 0.00001 0.00001 L 50 0 L 50 0 L 100 0" stroke="#000" transform="translate(26770.5 1415.5)"/>
-    <path fill="none" d="M 0.00001 50 L 0 0 L 250 0 L 250 50" stroke="#000" transform="translate(26445.5 1340.5)"/>
-    <path fill="none" d="M 0.00001 0.00001 L 0 37.5 L 0 37.5 L 0 75" stroke="#000" transform="translate(26570.5 1265.5)"/>
+    <path d="M 0.00001 0.00001 L 50 0 L 50 0 L 100 0" fill="none" stroke="#000" transform="translate(26770.5 1415.5)"/>
+    <path d="M 0.00001 50 L 0 0 L 250 0 L 250 50" fill="none" stroke="#000" transform="translate(26445.5 1340.5)"/>
+    <path d="M 0.00001 0.00001 L 0 37.5 L 0 37.5 L 0 75" fill="none" stroke="#000" transform="translate(26570.5 1265.5)"/>
 </svg>
