@@ -38,7 +38,7 @@ function App() {
   const [help, setHelp] = React.useState(false);
   const [history, setHistory] = React.useState(false);
   const [position, setPosition] = React.useState(null);
-  const showHistoryLink = true;
+  const archiveURL = 'https://accomazzo.org/?documents';
 
   useEffect(()=>{
     ReactGA.initialize('UA-168075958-1');
@@ -87,17 +87,14 @@ function App() {
           </Typography>
         </Hidden>
         <AppSearch setPosition={setSearchPos}/>
-        { showHistoryLink &&
-          <>
-            <Hidden smDown>
-                <Button color="inherit" size='small' onClick={openHistory}>Family History</Button>
-            </Hidden>
-            <Hidden mdUp>
-                <Button color="inherit" size='small' onClick={openHistory}>History</Button>
-            </Hidden>
-          </>
-        }
-        <Button color="inherit" size='small' onClick={openHelp}>Help</Button>
+        <Hidden mdDown>
+            <Button color="inherit" size='small' onClick={openHistory}>Family History</Button>
+        </Hidden>
+        <Hidden lgUp>
+            <Button color="inherit" size='small' onClick={openHistory}>History</Button>
+        </Hidden>
+        <Button color="inherit" size='small' onClick={()=>window.location=archiveURL} style={{marginLeft:10, marginRight:10}}>Archive</Button>
+        <Button color="inherit" size='small' onClick={openHelp} style={{ minWidth:'3em'}} >Help</Button>
       </Toolbar>
     </AppBar>
     <Container maxWidth="xl" >
