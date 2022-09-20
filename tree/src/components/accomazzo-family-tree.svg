@@ -338,7 +338,8 @@
             <g class="Text.cls">
                 <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
-                    <tspan x="75" y="21.22">🇮🇹 Tommaso</tspan>
+                    <tspan font-family="Noto Color Emoji" x="41.8906" y="21.22">🇮🇹</tspan>
+                    <tspan x="83.7188" y="21.22"> Tommaso</tspan>
                     <tspan x="75" y="38.02">(1814-)</tspan>
                 </text>
             </g>
@@ -358,7 +359,8 @@
         <g class="Text.cls">
             <rect x="0" y="0" width="150" height="30" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan x="75" y="19.62">🇮🇹 Celestina Biglione</tspan>
+                <tspan font-family="Noto Color Emoji" x="17.6523" y="19.62">🇮🇹</tspan>
+                <tspan x="83.7188" y="19.62"> Celestina Biglione</tspan>
             </text>
         </g>
     </g>
@@ -400,7 +402,8 @@
             <g class="Text.cls">
                 <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
-                    <tspan x="75" y="21.22">🇮🇹 Giov. Battista</tspan>
+                    <tspan font-family="Noto Color Emoji" x="32.1172" y="21.22">🇮🇹</tspan>
+                    <tspan x="83.7188" y="21.22"> Giov. Battista</tspan>
                     <tspan x="75" y="38.02">(1810-after 1882)</tspan>
                 </text>
             </g>
@@ -420,7 +423,8 @@
         <g class="Text.cls">
             <rect x="0" y="0" width="105" height="30" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan x="52.5" y="19.62">🇮🇹 Rosa Bugia</tspan>
+                <tspan font-family="Noto Color Emoji" x="15.6641" y="19.62">🇮🇹</tspan>
+                <tspan x="61.2188" y="19.62"> Rosa Bugia</tspan>
             </text>
         </g>
     </g>
@@ -1901,7 +1905,8 @@
         <g class="Text.cls">
             <rect x="0" y="0" width="125" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan x="62.5" y="21.22">🇮🇹 Maria Bonvicino</tspan>
+                <tspan font-family="Noto Color Emoji" x="10.7188" y="21.22">🇮🇹</tspan>
+                <tspan x="71.2188" y="21.22"> Maria Bonvicino</tspan>
                 <tspan x="62.5" y="38.02">(1871-1955)</tspan>
             </text>
         </g>
@@ -5240,7 +5245,8 @@
             <g class="Text.cls">
                 <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
-                    <tspan x="50" y="21.22">🇮🇹 Rosa</tspan>
+                    <tspan font-family="Noto Color Emoji" x="32.5469" y="21.22">🇮🇹</tspan>
+                    <tspan x="58.7188" y="21.22"> Rosa</tspan>
                     <tspan x="50" y="38.02">(1860-)</tspan>
                 </text>
             </g>
@@ -6938,7 +6944,8 @@
         <g class="Text.cls">
             <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan x="75" y="21.22">🇺🇸 Iain Mac Nevin</tspan>
+                <tspan font-family="Noto Color Emoji" x="27.3398" y="21.22">🇺🇸</tspan>
+                <tspan x="83.7188" y="21.22"> Iain Mac Nevin</tspan>
                 <tspan x="75" y="38.02">(2009-)</tspan>
             </text>
         </g>
@@ -8029,7 +8036,7 @@
     </g>
     <path d="M 2940 125 L 2940 75 L 0 75 L 0 0" fill="none" transform="translate(13295.5 1445.38)"/>
     <path d="M 1540 110 L 1540 60 L 0 60 L 0 0" fill="none" transform="translate(13295.5 1460.38)"/>
-    <path d="M 0.00001 50 L 0 25 L 0 25 L 0 0" fill="none" transform="translate(13570.5 1520.38)"/>
+    <path d="M 0.00001 50 L 0 0 L 2.5 0" fill="none" transform="translate(13558 1520.38)"/>
     <path d="M 0.00001 50 L 0 25 L 0 25 L 0 0" fill="none" transform="translate(12525.5 1520.38)"/>
     <path d="M 0 105 L 0 55 L 1497.5 55 L 1497.5 0" fill="none" transform="translate(11798 1465.38)"/>
     <path d="M 112.5 100 L 112.5 50 L 0 50 L 0 0" fill="none" transform="translate(11875.5 1620.38)"/>
@@ -8106,15 +8113,14 @@
     <path d="M 0.00001 0.00001 L 25 0 L 25 0 L 50 0" fill="none" transform="translate(12575.5 1595.38)"/>
     <path d="M 0.00001 0.00001 L 25 0 L 25 0 L 50 0" fill="none" transform="translate(11850.5 1595.38)"/>
     <path d="M 0.00001 0.00001 L 30 0 L 30 0 L 55 0" fill="none" transform="translate(13270.5 1445.38)"/>
-    <g transform="translate(13520.5 1570.38)">
-        <rect height="50" width="100" x="0" y="0"/>
+    <g transform="translate(13490.5 1570.38)">
+        <rect height="50" width="135" x="0" y="0"/>
         <g class="Text.cls">
-            <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
+            <rect x="0" y="0" width="135" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan font-family="Noto Color Emoji" x="30.582" y="12.82">🇺🇸</tspan>
-                <tspan x="58.7188" y="12.82"> Betty </tspan>
-                <tspan x="50" y="29.62">Louise</tspan>
-                <tspan x="50" y="46.42">(1942-)</tspan>
+                <tspan font-family="Noto Color Emoji" x="27.4453" y="21.22">🇺🇸</tspan>
+                <tspan x="76.2188" y="21.22"> Betty Louise</tspan>
+                <tspan x="67.5" y="38.02">(1942-)</tspan>
             </text>
         </g>
     </g>
@@ -8143,14 +8149,13 @@
         </g>
     </g>
     <g transform="translate(12625.5 1570.38)">
-        <rect height="50" width="130" x="0" y="0"/>
+        <rect height="50" width="190" x="0" y="0"/>
         <g class="Text.cls">
-            <rect x="0" y="0" width="130" height="50" fill="none" stroke="none"/>
+            <rect x="0" y="0" width="190" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan font-family="Noto Color Emoji" x="35.9492" y="12.82">🇺🇸</tspan>
-                <tspan x="73.7188" y="12.82"> Kenneth </tspan>
-                <tspan x="65" y="29.62">Brobeck</tspan>
-                <tspan x="65" y="46.42">(1936-)</tspan>
+                <tspan font-family="Noto Color Emoji" x="40.4492" y="21.22">🇺🇸</tspan>
+                <tspan x="103.7188" y="21.22"> Kenneth Brobeck</tspan>
+                <tspan x="95" y="38.02">(1936-)</tspan>
             </text>
         </g>
     </g>
@@ -8204,7 +8209,8 @@
         <g class="Text.cls">
             <rect x="0" y="0" width="125" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan x="62.5" y="21.22">🇮🇹 Maria Grosso</tspan>
+                <tspan font-family="Noto Color Emoji" x="18.9688" y="21.22">🇮🇹</tspan>
+                <tspan x="71.2188" y="21.22"> Maria Grosso</tspan>
                 <tspan x="62.5" y="38.02">(1890-1919)</tspan>
             </text>
         </g>
@@ -8215,7 +8221,8 @@
         <g class="Text.cls">
             <rect x="0" y="0" width="125" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan x="62.5" y="21.22">🇺🇸 Della Shurbert</tspan>
+                <tspan font-family="Noto Color Emoji" x="16.832" y="21.22">🇺🇸</tspan>
+                <tspan x="71.2188" y="21.22"> Della Shurbert</tspan>
                 <tspan x="62.5" y="38.02">(1887-1992)</tspan>
             </text>
         </g>
@@ -8226,7 +8233,8 @@
             <g class="Text.cls">
                 <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
-                    <tspan x="50" y="21.22">🇮🇹 Dante</tspan>
+                    <tspan font-family="Noto Color Emoji" x="30.0117" y="21.22">🇮🇹</tspan>
+                    <tspan x="58.7188" y="21.22"> Dante</tspan>
                     <tspan x="50" y="38.02">(1888-1965)</tspan>
                 </text>
             </g>
