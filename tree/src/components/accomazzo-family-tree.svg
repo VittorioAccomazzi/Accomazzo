@@ -2631,7 +2631,8 @@
             <g class="Text.cls">
                 <rect x="0" y="0" width="145" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
-                    <tspan x="72.5" y="21.22">🇮🇹 Giuseppe</tspan>
+                    <tspan font-family="Noto Color Emoji" x="41.5586" y="21.22">🇮🇹</tspan>
+                    <tspan x="81.2188" y="21.22"> Giuseppe</tspan>
                     <tspan x="72.5" y="38.02">(1804-1876)</tspan>
                 </text>
             </g>
@@ -7272,25 +7273,24 @@
         </g>
     </g>
     <path d="M 0.00001 0.00001 L 25 0 L 25 0 L 50 0" fill="none" transform="translate(12410.5 1745.38)"/>
-    <g transform="translate(12270.5 1720.38)">
-        <rect height="50" width="140" x="0" y="0"/>
+    <g transform="translate(12265.5 1720.38)">
+        <rect height="50" width="150" x="0" y="0"/>
         <g class="Text.cls">
-            <rect x="0" y="0" width="140" height="50" fill="none" stroke="none"/>
+            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan font-family="Noto Color Emoji" x="34.582" y="12.82">🇺🇸</tspan>
-                <tspan x="78.7188" y="12.82"> Tanya Rae </tspan>
-                <tspan x="70" y="29.62">Brobeck</tspan>
-                <tspan x="70" y="46.42">(1961-)</tspan>
+                <tspan font-family="Noto Color Emoji" x="14.082" y="21.22">🇺🇸</tspan>
+                <tspan x="83.7188" y="21.22"> Tanya Rae Brobeck</tspan>
+                <tspan x="75" y="38.02">(1961-)</tspan>
             </text>
         </g>
     </g>
-    <g transform="translate(12460.5 1730.38)">
-        <rect height="30" width="110" x="0" y="0"/>
+    <g transform="translate(12455.5 1730.38)">
+        <rect height="30" width="115" x="0" y="0"/>
         <g class="Text.cls">
-            <rect x="0" y="0" width="110" height="30" fill="none" stroke="none"/>
+            <rect x="0" y="0" width="115" height="30" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan font-family="Noto Color Emoji" x="15.7422" y="19.62">🇺🇸</tspan>
-                <tspan x="63.7188" y="19.62"> Doug Doney</tspan>
+                <tspan font-family="Noto Color Emoji" x="18.2422" y="19.62">🇺🇸</tspan>
+                <tspan x="66.2188" y="19.62"> Doug Doney</tspan>
             </text>
         </g>
     </g>
