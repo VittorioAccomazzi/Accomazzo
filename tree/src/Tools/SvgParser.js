@@ -41,8 +41,10 @@ const readline = require('readline');
             lastPos = null;
         } 
 
-        let p=extract('<text fill="#000" transform="translate(', ')', line) ||  // extrat line for names.
-              extract('<g transform="translate(',')', line);                    // extract line for circle.
+        // remove the font size which is inserted only in few lines.
+        let cleanLine = line.replace("fontSize={14} ","");
+        let p=extract('<text fill="#000" transform="translate(', ')', cleanLine) ||  // extrat line for names.
+              extract('<g transform="translate(',')', cleanLine);                    // extract line for circle.
         if( p ){
             lastPos = p.split(" ");
             lastName= null;
