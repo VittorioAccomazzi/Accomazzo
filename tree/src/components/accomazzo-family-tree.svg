@@ -1284,19 +1284,19 @@
         </g>
     </a>
     <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-88,Marriage-209,Death-224,Marriage-561">
-        <g transform="translate(42175.5 770.38)">
-            <rect height="50" stroke-width="3" width="220" x="0" y="0"/>
+        <g transform="translate(42480.5 770.38)">
+            <rect height="50" stroke-width="3" width="240" x="0" y="0"/>
             <g class="Text.cls">
-                <rect x="0" y="0" width="220" height="50" fill="none" stroke="none"/>
+                <rect x="0" y="0" width="240" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
-                    <tspan font-family="Noto Color Emoji" x="29.25" y="21.22">🇮🇹</tspan>
-                    <tspan x="118.7188" y="21.22"> Giacomo Calisto Edoardo</tspan>
-                    <tspan x="110" y="38.02">(1852-1932)</tspan>
+                    <tspan font-family="Noto Color Emoji" x="39.2539" y="21.22">🇮🇹</tspan>
+                    <tspan x="128.7188" y="21.22"> Giacomo Calisto Edoardo</tspan>
+                    <tspan x="120" y="38.02">(1852-1932)</tspan>
                 </text>
             </g>
         </g>
     </a>
-    <g transform="translate(42155.5 750.38)">
+    <g transform="translate(42460.5 750.38)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
@@ -1305,8 +1305,8 @@
             </text>
         </g>
     </g>
-    <a xlink:href="https://accomazzo.org/?show=Death-215,Birth_1800-644,Marriage-561,Marriage-210">
-        <g transform="translate(42445.5 770.38)">
+    <a xlink:href="https://accomazzo.org/?show=Death-215,Birth_1800-644,Marriage-561,Marriage-209">
+        <g transform="translate(42170.5 770.38)">
             <rect height="50" stroke-width="3" width="200" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="200" height="50" fill="none" stroke="none"/>
@@ -1318,7 +1318,7 @@
             </g>
         </g>
     </a>
-    <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1800-135">
+    <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1,Marriage-699">
         <g transform="translate(41390.5 770.38)">
             <rect height="50" stroke-width="3" width="200" x="0" y="0"/>
             <g class="Text.cls">
@@ -1340,16 +1340,19 @@
             </text>
         </g>
     </g>
-    <g transform="translate(41640.5 780.38)">
-        <rect height="30" width="150" x="0" y="0"/>
-        <g class="Text.cls">
-            <rect x="0" y="0" width="150" height="30" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan font-family="Noto Color Emoji" x="19.8906" y="19.62">🇮🇹</tspan>
-                <tspan x="83.7188" y="19.62"> Laura Rabezzana</tspan>
-            </text>
+    <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-699">
+        <g transform="translate(41640.5 770.38)">
+            <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
+            <g class="Text.cls">
+                <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1" font-size="13.999999999999998px">
+                    <tspan font-family="Noto Color Emoji" x="19.8906" y="21.22">🇮🇹</tspan>
+                    <tspan x="83.7188" y="21.22"> Laura Rabezzana</tspan>
+                    <tspan x="75" y="38.02">(1886-)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-189,Birth_1800-102,Death-221,Marriage-542">
         <g transform="translate(43365.5 770.38)">
             <rect height="50" stroke-width="3" width="200" x="0" y="0"/>
@@ -1497,10 +1500,10 @@
     <path d="M 50 0.00001 L 27.5 0 L 27.5 0 L 0 0" fill="none" transform="translate(38940.5 595.38)"/>
     <path d="M 0.00001 0.00001 L 67.5 0 L 67.5 0 L 95 0" fill="none" transform="translate(38555.5 795.38)"/>
     <path d="M 0.00001 0.00001 L 20 0 L 20 0 L 65 0" fill="none" transform="translate(40040.5 795.38)"/>
-    <path d="M 0.00001 0.00001 L 25 0 L 25 0 L 50 0" fill="none" transform="translate(42395.5 795.38)"/>
+    <path d="M 110 0.00001 L 50 0 L 50 0 L 0 0" fill="none" transform="translate(42370.5 795.38)"/>
     <path d="M 0.00001 0.00001 L 25 0 L 25 0 L 50 0" fill="none" transform="translate(41590.5 795.38)"/>
     <path d="M 0.00001 0.00001 L 25 0 L 25 0 L 50 0" fill="none" transform="translate(43565.5 795.38)"/>
-    <path d="M 1197.5 100 L 1197.5 0 L 0 0" fill="none" transform="translate(42268 670.38)"/>
+    <path d="M 1445 100 L 1445 0 L 0 0" fill="none" transform="translate(42020.5 670.38)"/>
     <g transform="translate(44145.5 770.38)">
         <rect height="50" stroke-dasharray="3 4" width="130" x="0" y="0"/>
         <g class="Text.cls">
@@ -3746,7 +3749,7 @@
     </g>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-681">
         <g transform="translate(1995.5 1270.38)">
-            <rect height="50" width="160" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="160" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="160" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1" font-size="13.999999999999998px">
@@ -4490,7 +4493,7 @@
     </g>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-676">
         <g transform="translate(46900.5 970.38)">
-            <rect height="50" width="130" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="130" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="130" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -4505,7 +4508,7 @@
     <path d="M 0.00001 0.00001 L 50 0 L 50 0 L 0 0" fill="none" stroke="#000" transform="translate(46430.5 995.38)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-685">
         <g transform="translate(46470.5 970.38)">
-            <rect height="50" width="160" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="160" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="160" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -4518,7 +4521,7 @@
     </a>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-685">
         <g transform="translate(46305.5 970.38)">
-            <rect height="50" width="125" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="125" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="125" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -4704,7 +4707,7 @@
     <path d="M 0.00001 0.00001 L 55 0 L 55 0 L 0 0" fill="none" stroke="#000" transform="translate(46025.5 995.38)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-643">
         <g transform="translate(46080.5 970.38)">
-            <rect height="50" width="150" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -4869,7 +4872,7 @@
     </g>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-655">
         <g transform="translate(6493 1270.38)">
-            <rect height="50" width="172.5" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="172.5" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="172.5" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1" font-size="13.999999999999998px">
@@ -5925,7 +5928,7 @@
     <path d="M 0.00001 0.00001 L 25 0 L 25 0 L 70 0" fill="none" transform="translate(34710.5 1295.38)"/>
     <a xlink:href="https://accomazzo.org/?show=Marriage-695">
         <g transform="translate(34780.5 1270.38)">
-            <rect height="50" width="150" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -5938,7 +5941,7 @@
     </a>
     <a xlink:href="https://accomazzo.org/?show=Marriage-695">
         <g transform="translate(34590.5 1270.38)">
-            <rect height="50" width="120" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="120" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="120" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -5952,7 +5955,7 @@
     <path d="M 0.00001 0.00001 L 22.5 0 L 22.5 0 L 45 0" fill="none" transform="translate(34325.5 1295.38)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-680">
         <g transform="translate(34370.5 1270.38)">
-            <rect height="50" width="125" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="125" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="125" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -5966,7 +5969,7 @@
     <path d="M 0.00001 0.00001 L 25 0 L 25 0 L 50 0" fill="none" transform="translate(33575.5 1295.38)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-645">
         <g transform="translate(33625.5 1270.38)">
-            <rect height="50" width="145" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="145" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="145" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1" font-size="14.000000000000002px">
@@ -6136,7 +6139,7 @@
     <path d="M 0.00001 0.00001 L 25 0 L 25 0 L 50 0" fill="none" transform="translate(32655.5 1295.38)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-688">
         <g transform="translate(32705.5 1270.38)">
-            <rect height="50" width="125" x="0" y="0" stroke-width="4"/>
+            <rect height="50" stroke-width="4" width="125" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="125" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -6187,7 +6190,7 @@
     <path d="M 0.00001 0.00001 L 25 0 L 25 0 L 50 0" fill="none" transform="translate(32165.5 1295.38)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-666">
         <g transform="translate(32215.5 1270.38)">
-            <rect height="50" width="125" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="125" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="125" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -6263,7 +6266,7 @@
     <path d="M 0.00001 0.00001 L 25 0 L 25 0 L 50 0" fill="none" transform="translate(31530.5 1295.38)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-638">
         <g transform="translate(31580.5 1270.38)">
-            <rect height="50" width="150" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -6328,7 +6331,7 @@
     <path d="M 0.00001 0.00001 L 22.5 0 L 22.5 0 L 45 0" fill="none" transform="translate(30910.5 1295.38)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-641">
         <g transform="translate(30955.5 1270.38)">
-            <rect height="50" width="150" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -6424,7 +6427,7 @@
     <path d="M 0.00001 125 L 0 0 L 2.5 0" fill="none" transform="translate(37098 1145.38)"/>
     <a xlink:href="https://accomazzo.org/?show=Marriage-677">
         <g transform="translate(36845.5 1270.38)">
-            <rect height="50" width="155" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="155" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="155" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1" font-size="14.000000000000002px">
@@ -6476,7 +6479,7 @@
     <path d="M 0.00001 0.00001 L 30 0 L 30 0 L 55 0" fill="none" transform="translate(36405.5 1295.38)"/>
     <a xlink:href="https://accomazzo.org/?show=Marriage-691">
         <g transform="translate(36460.5 1270.38)">
-            <rect height="50" width="165" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="165" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="165" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1" font-size="13.999999999999998px">
@@ -6563,7 +6566,7 @@
     <path d="M 0.00001 0.00001 L 30 0 L 30 0 L 60 0" fill="none" transform="translate(36010.5 1295.38)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-686">
         <g transform="translate(36070.5 1270.38)">
-            <rect height="50" width="155" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="155" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="155" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -9440,7 +9443,7 @@
     <path d="M 107.5 105 L 107.5 55 L 0 55 L 0 0" fill="none" transform="translate(26160.5 1165.38)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-662">
         <g transform="translate(26360.5 1270.38)">
-            <rect height="50" width="145" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="145" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="145" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -12307,7 +12310,7 @@
     </a>
     <a xlink:href="https://accomazzo.org/?show=Marriage-696">
         <g transform="translate(7210.5 1270.38)">
-            <rect height="50" width="110" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="110" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="110" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -12346,7 +12349,7 @@
     <path d="M 0.00001 0.00001 L 35 0 L 35 0 L 70 0" fill="none" stroke="#000" transform="translate(7745.5 1145.38)"/>
     <a xlink:href="https://accomazzo.org/?show=Marriage-673">
         <g transform="translate(7885.5 1270.38)">
-            <rect height="50" width="145" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="145" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="145" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -12758,7 +12761,6 @@
         </g>
     </g>
     <path d="M 0.00001 0.00001 L 37.5 0 L 37.5 0 L 75 0" fill="none" stroke="#000" transform="translate(41013 595.38)"/>
-    <path d="M 1212.5 100 L 1212.5 0 L 0 0" fill="none" stroke="#000" transform="translate(41068 670.38)"/>
     <path d="M 0.00001 0.00001 Q 11 1 11 15" fill="none" transform="translate(41057 655.38)"/>
     <path d="M 0 15 Q 0 0 10 0" fill="none" transform="translate(41047 655.38)"/>
     <path d="M 0.00001 0.00001 L 0 45 L 0 45 L 0 75" fill="none" stroke="#000" transform="translate(44940.5 795.38)"/>
@@ -13065,5 +13067,42 @@
             </g>
         </g>
     </a>
-    <path fill="none" d="M 0.00001 0.00001 L 15 0 L 15 0 L 30 0" stroke="#000" transform="translate(37155.5 1295.38)"/>
+    <path d="M 0.00001 0.00001 L 15 0 L 15 0 L 30 0" fill="none" stroke="#000" transform="translate(37155.5 1295.38)"/>
+    <g transform="translate(41830.5 580.38)">
+        <rect height="30" width="150" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="150" height="30" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan font-family="Noto Color Emoji" x="18.9609" y="19.62">🇮🇹</tspan>
+                <tspan x="83.7188" y="19.62"> Pietro Rabezzana</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(42040.5 580.38)">
+        <rect height="30" width="110" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="110" height="30" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan font-family="Noto Color Emoji" x="37.5469" y="19.62">🇮🇹</tspan>
+                <tspan x="63.7188" y="19.62"> Rosa</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(42040.5 430.38)">
+        <rect height="30" width="105" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="105" height="30" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan font-family="Noto Color Emoji" x="22.707" y="19.62">🇮🇹</tspan>
+                <tspan x="61.2188" y="19.62"> Giacomo</tspan>
+            </text>
+        </g>
+    </g>
+    <path fill="none" d="M 0.00001 0.00001 L 30 0 L 30 0 L 60 0" stroke="#000" transform="translate(41980.5 595.38)"/>
+    <path fill="none" d="M 0.00001 0.00001 L 0 60 L 0 60 L 0 120" stroke="#000" transform="translate(42095.5 460.38)"/>
+    <path fill="none" d="M 0.00001 50 L 0 0 L 555 0 L 555 50" stroke="#000" transform="translate(41715.5 720.38)"/>
+    <path fill="none" d="M 0.00001 0.00001 L 0 62.5 L 0 62.5 L 0 125" stroke="#000" transform="translate(42010.5 595.38)"/>
+    <path d="M 0.00001 0.00001 Q 11 1 11 15" fill="none" transform="translate(42010.5 655.38)"/>
+    <path d="M 0 15 Q 0 0 10 0" fill="none" transform="translate(42000.5 655.38)"/>
+    <path fill="none" d="M 0.00001 0.00001 L 467.5 0 L 467.5 0 L 932.5 0" stroke="#000" transform="translate(41068 670.38)"/>
 </svg>
