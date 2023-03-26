@@ -50,6 +50,7 @@ const dstFld= null; // do not check the image path
                     let year = imgPath.substr(0,4);
                     let specialFilesPattern = /^[a-z]+_[0-9_]+$/gi
                     if( specialFilesPattern.test(imgPath)) year = parseInt(items[2])+parseInt(items[4])
+                    if( imgPath == "Ancestry" ) year = parseInt(items[2])+parseInt(items[4])
                     imgPath += ".jpg"
                     let doc ={
                         Url  : docDefs.Death.folder+imgPath,
