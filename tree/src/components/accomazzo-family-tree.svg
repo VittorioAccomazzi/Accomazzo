@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:v="http://vecta.io" width="50042" height="2142" viewBox="0 0 50042 2142">
-       <style>
+      <style>
         <![CDATA[svg{stroke:#000;stroke-linecap:round;stroke-linejoin:round;fill:#fff;fill-rule:evenodd;font-family:Roboto;font-size:14px;text-anchor:middle}svg text{stroke:none;white-space:pre}svg .Text\.cls{stroke:none}]]>
     </style>
     <defs>
@@ -1380,7 +1380,8 @@
         <g class="Text.cls">
             <rect x="0" y="0" width="200" height="30" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan x="100" y="19.62">🇮🇹 Francesco Riccomagno</tspan>
+                <tspan font-family="Noto Color Emoji" x="27.3633" y="19.62">🇮🇹</tspan>
+                <tspan x="108.7188" y="19.62"> Francesco Riccomagno</tspan>
             </text>
         </g>
     </g>
@@ -1806,7 +1807,7 @@
         <g class="Text.cls">
             <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan font-family="Noto Color Emoji" x="23.2031" y="21.22">🇮🇹</tspan>
+                <tspan font-family="Noto Color Emoji" x="24.5039" y="21.22">🇮🇹</tspan>
                 <tspan x="83.7188" y="21.22"> Celestina Clerici</tspan>
                 <tspan x="75" y="38.02">(1847-1919)</tspan>
             </text>
@@ -2319,7 +2320,8 @@
             <g class="Text.cls">
                 <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
-                    <tspan x="75" y="21.22">🇮🇹  Francesco Carlo</tspan>
+                    <tspan font-family="Noto Color Emoji" x="22.5469" y="21.22">🇮🇹</tspan>
+                    <tspan x="83.7188" y="21.22">  Francesco Carlo</tspan>
                     <tspan x="75" y="38.02">(1866-)</tspan>
                 </text>
             </g>
@@ -2517,7 +2519,8 @@
         <g class="Text.cls">
             <rect x="0" y="0" width="125" height="30" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan x="62.5" y="19.62">🇮🇹 Rosa Piccinino</tspan>
+                <tspan font-family="Noto Color Emoji" x="16.5508" y="19.62">🇮🇹</tspan>
+                <tspan x="71.2188" y="19.62"> Rosa Piccinino</tspan>
             </text>
         </g>
     </g>
@@ -4270,7 +4273,8 @@
             <g class="Text.cls">
                 <rect x="0" y="0" width="115" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
-                    <tspan x="57.5" y="21.22">🇮🇹 Candido</tspan>
+                    <tspan font-family="Noto Color Emoji" x="29.6836" y="21.22">🇮🇹</tspan>
+                    <tspan x="66.2188" y="21.22"> Candido</tspan>
                     <tspan x="57.5" y="38.02">(1856-1932)</tspan>
                 </text>
             </g>
@@ -4502,17 +4506,19 @@
     <path d="M 0 175 L 0 75 L 92.5 75 L 92.5 0" fill="none" stroke="#000" transform="translate(46883 845.38)"/>
     <path d="M 0 150 L 0 50 L 317.5 50 L 317.5 0" fill="none" stroke="#000" transform="translate(46658 870.38)"/>
     <path d="M 0.00001 0.00001 L 35 0 L 35 0 L 70 0" fill="none" stroke="#000" transform="translate(46940.5 845.38)"/>
-    <g transform="translate(47010.5 820.38)">
-        <rect height="50" width="165" x="0" y="0"/>
-        <g class="Text.cls">
-            <rect x="0" y="0" width="165" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan font-family="Noto Color Emoji" x="17.7852" y="21.22">🇮🇹</tspan>
-                <tspan x="91.2188" y="21.22"> Giovanna Caravaglia</tspan>
-                <tspan x="82.5" y="38.02">(1873-1935)</tspan>
-            </text>
+    <a xlink:href="https://accomazzo.org/?show=Marriage-716">
+        <g transform="translate(47010.5 820.38)">
+            <rect height="50" width="165" x="0" y="0" stroke-width="3"/>
+            <g class="Text.cls">
+                <rect x="0" y="0" width="165" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan font-family="Noto Color Emoji" x="17.3164" y="21.22">🇮🇹</tspan>
+                    <tspan x="91.2188" y="21.22"> Giovanna Garavaglia</tspan>
+                    <tspan x="82.5" y="38.02">(1873-1935)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(46810.5 820.38)">
         <rect height="50" stroke-dasharray="3 4" width="130" x="0" y="0"/>
         <g class="Text.cls">
@@ -4844,7 +4850,7 @@
         <g class="Text.cls">
             <rect x="0" y="0" width="195" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan font-family="Noto Color Emoji" x="15.5195" y="21.22">🇺🇸</tspan>
+                <tspan font-family="Noto Color Emoji" x="16.8203" y="21.22">🇺🇸</tspan>
                 <tspan x="106.2188" y="21.22"> Rena Celestina Sepulveda</tspan>
                 <tspan x="97.5" y="38.02">(1988-)</tspan>
             </text>
@@ -8333,7 +8339,7 @@
         <g class="Text.cls">
             <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan font-family="Noto Color Emoji" x="13.5508" y="21.22">🇮🇹</tspan>
+                <tspan font-family="Noto Color Emoji" x="14.6406" y="21.22">🇮🇹</tspan>
                 <tspan x="83.7188" y="21.22"> Celestina Stredella </tspan>
                 <tspan x="75" y="38.02">(-2008)</tspan>
             </text>
@@ -10037,7 +10043,7 @@
         </g>
     </g>
     <path d="M 0.00001 0.00001 L 65 0 L 65 0 L 130 0" fill="none" stroke="#000" transform="translate(29375.5 1045.38)"/>
-    <a target="_blank" xlink:href="https://accomazzo.org/?show=Birth_1800-325">
+    <a target="_blank" xlink:href="https://accomazzo.org/?show=Birth_1800-325,Marriage-717">
         <g transform="translate(29370.5 1170.38)">
             <rect height="50" stroke-width="3" width="155" x="0" y="0"/>
             <g class="Text.cls">
@@ -10050,17 +10056,19 @@
             </g>
         </g>
     </a>
-    <g transform="translate(29580.5 1170.38)">
-        <rect height="50" width="140" x="0" y="0"/>
-        <g class="Text.cls">
-            <rect x="0" y="0" width="140" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan font-family="Noto Color Emoji" x="11.7656" y="21.22">🇮🇹</tspan>
-                <tspan x="78.7188" y="21.22"> Carolina Casalone</tspan>
-                <tspan x="70" y="38.02">(1886-1954)</tspan>
-            </text>
+    <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-717">
+        <g transform="translate(29580.5 1170.38)">
+            <rect height="50" width="140" x="0" y="0" stroke-width="3"/>
+            <g class="Text.cls">
+                <rect x="0" y="0" width="140" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan font-family="Noto Color Emoji" x="12.9727" y="21.22">🇮🇹</tspan>
+                    <tspan x="78.7188" y="21.22"> Carolina Casalone</tspan>
+                    <tspan x="70" y="38.02">(1886-1954)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <path d="M 0.00001 0.00001 L 30 0 L 30 0 L 55 0" fill="none" transform="translate(29525.5 1195.38)"/>
     <path d="M 0.00001 125 L 0 0 L 2.5 0" fill="none" stroke="#000" transform="translate(29448 1045.38)"/>
     <g transform="translate(29350.5 1150.38)">
@@ -10588,7 +10596,8 @@
             <g class="Text.cls">
                 <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
-                    <tspan x="75" y="21.22">🇮🇹 Angela Capello</tspan>
+                    <tspan font-family="Noto Color Emoji" x="26.4844" y="21.22">🇮🇹</tspan>
+                    <tspan x="83.7188" y="21.22"> Angela Capello</tspan>
                     <tspan x="75" y="38.02">(1826-1900)</tspan>
                 </text>
             </g>
@@ -12649,20 +12658,20 @@
             </text>
         </g>
     </g>
-    <a target="_blank" xlink:href="https://accomazzo.org/?show=Birth_1800-169,Marriage-238">
+    <a target="_blank" xlink:href="https://accomazzo.org/?show=Birth_1800-169,Marriage-238,Marriage-712">
         <g transform="translate(41420.5 820.38)">
             <rect height="50" stroke-width="3" width="125" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="125" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
-                    <tspan font-family="Noto Color Emoji" x="31.8281" y="21.22">🇮🇹</tspan>
+                    <tspan font-family="Noto Color Emoji" x="32.668" y="21.22">🇮🇹</tspan>
                     <tspan x="71.2188" y="21.22"> Celestina</tspan>
                     <tspan x="62.5" y="38.02">(1865-)</tspan>
                 </text>
             </g>
         </g>
     </a>
-    <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-238">
+    <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-238,Marriage-712">
         <g transform="translate(41625.5 820.38)">
             <rect height="50" stroke-width="3" width="120" x="0" y="0"/>
             <g class="Text.cls">
@@ -12676,13 +12685,13 @@
         </g>
     </a>
     <path d="M 0.00001 0.00001 L 40 0 L 40 0 L 80 0" fill="none" stroke="#000" transform="translate(41545.5 845.38)"/>
-    <a target="_blank" xlink:href="https://accomazzo.org/?show=Death-166">
+    <a target="_blank" xlink:href="https://accomazzo.org/?show=Death-166,Death-397">
         <g transform="translate(41588 620.38)">
             <rect height="50" stroke-width="3" width="125" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="125" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
-                    <tspan font-family="Noto Color Emoji" x="42.8945" y="21.22">🇮🇹</tspan>
+                    <tspan font-family="Noto Color Emoji" x="43.4414" y="21.22">🇮🇹</tspan>
                     <tspan x="71.2188" y="21.22"> Paolo</tspan>
                     <tspan x="62.5" y="38.02">(1824-1894)</tspan>
                 </text>
@@ -12694,7 +12703,7 @@
         <g class="Text.cls">
             <rect x="0" y="0" width="150" height="30" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan font-family="Noto Color Emoji" x="26.5078" y="19.62">🇮🇹</tspan>
+                <tspan font-family="Noto Color Emoji" x="27.6641" y="19.62">🇮🇹</tspan>
                 <tspan x="83.7188" y="19.62"> Luigia Gavazza</tspan>
             </text>
         </g>
@@ -12874,8 +12883,8 @@
         <g class="Text.cls">
             <rect x="0" y="0" width="145" height="30" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan font-family="Noto Color Emoji" x="15.0938" y="19.62">🇮🇹</tspan>
-                <tspan x="81.2188" y="19.62"> Celestina Piglione</tspan>
+                <tspan font-size="13.999999999999998px" font-family="Noto Color Emoji" x="15.8984" y="19.62">🇮🇹</tspan>
+                <tspan font-size="13.999999999999998px" x="81.2188" y="19.62"> Celestina Piglione</tspan>
             </text>
         </g>
     </g>
@@ -13011,7 +13020,7 @@
         <g class="Text.cls">
             <rect x="0" y="0" width="150" height="30" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan font-family="Noto Color Emoji" x="18.9609" y="19.62">🇮🇹</tspan>
+                <tspan font-family="Noto Color Emoji" x="20.0391" y="19.62">🇮🇹</tspan>
                 <tspan x="83.7188" y="19.62"> Pietro Rabezzana</tspan>
             </text>
         </g>
@@ -13163,18 +13172,19 @@
         <g class="Text.cls">
             <rect x="0" y="0" width="175" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan x="87.5" y="21.22">See Giovanna Caravaglia</tspan>
+                <tspan x="87.5" y="21.22">See Giovanna Garavaglia</tspan>
                 <tspan x="87.5" y="38.02">(1873-1935)</tspan>
             </text>
         </g>
     </g>
-    <a xlink:href="https://accomazzo.org/?show=Death-527">
+    <a xlink:href="https://accomazzo.org/?show=Death-527,Marriage-716">
         <g transform="translate(25980.5 1020.38)">
             <rect height="50" stroke-width="3" width="110" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="110" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
-                    <tspan x="55" y="21.22">🇮🇹 Giuseppe</tspan>
+                    <tspan font-family="Noto Color Emoji" x="24.1016" y="21.22">🇮🇹</tspan>
+                    <tspan x="63.7188" y="21.22"> Giuseppe</tspan>
                     <tspan x="55" y="38.02">(1857-1925)</tspan>
                 </text>
             </g>
