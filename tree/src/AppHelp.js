@@ -19,7 +19,7 @@ export default function  AppHelp ({handleClose, open}) {
             <DialogTitle id="alert-dialog-title">{"Accomazzo Tree"}</DialogTitle>
             <DialogContent>
               <DialogContentText id="alert-dialog-description">
-                Welcome to the Accomazzo Genealogy Tree. The tree shows the relationships among about 300 individuals identified in the <a href="http://accomazzo.org?database" target="_blank">Accomazzo Document Repository</a>.
+                Welcome to the Accomazzo Genealogy Tree. The tree shows the relationships among more than a thousands individuals identified in the <a href="http://accomazzo.org?database" target="_blank">Accomazzo Document Repository</a>.
                 <li>You can <b>zoom</b> in and out the tree using the mouse wheel, the magnify glass button on your right, or in a tablet with the pinch. </li>
                 <li>You can <b>pan</b> the tree using the left mouse button, the cross button on you right or with a single finger on a tablet.</li>
                 <li>You can <b>view the documents</b> of a specific individual if you click on the name, or  if you select the arrow button on your right and then click on the name, or with a single touch on a tablet.</li>
