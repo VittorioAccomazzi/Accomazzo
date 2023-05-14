@@ -40,6 +40,7 @@ const Doc =  ({year, name, icon, url, id, children}) => {
         let url = siteUrl+"?show="+id;
         if( e.shiftKey )  url = id;
         copy(url);
+        e.preventDefault();
         timer.current = setTimeout( ()=>{
             setState({
                 expanded:state.expanded,
