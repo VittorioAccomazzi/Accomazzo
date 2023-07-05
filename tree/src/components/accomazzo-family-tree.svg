@@ -408,16 +408,19 @@
             </text>
         </g>
     </g>
-    <g transform="translate(23875.5 830.38)">
-        <rect height="30" width="105" x="0" y="0"/>
-        <g class="Text.cls">
-            <rect x="0" y="0" width="105" height="30" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan font-family="Noto Color Emoji" x="15.6641" y="19.62">🇮🇹</tspan>
-                <tspan x="61.2188" y="19.62"> Rosa Bugia</tspan>
-            </text>
+    <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Death-633">
+        <g transform="translate(23820.5 820.38)">
+            <rect height="50" width="160" x="0" y="0" stroke-width="3"/>
+            <g class="Text.cls">
+                <rect x="0" y="0" width="160" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1" font-size="14.000000000000002px">
+                    <tspan font-family="Noto Color Emoji" x="21.7109" y="21.22">🇮🇹</tspan>
+                    <tspan x="88.7188" y="21.22"> Rosa Bosia (Bugia)</tspan>
+                    <tspan x="80" y="38.02">(1817-1895)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <path d="M 50 0.00001 L 25 0 L 25 0 L 0 0" fill="none" transform="translate(23980.5 845.38)"/>
     <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-687,Marriage-130,Marriage-409,Death-94">
         <g transform="translate(28100.5 620.38)">
@@ -2278,9 +2281,9 @@
             <g class="Text.cls">
                 <rect x="0" y="0" width="174.7692" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
-                    <tspan font-family="Noto Color Emoji" x="29.0995" y="21.22">🇮🇹</tspan>
+                    <tspan font-family="Noto Color Emoji" x="29.0409" y="21.22">🇮🇹</tspan>
                     <tspan x="96.1034" y="21.22"> Giuseppe Rolando</tspan>
-                    <tspan x="87.3846" y="38.02">(1873-)</tspan>
+                    <tspan x="87.3846" y="38.02">(1873-1940)</tspan>
                 </text>
             </g>
         </g>
@@ -12991,7 +12994,7 @@
         <g class="Text.cls">
             <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan font-family="Noto Color Emoji" x="16.5391" y="21.22">🇮🇹</tspan>
+                <tspan font-family="Noto Color Emoji" x="16.4219" y="21.22">🇮🇹</tspan>
                 <tspan x="83.7188" y="21.22"> Giovanna Vergano</tspan>
                 <tspan x="75" y="38.02">(1896-)</tspan>
             </text>
@@ -13580,7 +13583,7 @@
             </g>
         </g>
     </a>
-    <path fill="none" d="M 0.00001 0.00001 L 45 0 L 45 0 L 90 0" stroke="#000" transform="translate(26675.5 1045.38)"/>
+    <path d="M 0.00001 0.00001 L 45 0 L 45 0 L 90 0" fill="none" stroke="#000" transform="translate(26675.5 1045.38)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Birth_1800-219,Death-564,Marriage-714">
         <g transform="translate(26670.5 1170.38)">
             <rect height="50" stroke-width="3" width="110" x="0" y="0"/>
@@ -13607,8 +13610,8 @@
             </g>
         </g>
     </a>
-    <path fill="none" d="M 0.00001 0.00001 L 45 0 L 45 0 L 80 0" stroke="#000" transform="translate(26780.5 1195.38)"/>
-    <path fill="none" d="M 0.00001 0.00001 L 0 62.5 L 0 62.5 L 0 125" stroke="#000" transform="translate(26720.5 1045.38)"/>
+    <path d="M 0.00001 0.00001 L 45 0 L 45 0 L 80 0" fill="none" stroke="#000" transform="translate(26780.5 1195.38)"/>
+    <path d="M 0.00001 0.00001 L 0 62.5 L 0 62.5 L 0 125" fill="none" stroke="#000" transform="translate(26720.5 1045.38)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Birth_1800-414,Marriage-650">
         <g transform="translate(26760.5 1320.38)">
             <rect height="50" stroke-width="3" width="110" x="0" y="0"/>
@@ -13648,10 +13651,10 @@
             </g>
         </g>
     </a>
-    <path fill="none" d="M 0.00001 0.00001 L 45 0 L 45 0 L 90 0" stroke="#000" transform="translate(26670.5 1345.38)"/>
-    <path fill="none" d="M 0.00001 0.00001 L 0 62.5 L 0 62.5 L 0 125" stroke="#000" transform="translate(26820.5 1195.38)"/>
-    <path fill="none" d="M 0.00001 0.00001 L 0 62.5 L 0 62.5 L 0 125" stroke="#000" transform="translate(26710.5 1345.38)"/>
-    <path fill="none" d="M 340 0.00001 L 170 0 L 170 0 L 0 0" stroke="#000" transform="translate(26770.5 1495.38)"/>
+    <path d="M 0.00001 0.00001 L 45 0 L 45 0 L 90 0" fill="none" stroke="#000" transform="translate(26670.5 1345.38)"/>
+    <path d="M 0.00001 0.00001 L 0 62.5 L 0 62.5 L 0 125" fill="none" stroke="#000" transform="translate(26820.5 1195.38)"/>
+    <path d="M 0.00001 0.00001 L 0 62.5 L 0 62.5 L 0 125" fill="none" stroke="#000" transform="translate(26710.5 1345.38)"/>
+    <path d="M 340 0.00001 L 170 0 L 170 0 L 0 0" fill="none" stroke="#000" transform="translate(26770.5 1495.38)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Birth_1800-443">
         <g transform="translate(26865.5 1630.38)">
             <rect height="30" width="155" x="0" y="0"/>
@@ -13688,8 +13691,8 @@
             </g>
         </g>
     </a>
-    <path fill="none" d="M 0.00001 0.00001 L 0 67.5 L 0 67.5 L 0 135" stroke="#000" transform="translate(26940.5 1495.38)"/>
-    <path fill="none" d="M 0.00001 0.00001 L 25 0 L 25 0 L 50 0" stroke="#000" transform="translate(27020.5 1645.38)"/>
-    <path fill="none" d="M 0.00001 0.00001 L 0 67.5 L 0 67.5 L 0 135" stroke="#000" transform="translate(27045.5 1645.38)"/>
-    <path fill="none" d="M 0.00001 0.00001 L 0 62.5 L 0 62.5 L 0 125" stroke="#000" transform="translate(26995.5 845.38)"/>
+    <path d="M 0.00001 0.00001 L 0 67.5 L 0 67.5 L 0 135" fill="none" stroke="#000" transform="translate(26940.5 1495.38)"/>
+    <path d="M 0.00001 0.00001 L 25 0 L 25 0 L 50 0" fill="none" stroke="#000" transform="translate(27020.5 1645.38)"/>
+    <path d="M 0.00001 0.00001 L 0 67.5 L 0 67.5 L 0 135" fill="none" stroke="#000" transform="translate(27045.5 1645.38)"/>
+    <path d="M 0.00001 0.00001 L 0 62.5 L 0 62.5 L 0 125" fill="none" stroke="#000" transform="translate(26995.5 845.38)"/>
 </svg>
