@@ -11517,8 +11517,10 @@
         <g class="Text.cls">
             <rect x="0" y="0" width="105" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan font-family="Noto Color Emoji" x="34.1211" y="21.22">🇮🇹</tspan>
-                <tspan x="61.2188" y="21.22"> Lucia</tspan>
+                <tspan font-family="Noto Color Emoji" x="30.7344" y="21.22">🇮🇹</tspan>
+                <tspan x="61.2188" y="21.22"> Mattia</tspan>
+                <tspan x="82.9844" y="21.22"/>
+                <tspan x="30.3789" y="38.02"/>
                 <tspan x="52.5" y="38.02">(2003-)</tspan>
             </text>
         </g>
