@@ -9008,9 +9008,11 @@
         <g class="Text.cls">
             <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
-                <tspan font-family="Noto Color Emoji" x="25.7266" y="21.22">🇺🇸</tspan>
-                <tspan x="83.7188" y="21.22"> Mauro Anthony</tspan>
-                <tspan x="75" y="38.02">(1936-)</tspan>
+                <tspan font-size="14.000000000000002px" font-family="Noto Color Emoji" x="24.5586" y="21.22">🇺🇸</tspan>
+                <tspan font-size="14.000000000000002px" x="83.7188" y="21.22"> Mauro Anthony</tspan>
+                <tspan x="134.1602" y="21.22"/>
+                <tspan x="52.8789" y="38.02"/>
+                <tspan font-size="14.000000000000002px" x="75" y="38.02">(1936-)</tspan>
             </text>
         </g>
     </g>
@@ -14414,6 +14416,15 @@
             <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
             <text fill="#000000" fill-opacity="1">
                 <tspan x="20" y="24.62">195</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(21640.5 1595.38)">
+        <ellipse cx="20" cy="20" rx="20" ry="20"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="40" height="40" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan x="20" y="24.62">196</tspan>
             </text>
         </g>
     </g>
