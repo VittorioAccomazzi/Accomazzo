@@ -9382,9 +9382,11 @@
             <g class="Text.cls">
                 <rect x="0" y="0" width="105" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
-                    <tspan font-family="Noto Color Emoji" x="29.9258" y="21.22">🇮🇹</tspan>
-                    <tspan x="61.2188" y="21.22"> Teresa</tspan>
-                    <tspan x="52.5" y="38.02">(1905-)</tspan>
+                    <tspan font-size="14.000000000000002px" font-family="Noto Color Emoji" x="31.3047" y="21.22">🇮🇹</tspan>
+                    <tspan font-size="14.000000000000002px" x="61.2188" y="21.22"> Teresa</tspan>
+                    <tspan x="82.4141" y="21.22"/>
+                    <tspan x="15.2813" y="38.02"/>
+                    <tspan font-size="14.000000000000002px" x="52.5" y="38.02">(1905-1983)</tspan>
                 </text>
             </g>
         </g>
@@ -13503,9 +13505,9 @@
             <g class="Text.cls">
                 <rect x="0" y="0" width="110" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
-                    <tspan font-family="Noto Color Emoji" x="34.3242" y="21.22">🇮🇹</tspan>
+                    <tspan font-family="Noto Color Emoji" x="34.3203" y="21.22">🇮🇹</tspan>
                     <tspan x="63.7188" y="21.22"> Emilio</tspan>
-                    <tspan x="55" y="38.02">(1900-)</tspan>
+                    <tspan x="55" y="38.02">(1900-1994)</tspan>
                 </text>
             </g>
         </g>
@@ -14446,7 +14448,7 @@
             </text>
         </g>
     </g>
-    <g transform="translate(28350.5 1480.38)">
+    <g transform="translate(28445.5 1480.38)">
         <rect height="30" width="130" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="130" height="30" fill="none" stroke="none"/>
@@ -14456,9 +14458,9 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 255 115 L 255 55 L 0 55 L 0 0" stroke="#000" transform="translate(28160.5 1365.38)"/>
-    <path fill="none" d="M 0.00001 60 L 0 30 L 0 30 L 0 0" stroke="#000" transform="translate(28220.5 1420.38)"/>
-    <g transform="translate(28525.5 1480.38)">
+    <path d="M 350 115 L 350 55 L 0 55 L 0 0" fill="none" stroke="#000" transform="translate(28160.5 1365.38)"/>
+    <path d="M 0.00001 60 L 0 30 L 0 30 L 0 0" fill="none" stroke="#000" transform="translate(28220.5 1420.38)"/>
+    <g transform="translate(28620.5 1480.38)">
         <rect height="30" width="140" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="140" height="30" fill="none" stroke="none"/>
@@ -14468,8 +14470,8 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 0.00001 0.00001 L 20 0 L 20 0 L 45 0" stroke="#000" transform="translate(28480.5 1495.38)"/>
-    <g transform="translate(28415.5 1630.38)">
+    <path d="M 0.00001 0.00001 L 20 0 L 20 0 L 45 0" fill="none" stroke="#000" transform="translate(28575.5 1495.38)"/>
+    <g transform="translate(28370.5 1630.38)">
         <rect height="30" width="195" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="195" height="30" fill="none" stroke="none"/>
@@ -14479,8 +14481,8 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 0.00001 0.00001 L 0 67.5 L 0 67.5 L 0 135" stroke="#000" transform="translate(28500.5 1495.38)"/>
-    <g transform="translate(28215.5 1630.38)">
+    <path d="M 145 0.00001 L 145 67.5 L 0 67.5 L 0 135" fill="none" stroke="#000" transform="translate(28455.5 1495.38)"/>
+    <g transform="translate(28170.5 1630.38)">
         <rect height="30" width="155" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="155" height="30" fill="none" stroke="none"/>
@@ -14490,8 +14492,8 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 45 0.00001 L 22.5 0 L 22.5 0 L 0 0" stroke="#000" transform="translate(28370.5 1645.38)"/>
-    <g transform="translate(28220.5 1780.38)">
+    <path d="M 45 0.00001 L 22.5 0 L 22.5 0 L 0 0" fill="none" stroke="#000" transform="translate(28325.5 1645.38)"/>
+    <g transform="translate(28175.5 1780.38)">
         <rect height="30" width="155" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="155" height="30" fill="none" stroke="none"/>
@@ -14501,7 +14503,7 @@
             </text>
         </g>
     </g>
-    <g transform="translate(28420.5 1780.38)">
+    <g transform="translate(28375.5 1780.38)">
         <rect height="30" width="155" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="155" height="30" fill="none" stroke="none"/>
@@ -14511,8 +14513,8 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 0.00001 60 L 0 0 L 200 0 L 200 60" stroke="#000" transform="translate(28298 1720.38)"/>
-    <path fill="none" d="M 0.00001 0.00001 L 0 37.5 L 0 37.5 L 0 75" stroke="#000" transform="translate(28395.5 1645.38)"/>
+    <path d="M 0.00001 60 L 0 0 L 200 0 L 200 60" fill="none" stroke="#000" transform="translate(28253 1720.38)"/>
+    <path d="M 0.00001 0.00001 L 0 37.5 L 0 37.5 L 0 75" fill="none" stroke="#000" transform="translate(28350.5 1645.38)"/>
     <g transform="translate(19770.5 1450.38)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g class="Text.cls">
@@ -14531,4 +14533,15 @@
             </text>
         </g>
     </g>
+    <g transform="translate(28625.5 1630.38)">
+        <rect height="30" width="195" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="195" height="30" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1" font-size="13.999999999999998px">
+                <tspan font-family="Noto Color Emoji" x="12.2422" y="19.62">🇮🇹</tspan>
+                <tspan x="106.2188" y="19.62"> Lorenzo Camillo Accornero</tspan>
+            </text>
+        </g>
+    </g>
+    <path fill="none" d="M 122.5 135 L 122.5 67.5 L 0 67.5 L 0 0" stroke="#000" transform="translate(28600.5 1495.38)"/>
 </svg>
