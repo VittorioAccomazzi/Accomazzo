@@ -20,5 +20,6 @@ exports.Marriage = {
     json : "Marriage.json",
     folder : "Marriage/"
 }
+exports.ReportTemplate="docList.Template.html";
 exports.NameInfo="Names.csv" // list of names with ferquencies
 exports.NameFixes="Corrections.csv" // list of the corrections done.

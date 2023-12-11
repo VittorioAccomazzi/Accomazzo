@@ -15,6 +15,7 @@ import Link from '@material-ui/core/Link';
 import { Grid } from "@material-ui/core";
 import copy from 'copy-to-clipboard';
 import ReactGA from 'react-ga';
+import Disclaimer from "./Disclaimer";
 
 const Doc =  ({year, name, icon, url, id, children}) => {
     const siteUrl='https://accomazzo.org/';
@@ -128,6 +129,7 @@ const Doc =  ({year, name, icon, url, id, children}) => {
             </CardActions>
             <Collapse in={state.expanded} timeout="auto" unmountOnExit>
             <CardContent>
+                <Disclaimer url={url}/>
                 <center><a href={url} target="_blank"><img src={url} width="80%" alt="certificate"/></a></center>
             </CardContent>
             </Collapse>

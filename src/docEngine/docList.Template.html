@@ -1,0 +1,67 @@
+<html>
+<head>
+<title>{DocumentListTitle}</title>
+<style>
+    td {
+         color: gray;
+         font-size: large;
+     }
+     th, td {
+         border-bottom: 1px solid gray;
+         padding: 2px;
+     }
+     tr:hover {
+         color: white;
+         background-color: lightgray;
+     }
+     h2 {
+        text-align: center;
+        font-size: xx-large;
+     }
+     #disclaimer {
+        border: 2px solid red;
+        padding: 4px;
+        width:80%
+     }
+     #description {
+        width: 80%;
+     }
+     #wrapper {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+     }
+</style>
+</head>
+<body>
+<div id="wrapper">
+<h2>{DocumentListTitle}</h2>
+<div id="description">{Introduction}</div>
+<div id="disclaimer">{Disclaimer}</div>
+<table>
+    <tr>
+        <th>year</th>
+        <th>type</th>
+        <th>document</th>
+    </tr>
+_S    
+    <tr>
+        <td>{year}</td>
+        <td>{type}</td>
+        <td><a href="{url}" target="_blank">{document}</a></td>
+    </tr>
+
+    NEXT_LINE
+_E 
+    NEXT_LINE
+</table>
+</div>
+<script>
+
+    const el = document.getElementById("disclaimer");
+    if( el.innerText == '' ) el.style.display='none'
+
+</script>
+</body>
+
+</html>

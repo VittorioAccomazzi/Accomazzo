@@ -15,6 +15,9 @@
 /src/docEngine/json
 Corrections.csv
 Names.csv
+Ancestry.html
+Church.html
+Other.html
 
 #Information of the current build.
 gitInfo.json
