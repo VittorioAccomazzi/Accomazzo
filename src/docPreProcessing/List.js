@@ -13,10 +13,10 @@ let aDocs = [] ; // documents of ancestry.com
 let oDocs = [] ; // other documents
 
 // compile the list of documents
-birth1700.forEach(( element, index ) => process(element,'Baptism certificate',`https://accomazzo.org/?show=Birth_1700-${index}`));
-birth1800.forEach(( element, index ) => process(element,'Baptism certificate',`https://accomazzo.org/?show=Birth_1800-${index}`));
-deathDocs.forEach(( element, index ) => process(element,'Death certificate',`https://accomazzo.org/?show=Death-${index}`));
-marriages.forEach(( element, index ) => process(element,'Marriage certificate',`https://accomazzo.org/?show=Marriage-${index}`));
+birth1700.forEach(( element, index ) => process(element,'birth.png' ,`https://accomazzo.org/?show=Birth_1700-${index}`));
+birth1800.forEach(( element, index ) => process(element,'birth.png' ,`https://accomazzo.org/?show=Birth_1800-${index}`));
+deathDocs.forEach(( element, index ) => process(element,'death.png' ,`https://accomazzo.org/?show=Death-${index}`));
+marriages.forEach(( element, index ) => process(element,'marrige.png',`https://accomazzo.org/?show=Marriage-${index}`));
 
 //  sort each one
 cDocs.sort((a,b)=>a.Year-b.Year);

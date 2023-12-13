@@ -14,6 +14,10 @@
          color: white;
          background-color: lightgray;
      }
+     img {
+        padding-left: 10px;
+        padding-right: 10px;
+     }
      h2 {
         text-align: center;
         font-size: xx-large;
@@ -26,41 +30,54 @@
      #description {
         width: 80%;
      }
-     #wrapper {
+     #header {
+        font-size: large;
         display: flex;
-        align-items: center;
         flex-direction: column;
-     }
+        align-items: center;    
+    }
+    #footer {
+        overflow: scroll;
+        position: absolute;
+        bottom: 0px;
+    } 
+     body {
+        overflow: hidden;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        opacity: 0;
+    }
 </style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 </head>
 <body>
-<div id="wrapper">
+<div id="header">
 <h2>{DocumentListTitle}</h2>
-<div id="description">{Introduction}</div>
-<div id="disclaimer">{Disclaimer}</div>
-<table>
-    <tr>
-        <th>year</th>
-        <th>type</th>
-        <th>document</th>
-    </tr>
+    <div id="description">{Introduction}</div>
+    <div id="disclaimer">{Disclaimer}</div>
+</div>
+<div id="footer">
+    <table>
 _S    
-    <tr>
-        <td>{year}</td>
-        <td>{type}</td>
-        <td><a href="{url}" target="_blank">{document}</a></td>
-    </tr>
+        <tr>
+            <td>{year}</td>
+            <td><img src="{type}" width="32px"/></td>
+            <td><a href="{url}" target="_blank">{document}</a></td>
+        </tr>
 
-    NEXT_LINE
+        NEXT_LINE
 _E 
-    NEXT_LINE
-</table>
+        NEXT_LINE
+    </table>
 </div>
 <script>
-
     const el = document.getElementById("disclaimer");
     if( el.innerText == '' ) el.style.display='none'
-
+    const set = ()=> {$("#footer").css("top",$("#header").height()+4);}
+    $( window ).on( "resize", () => set());
+    $( document ).ready( () => {set(); $('body').css("opacity",1.0);} );
 </script>
 </body>
 
