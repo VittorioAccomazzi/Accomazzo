@@ -1,12 +1,12 @@
 exports.disclaimerEn=
 `
-The documents published in this web site are owned by the Diocese and Parishes of Calliano (AT) and San Desiderio (AT), their viewing is \
+The documents published in this web site are owned by the Diocese of Casale Monferrato and Parishes of Calliano (AT) and San Desiderio (AT), their viewing is \
 allowed for study and historical research, if you wish to obtain a copy of a document for use different from those mentioned, please contact \
 the owning entities directly.
 `
 exports.disclaimerIt=
 `
-I documenti pubblicati su questo sito sono di proprieta' della Diocesi e delle Parrocchie di Calliano (AT) e San Desiderio (AT), se ne \
+I documenti pubblicati su questo sito sono di proprieta' della Diocesi di Casale Monferratoe delle Parrocchie di Calliano (AT) e San Desiderio (AT), se ne \
 consente la visione per studio e ricerca storica, se si desidera ottenere una copia di un documento per uso diverso da quelli citati rivolgersi \
 direttamente agli enti proprietari.
 `
