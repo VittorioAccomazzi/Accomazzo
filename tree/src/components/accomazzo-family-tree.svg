@@ -2528,7 +2528,7 @@
         </g>
     </g>
     <path d="M 0.00001 0.00001 L 25 0 L 25 0 L 50 0" fill="none" transform="translate(29110.5 1045.38)"/>
-    <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-327,Marriage-623,Marriage-633">
+    <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-327,Marriage-623,Marriage-633,Birth_1800-692">
         <g transform="translate(29065.5 1170.38)">
             <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
             <g class="Text.cls">
@@ -9747,17 +9747,19 @@
             </text>
         </g>
     </g>
-    <g transform="translate(40430.5 1320.38)">
-        <rect height="50" width="110" x="0" y="0"/>
-        <g class="Text.cls">
-            <rect x="0" y="0" width="110" height="50" fill="none" stroke="none"/>
-            <text fill="#000000" fill-opacity="1">
-                <tspan font-family="Noto Color Emoji" x="38.4648" y="21.22">🇮🇹</tspan>
-                <tspan x="63.7188" y="21.22"> Luigi</tspan>
-                <tspan x="55" y="38.02">(1900-1994)</tspan>
-            </text>
+    <a xlink:href="https://accomazzo.org/?show=Birth_1800-707">
+        <g transform="translate(40430.5 1320.38)">
+            <rect height="50" width="110" x="0" y="0" stroke-width="3"/>
+            <g class="Text.cls">
+                <rect x="0" y="0" width="110" height="50" fill="none" stroke="none"/>
+                <text fill="#000000" fill-opacity="1">
+                    <tspan font-family="Noto Color Emoji" x="38.4648" y="21.22">🇮🇹</tspan>
+                    <tspan x="63.7188" y="21.22"> Luigi</tspan>
+                    <tspan x="55" y="38.02">(1900-1994)</tspan>
+                </text>
+            </g>
         </g>
-    </g>
+    </a>
     <g transform="translate(40410.5 1300.38)">
         <ellipse cx="20" cy="20" rx="20" ry="20"/>
         <g class="Text.cls">
@@ -13393,7 +13395,7 @@
     <path d="M 40 0.00001 L 20 0 L 20 0 L 0 0" fill="none" stroke="#000" transform="translate(44315.5 1045.38)"/>
     <path d="M 0.00001 0.00001 L 17.5 0 L 17.5 0 L 35 0" fill="none" stroke="#000" transform="translate(43555.5 845.38)"/>
     <path d="M 0.00001 0.00001 L 0 25 L 0 25 L 0 50" fill="none" stroke="#000" transform="translate(43500.5 770.38)"/>
-    <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-703">
+    <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-703,Birth_1800-666">
         <g transform="translate(28850.5 1020.38)">
             <rect height="50" stroke-width="3" width="110" x="0" y="0"/>
             <g class="Text.cls">
@@ -14543,5 +14545,5 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 122.5 135 L 122.5 67.5 L 0 67.5 L 0 0" stroke="#000" transform="translate(28600.5 1495.38)"/>
+    <path d="M 122.5 135 L 122.5 67.5 L 0 67.5 L 0 0" fill="none" stroke="#000" transform="translate(28600.5 1495.38)"/>
 </svg>
