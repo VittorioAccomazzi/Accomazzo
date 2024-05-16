@@ -22,10 +22,9 @@
   },
   "scripts": {
     "process": "npm_config_yes=true npx @svgr/cli src/components/accomazzo-family-tree.svg  > src/components/AccomazzoFamilyTree.tmp && node src/Tools/SvgParser.js && node src/Tools/SvgModifier.js",
-    "start": "react-scripts start",
-    "build": "npm run process && react-scripts build",
-    "postbuild": "mv build ../build/tree",
-    "test": "react-scripts test"
+    "start": "NODE_OPTIONS=--openssl-legacy-provider react-scripts start",
+    "build": "npm run process && NODE_OPTIONS=--openssl-legacy-provider react-scripts build",
+    "postbuild": "mv build ../build/tree"
   },
   "eslintConfig": {
     "extends": "react-app"

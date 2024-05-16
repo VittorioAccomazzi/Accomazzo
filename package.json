@@ -23,8 +23,8 @@
   },
   "scripts": {
     "process": "node src/tools/gitInfo.js  && node src/docPreProcessing/Birth1700.js &&  node src/docPreProcessing/Birth1800.js && node src/docPreProcessing/Death.js && node src/docPreProcessing/Marriage.js && node src/docPreProcessing/Names.js && node src/docPreProcessing/List.js",
-    "start": "react-scripts start",
-    "build": "npm run process && react-scripts build && cd tree && npm run build",
+    "start": "NODE_OPTIONS=--openssl-legacy-provider react-scripts start",
+    "build": "npm run process && NODE_OPTIONS=--openssl-legacy-provider react-scripts build && cd tree && npm run build",
     "predeploy" : "git diff-index --quiet HEAD",
     "deploy": "git tag deploy_`date '+%Y%m%d-%H%M%S'` && aws s3 sync build/ s3://accomazzo-app/ --profile s3-accomazzo && aws s3 sync main/ s3://accomazzo.org/ --profile s3-accomazzo",
     "test": "react-scripts test"
