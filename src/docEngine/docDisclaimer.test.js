@@ -40,12 +40,24 @@ describe('Validate regEx', () => {
             val :false
         },
         {
+            name: "Death/20240508_115200.jpg",
+            val :true
+        },
+        {
             name: "Death/gs_20190921_163542.jpg",
             val :false
         },
         {
+            name: "Death/20240508_115801.jpg",
+            val :true
+        },
+        {
             name: "Death/19050427.jpg",
             val :true
+        },
+        {
+            name: "Death/Ancestry",
+            val :false
         },
         {
             name: "Marriage/M1700_84.jpg",

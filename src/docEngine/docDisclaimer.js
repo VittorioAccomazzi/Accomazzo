@@ -12,6 +12,6 @@ direttamente agli enti proprietari.
 `
 
 // see https://github.com/VittorioAccomazzi/Accomazzo/issues/80#issuecomment-1849012418
-exports.regEx = '(Death/\\d{4}(0[1-9]|1[012])(0[1-9]|[12][0-9]|3[01]).jpg$)|(Birth1700/.*.jpg$)|(Birth1800/(\\d{4}(0[1-9]|1[012])(0[1-9]|[12][0-9]|3[01])[b|c|d]?.jpg$|\\d{4}_\\d.jpg$|B\\d.jpg$|DSC_\\d+.jpg$))|(Marriage/(\\d{4}(0[1-9]|1[012])(0[1-9]|[12][0-9]|3[01])[b|c]?.jpg$|M\\d+_\\d+.jpg|W8.jpg|DSC_\\d+.jpg|m_1859_10.jpg$))'
+exports.regEx = '(Death/2024(0[1-9]|1[012])(0[1-9]|[12][0-9]|3[01])_\\d{6}.jpg$)|(Death/\\d{4}(0[1-9]|1[012])(0[1-9]|[12][0-9]|3[01]).jpg$)|(Birth1700/.*.jpg$)|(Birth1800/(\\d{4}(0[1-9]|1[012])(0[1-9]|[12][0-9]|3[01])[b|c|d]?.jpg$|\\d{4}_\\d.jpg$|B\\d.jpg$|DSC_\\d+.jpg$))|(Marriage/(\\d{4}(0[1-9]|1[012])(0[1-9]|[12][0-9]|3[01])[b|c]?.jpg$|M\\d+_\\d+.jpg|W8.jpg|DSC_\\d+.jpg|m_1859_10.jpg$))'
 
 exports.ancestryRegEx = 'Ancestry.jpg$'

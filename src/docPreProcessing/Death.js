@@ -51,6 +51,7 @@ const dstFld= null; // do not check the image path
                     let specialFilesPattern = /^[a-z]+_[0-9_]+$/gi
                     if( specialFilesPattern.test(imgPath)) year = parseInt(items[2])+parseInt(items[4])
                     if( imgPath == "Ancestry" ) year = parseInt(items[2])+parseInt(items[4])
+                    if( imgPath.startsWith("2024")) year = parseInt(items[2])+parseInt(items[4]) // documents from Calliano
                     imgPath += ".jpg"
                     let doc ={
                         Url  : docDefs.Death.folder+imgPath,
