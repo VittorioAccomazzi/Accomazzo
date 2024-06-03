@@ -44,9 +44,9 @@ const dstFld= null; // do not check the image path
 
     rl.on('line', async (line)=>{
 
-        // check if contains the Accomazzo key
+        // check if contains the Accomazzo key or done in the 1600s
         if( line ){
-            if( line.toUpperCase().indexOf(docDefs.AccoKey)> 0 ){
+            if( line.toUpperCase().indexOf(docDefs.AccoKey)> 0 || line.startsWith("16") ){
                 try
                 {
                     let items = Utilities.SlitCsv(line);
