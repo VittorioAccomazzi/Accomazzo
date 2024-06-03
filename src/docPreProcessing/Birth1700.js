@@ -41,12 +41,18 @@ const dstFld= null; // do not check the image path
     });
 
     let docs = [];
+    let processAll = false;
+    const CalianoDocuments = "Documenti Calliano"
+    
 
     rl.on('line', async (line)=>{
 
-        // check if contains the Accomazzo key or done in the 1600s
+        // after we entounter the title of the Caliano document process them all.
+        if( !processAll ) processAll = line.indexOf(CalianoDocuments)>=0;
+
+        
         if( line ){
-            if( line.toUpperCase().indexOf(docDefs.AccoKey)> 0 || line.startsWith("16") ){
+            if( line.toUpperCase().indexOf(docDefs.AccoKey)> 0 || processAll){
                 try
                 {
                     let items = Utilities.SlitCsv(line);
