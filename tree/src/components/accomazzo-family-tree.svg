@@ -1465,7 +1465,7 @@
     </g>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Death-1150">
         <g transform="translate(41595.5 670.38)">
-            <rect height="50" width="200" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="200" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="200" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -1478,7 +1478,7 @@
     </a>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Death-1153">
         <g transform="translate(42340.5 520.38)">
-            <rect height="50" width="150" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -2715,7 +2715,7 @@
     </g>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Death-1159">
         <g transform="translate(1350.5 670.38)">
-            <rect height="50" width="150" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -3460,7 +3460,7 @@
     <path d="M 110 125 L 110 75 L 0 75 L 0 0" fill="none" transform="translate(645.5 395.38)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Death-1196">
         <g transform="translate(545.5 670.38)">
-            <rect height="50" width="150" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -9798,7 +9798,7 @@
     </a>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Death-1186">
         <g transform="translate(31505.5 670.38)">
-            <rect height="50" width="150" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="150" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -9922,7 +9922,7 @@
     </a>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Death-1165">
         <g transform="translate(27490.5 670.38)">
-            <rect height="50" width="130" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="130" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="130" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -10627,7 +10627,7 @@
     <path d="M 0.00001 0.00001 L 605 0" fill="none" stroke="#000" transform="translate(31140.5 845.38)"/>
     <path d="M 0.00001 0.00001 L 490 0" fill="none" stroke="#000" transform="translate(31765.5 845.38)"/>
     <path d="M 0.00001 25 L 0 12.5 L 0 12.5 L 0 0" fill="none" stroke="#000" transform="translate(32255.5 845.38)"/>
-    <g transform="translate(41710.5 1370.38)">
+    <g transform="translate(41560.5 1370.38)">
         <rect height="50" width="120" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="120" height="50" fill="none" stroke="none"/>
@@ -10638,7 +10638,7 @@
             </text>
         </g>
     </g>
-    <g transform="translate(41910.5 1370.38)">
+    <g transform="translate(41775.5 1370.38)">
         <rect height="50" width="100" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
@@ -10649,7 +10649,7 @@
             </text>
         </g>
     </g>
-    <g transform="translate(42060.5 1370.38)">
+    <g transform="translate(41925.5 1370.38)">
         <rect height="50" width="120" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="120" height="50" fill="none" stroke="none"/>
@@ -10660,8 +10660,8 @@
             </text>
         </g>
     </g>
-    <path d="M 0.00001 0.00001 L 25 0 L 25 0 L 50 0" fill="none" stroke="#000" transform="translate(42010.5 1395.38)"/>
-    <g transform="translate(42260.5 1370.38)">
+    <path d="M 0.00001 0.00001 L 25 0 L 25 0 L 50 0" fill="none" stroke="#000" transform="translate(41875.5 1395.38)"/>
+    <g transform="translate(42105.5 1370.38)">
         <rect height="50" width="100" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
@@ -10672,7 +10672,7 @@
             </text>
         </g>
     </g>
-    <g transform="translate(42410.5 1370.38)">
+    <g transform="translate(42255.5 1370.38)">
         <rect height="50" width="130" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="130" height="50" fill="none" stroke="none"/>
@@ -10683,7 +10683,7 @@
             </text>
         </g>
     </g>
-    <path d="M 0.00001 0.00001 L 25 0 L 25 0 L 50 0" fill="none" stroke="#000" transform="translate(42360.5 1395.38)"/>
+    <path d="M 0.00001 0.00001 L 25 0 L 25 0 L 50 0" fill="none" stroke="#000" transform="translate(42205.5 1395.38)"/>
     <g transform="translate(42610.5 1370.38)">
         <rect height="50" width="100" x="0" y="0"/>
         <g class="Text.cls">
@@ -10813,16 +10813,16 @@
     <path d="M 0.00001 100 L 0 50 L 0 50 L 0 0" fill="none" stroke="#000" transform="translate(44530.5 770.38)"/>
     <path d="M 0.00001 75 L 0 35 L 0 35 L 0 0" fill="none" stroke="#000" transform="translate(43360.5 695.38)"/>
     <path d="M 0.00001 100 L 0 50 L 0 50 L 0 0" fill="none" stroke="#000" transform="translate(42695.5 770.38)"/>
-    <path d="M 0.00001 150 L 0 0 L 3190 0 L 3190 150" fill="none" stroke="#000" transform="translate(41770.5 1220.38)"/>
-    <path d="M 0.00001 150 L 0 75 L 0 75 L 0 0" fill="none" stroke="#000" transform="translate(41960.5 1220.38)"/>
-    <path d="M 0.00001 150 L 0 75 L 0 75 L 0 0" fill="none" stroke="#000" transform="translate(42310.5 1220.38)"/>
+    <path d="M 0.00001 150 L 0 0 L 3340 0 L 3340 150" fill="none" stroke="#000" transform="translate(41620.5 1220.38)"/>
+    <path d="M 0.00001 150 L 0 75 L 0 75 L 0 0" fill="none" stroke="#000" transform="translate(41825.5 1220.38)"/>
+    <path d="M 0.00001 150 L 0 75 L 0 75 L 0 0" fill="none" stroke="#000" transform="translate(42155.5 1220.38)"/>
     <path d="M 0.00001 150 L 0 75 L 0 75 L 0 0" fill="none" stroke="#000" transform="translate(42660.5 1220.38)"/>
     <path d="M 0.00001 150 L 0 75 L 0 75 L 0 0" fill="none" stroke="#000" transform="translate(43080.5 1220.38)"/>
     <path d="M 30 150 L 30 0 L 0 0" fill="none" stroke="#000" transform="translate(44100.5 1220.38)"/>
     <path d="M 0.00001 150 L 0 75 L 0 75 L 0 0" fill="none" stroke="#000" transform="translate(44450.5 1220.38)"/>
     <path d="M 0.00001 150 L 0 75 L 0 75 L 0 0" fill="none" stroke="#000" transform="translate(44610.5 1220.38)"/>
     <path d="M 0.00001 0.00001 L 0 62.5 L 0 62.5 L 0 125" fill="none" stroke="#000" transform="translate(43140.5 1095.38)"/>
-    <g transform="translate(41900.5 1520.38)">
+    <g transform="translate(41765.5 1520.38)">
         <rect height="50" width="110" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="110" height="50" fill="none" stroke="none"/>
@@ -10833,7 +10833,7 @@
             </text>
         </g>
     </g>
-    <g transform="translate(42060.5 1520.38)">
+    <g transform="translate(41925.5 1520.38)">
         <rect height="50" width="115" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="115" height="50" fill="none" stroke="none"/>
@@ -10844,9 +10844,9 @@
             </text>
         </g>
     </g>
-    <path d="M 0.00001 50 L 0 0 L 157.5 0 L 157.5 50" fill="none" stroke="#000" transform="translate(41960.5 1470.38)"/>
-    <path d="M 0.00001 75 L 0 37.5 L 0 37.5 L 0 0" fill="none" stroke="#000" transform="translate(42035.5 1395.38)"/>
-    <g transform="translate(42325.5 1520.38)">
+    <path d="M 0.00001 50 L 0 0 L 157.5 0 L 157.5 50" fill="none" stroke="#000" transform="translate(41825.5 1470.38)"/>
+    <path d="M 0.00001 75 L 0 37.5 L 0 37.5 L 0 0" fill="none" stroke="#000" transform="translate(41900.5 1395.38)"/>
+    <g transform="translate(42170.5 1520.38)">
         <rect height="50" width="125" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="125" height="50" fill="none" stroke="none"/>
@@ -10857,7 +10857,7 @@
             </text>
         </g>
     </g>
-    <path d="M 0.00001 0.00001 L 0 62.5 L 0 62.5 L 0 125" fill="none" stroke="#000" transform="translate(42385.5 1395.38)"/>
+    <path d="M 0.00001 0.00001 L 0 62.5 L 0 62.5 L 0 125" fill="none" stroke="#000" transform="translate(42230.5 1395.38)"/>
     <g transform="translate(42685.5 1520.38)">
         <rect height="50" width="100" x="0" y="0"/>
         <g class="Text.cls">
@@ -11342,7 +11342,7 @@
         </g>
     </g>
     <path d="M 0.00001 0.00001 L 0 62.5 L 0 62.5 L 0 125" fill="none" stroke="#000" transform="translate(6810.5 1395.38)"/>
-    <g transform="translate(42220.5 1670.38)">
+    <g transform="translate(42065.5 1670.38)">
         <rect height="50" width="155" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="155" height="50" fill="none" stroke="none"/>
@@ -11353,7 +11353,7 @@
             </text>
         </g>
     </g>
-    <g transform="translate(42425.5 1670.38)">
+    <g transform="translate(42270.5 1670.38)">
         <rect height="50" width="135" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="135" height="50" fill="none" stroke="none"/>
@@ -11364,8 +11364,8 @@
             </text>
         </g>
     </g>
-    <path d="M 0.00001 50 L 0 0 L 195 0 L 195 50" fill="none" stroke="#000" transform="translate(42298 1620.38)"/>
-    <path d="M 0.00001 0.00001 L 0 50 L 2.5 50" fill="none" stroke="#000" transform="translate(42388 1570.38)"/>
+    <path d="M 0.00001 50 L 0 0 L 195 0 L 195 50" fill="none" stroke="#000" transform="translate(42143 1620.38)"/>
+    <path d="M 0.00001 0.00001 L 0 50 L 2.5 50" fill="none" stroke="#000" transform="translate(42233 1570.38)"/>
     <g transform="translate(26080.5 1820.38)">
         <rect height="50" width="185" x="0" y="0"/>
         <g class="Text.cls">
@@ -12744,7 +12744,7 @@
     <path d="M 0.00001 100 L 0 50 L 0 50 L 0 0" fill="none" stroke="#000" transform="translate(45545.5 770.38)"/>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Death-1184">
         <g transform="translate(52035.5 520.38)">
-            <rect height="50" width="235" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="235" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="235" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -15299,4 +15299,28 @@
     <path d="M 0.00001 60 L 0 0 L 322.5 0 L 322.5 60" fill="none" stroke="#000" transform="translate(2313 1470.38)"/>
     <path d="M 0.00001 0.00001 L 0 37.5 L 0 37.5 L 0 75" fill="none" stroke="#000" transform="translate(2525.5 1395.38)"/>
     <path d="M 2.5 0.00001 L 0 0 L 0 60" fill="none" stroke="#000" transform="translate(2463 1470.38)"/>
+    <g transform="translate(42445.5 1520.38)">
+        <rect height="50" width="175" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="175" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan font-family="Noto Color Emoji" x="36.0938" y="21.22">🇷🇺🇮🇹</tspan>
+                <tspan x="104.9336" y="21.22"> Sofia Vassiaeva</tspan>
+                <tspan x="87.5" y="38.02">(1968-)</tspan>
+            </text>
+        </g>
+    </g>
+    <path fill="none" d="M 0.00001 0.00001 L 32.5 0 L 32.5 0 L 65 0" stroke="#000" transform="translate(42620.5 1545.38)"/>
+    <g transform="translate(42600.5 1670.38)">
+        <rect height="50" width="120" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="120" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan font-family="Noto Color Emoji" x="42.0352" y="21.22">🇷🇺🇮🇹</tspan>
+                <tspan x="77.4336" y="21.22"> Alina</tspan>
+                <tspan x="60" y="38.02">(1997-)</tspan>
+            </text>
+        </g>
+    </g>
+    <path fill="none" d="M 0.00001 0.00001 L 0 62.5 L 0 62.5 L 0 125" stroke="#000" transform="translate(42655.5 1545.38)"/>
 </svg>
