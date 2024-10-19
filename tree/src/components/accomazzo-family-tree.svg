@@ -3471,15 +3471,17 @@
             </g>
         </g>
     </a>
-    <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-817,Marriage-157">
+    <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Birth_1700-817,Marriage-157,Death-1378">
         <g transform="translate(345.5 670.38)">
             <rect height="50" stroke-width="3" width="140" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="140" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
-                    <tspan font-family="Noto Color Emoji" x="39.0469" y="21.22">🇮🇹</tspan>
-                    <tspan x="78.7188" y="21.22"> Valentino</tspan>
-                    <tspan x="70" y="38.02">(1804-)</tspan>
+                    <tspan font-size="13.999999999999998px" font-family="Noto Color Emoji" x="37.3594" y="21.22">🇮🇹</tspan>
+                    <tspan font-size="13.999999999999998px" x="78.7188" y="21.22"> Valentino</tspan>
+                    <tspan x="111.3594" y="21.22"/>
+                    <tspan x="31.5977" y="38.02"/>
+                    <tspan font-size="13.999999999999998px" x="70" y="38.02">(1804-1842)</tspan>
                 </text>
             </g>
         </g>
@@ -15166,8 +15168,10 @@
             <g class="Text.cls">
                 <rect x="0" y="0" width="200" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
-                    <tspan font-family="Noto Color Emoji" x="30.2734" y="21.22">🇺🇸</tspan>
-                    <tspan x="108.7188" y="21.22"> Augustina "Coo-Coo"</tspan>
+                    <tspan font-family="Noto Color Emoji" x="35.8516" y="21.22">🇺🇸</tspan>
+                    <tspan x="108.7188" y="21.22"> Augustina Coo-Coo</tspan>
+                    <tspan x="172.8672" y="21.22"/>
+                    <tspan x="77.6055" y="38.02"/>
                     <tspan x="100" y="38.02">(1914-)</tspan>
                 </text>
             </g>
@@ -15310,7 +15314,7 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 0.00001 0.00001 L 32.5 0 L 32.5 0 L 65 0" stroke="#000" transform="translate(42620.5 1545.38)"/>
+    <path d="M 0.00001 0.00001 L 32.5 0 L 32.5 0 L 65 0" fill="none" stroke="#000" transform="translate(42620.5 1545.38)"/>
     <g transform="translate(42600.5 1670.38)">
         <rect height="50" width="120" x="0" y="0"/>
         <g class="Text.cls">
@@ -15322,5 +15326,5 @@
             </text>
         </g>
     </g>
-    <path fill="none" d="M 0.00001 0.00001 L 0 62.5 L 0 62.5 L 0 125" stroke="#000" transform="translate(42655.5 1545.38)"/>
+    <path d="M 0.00001 0.00001 L 0 62.5 L 0 62.5 L 0 125" fill="none" stroke="#000" transform="translate(42655.5 1545.38)"/>
 </svg>
