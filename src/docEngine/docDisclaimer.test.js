@@ -56,6 +56,10 @@ describe('Validate regEx', () => {
             val :true
         },
         {
+            name: "Death/19010305c.jpg",
+            val :true
+        },
+        {
             name: "Death/Ancestry",
             val :false
         },
