@@ -82,6 +82,14 @@ describe('Validate regEx', () => {
         {
             name:"Marriage/20250129_094352.jpg",
             val: true
+        },
+        {
+            name:'Marriage/20250416_114721.jpg',
+            val: true
+        },
+        {
+            name:"Marriage/20250416_094330.jpg",
+            val: true
         }
     ]
 
