@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:v="http://vecta.io" width="54507" height="2191.6" viewBox="0 0 54507 2191.6">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:v="http://vecta.io" width="54616" height="2191.6" viewBox="0 0 54616 2191.6">
     <style>
         <![CDATA[svg{stroke:#000;stroke-linecap:round;stroke-linejoin:round;fill:#fff;fill-rule:evenodd;font-family:Roboto;font-size:14px;text-anchor:middle}svg text{stroke:none;white-space:pre}svg .Text\.cls{stroke:none}]]>
     </style>
@@ -1697,7 +1697,7 @@
     </g>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-492,Marriage-1150">
         <g transform="translate(40210.5 1070.38)">
-            <rect height="50" width="100" x="0" y="0" stroke-width="3"/>
+            <rect height="50" stroke-width="3" width="100" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -1719,7 +1719,7 @@
     </g>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-492,Marriage-1150">
         <g transform="translate(40375.5 1080.38)">
-            <rect height="30" width="175" x="0" y="0" stroke-width="3"/>
+            <rect height="30" stroke-width="3" width="175" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="175" height="30" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -2326,7 +2326,7 @@
     </g>
     <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-469,Marriage-1142">
         <g transform="translate(28905.5 1230.38)">
-            <rect height="30" width="115" x="0" y="0" stroke-width="3"/>
+            <rect height="30" stroke-width="3" width="115" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="115" height="30" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -3248,7 +3248,7 @@
     </a>
     <a target="_blank" xlink:href="https://accomazzo-app.s3.amazonaws.com/index.html?show=Marriage-496,Marriage-1152">
         <g transform="translate(810.5 1230.38)">
-            <rect height="30" width="155" x="0" y="0" stroke-width="3"/>
+            <rect height="30" stroke-width="3" width="155" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="155" height="30" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -4435,7 +4435,7 @@
             </text>
         </g>
     </g>
-    <g transform="translate(54185.5 1370.38)">
+    <g transform="translate(54280.5 1520.38)">
         <rect height="50" width="110" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="110" height="50" fill="none" stroke="none"/>
@@ -4446,7 +4446,7 @@
             </text>
         </g>
     </g>
-    <g transform="translate(54025.5 1370.38)">
+    <g transform="translate(54120.5 1520.38)">
         <rect height="50" width="110" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="110" height="50" fill="none" stroke="none"/>
@@ -4457,8 +4457,8 @@
             </text>
         </g>
     </g>
-    <path d="M 0.00001 0.00001 L 30 0 L 30 0 L 60 0" fill="none" stroke="#000" transform="translate(54130.5 1245.38)"/>
-    <g transform="translate(53990.5 1220.38)">
+    <path d="M 0.00001 0.00001 L 30 0 L 30 0 L 60 0" fill="none" stroke="#000" transform="translate(54220.5 1245.38)"/>
+    <g transform="translate(54080.5 1220.38)">
         <rect height="50" width="140" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="140" height="50" fill="none" stroke="none"/>
@@ -4469,8 +4469,8 @@
             </text>
         </g>
     </g>
-    <path d="M 60 0.00001 L 0 0 L 0 0 L 60 0" fill="none" stroke="#000" transform="translate(54315.5 1095.38)"/>
-    <g transform="translate(54370.5 1220.38)">
+    <path d="M 60 0.00001 L 0 0 L 0 0 L 60 0" fill="none" stroke="#000" transform="translate(54405.5 1095.38)"/>
+    <g transform="translate(54460.5 1220.38)">
         <rect height="50" width="130" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="130" height="50" fill="none" stroke="none"/>
@@ -4482,7 +4482,7 @@
         </g>
     </g>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-676">
-        <g transform="translate(54375.5 1070.38)">
+        <g transform="translate(54465.5 1070.38)">
             <rect height="50" stroke-width="3" width="130" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="130" height="50" fill="none" stroke="none"/>
@@ -4555,7 +4555,7 @@
             </text>
         </g>
     </g>
-    <g transform="translate(54190.5 1220.38)">
+    <g transform="translate(54280.5 1220.38)">
         <rect height="50" width="120" x="0" y="0"/>
         <g class="Text.cls">
             <rect x="0" y="0" width="120" height="50" fill="none" stroke="none"/>
@@ -4567,7 +4567,7 @@
         </g>
     </g>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Birth_1800-433,Marriage-676">
-        <g transform="translate(54140.5 1070.38)">
+        <g transform="translate(54230.5 1070.38)">
             <rect height="50" stroke-width="3" width="175" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="175" height="50" fill="none" stroke="none"/>
@@ -12294,7 +12294,7 @@
     </g>
     <a target="_blank" xlink:href="https://accomazzo.org/?show=Marriage-1102">
         <g transform="translate(2215.5 880.38)">
-            <rect height="30" width="105" x="0" y="0" stroke-width="3"/>
+            <rect height="30" stroke-width="3" width="105" x="0" y="0"/>
             <g class="Text.cls">
                 <rect x="0" y="0" width="105" height="30" fill="none" stroke="none"/>
                 <text fill="#000000" fill-opacity="1">
@@ -13985,11 +13985,11 @@
     <path d="M 0.00001 0.00001 L 0 62.5 L 0 62.5 L 0 125" fill="none" stroke="#000" transform="translate(53785.5 1395.38)"/>
     <path d="M 0.00001 0.00001 L 32.5 0 L 32.5 0 L 65 0" fill="none" stroke="#000" transform="translate(53840.5 1545.38)"/>
     <path d="M 0.00001 0.00001 L 20 0 L 20 0 L 40 0" fill="none" stroke="#000" transform="translate(53905.5 1095.38)"/>
-    <path d="M 0.00001 50 L 0 0 L 185 0 L 185 50" fill="none" stroke="#000" transform="translate(54250.5 1170.38)"/>
-    <path d="M 0.00001 0.00001 L 0 37.5 L 0 37.5 L 0 75" fill="none" stroke="#000" transform="translate(54345.5 1095.38)"/>
-    <path d="M 0.00001 50 L 0 0 L 160 0 L 160 50" fill="none" stroke="#000" transform="translate(54080.5 1320.38)"/>
-    <path d="M 0.00001 0.00001 L 0 40 L 0 40 L 0 75" fill="none" stroke="#000" transform="translate(54160.5 1245.38)"/>
-    <path d="M 0.00001 100 L 0 0 L 1025 0 L 1025 100" fill="none" stroke="#000" transform="translate(53203 970.38)"/>
+    <path d="M 0.00001 50 L 0 0 L 185 0 L 185 50" fill="none" stroke="#000" transform="translate(54340.5 1170.38)"/>
+    <path d="M 0.00001 0.00001 L 0 37.5 L 0 37.5 L 0 75" fill="none" stroke="#000" transform="translate(54440.5 1095.38)"/>
+    <path d="M 0.00001 200 L 0 0 L 160 0 L 160 200" fill="none" stroke="#000" transform="translate(54175.5 1320.38)"/>
+    <path d="M 0.00001 0.00001 L 0 40 L 0 40 L 0 75" fill="none" stroke="#000" transform="translate(54250.5 1245.38)"/>
+    <path d="M 0.00001 100 L 0 0 L 1115 0 L 1115 100" fill="none" stroke="#000" transform="translate(53203 970.38)"/>
     <path d="M 0.00001 0.00001 L 35 0 L 35 0 L 70 0" fill="none" stroke="#000" transform="translate(53660.5 895.38)"/>
     <path d="M 0.00001 0.00001 L 0 35 L 0 35 L 0 75" fill="none" stroke="#000" transform="translate(53695.5 895.38)"/>
     <path d="M 0.00001 100 L 0 50 L 0 50 L 0 0" fill="none" stroke="#000" transform="translate(53430.5 970.38)"/>
@@ -15419,4 +15419,42 @@
         </g>
     </g>
     <path d="M 0.00001 0.00001 L 35 0" fill="none" stroke="#000" transform="translate(26780.5 1845.38)"/>
+    <g transform="translate(54465.5 1520.38)">
+        <rect height="50" width="150" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="150" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan font-family="Noto Color Emoji" x="26.5078" y="21.22">🇮🇹</tspan>
+                <tspan x="83.7188" y="21.22"> Cinzia Grosina</tspan>
+                <tspan x="132.2109" y="21.22"/>
+                <tspan x="52.6055" y="38.02"/>
+                <tspan x="75" y="38.02">(1964-)</tspan>
+            </text>
+        </g>
+    </g>
+    <path fill="none" d="M 0.00001 0.00001 L 37.5 0 L 37.5 0 L 75 0" stroke="#000" transform="translate(54390.5 1545.38)"/>
+    <g transform="translate(54450.5 1670.38)">
+        <rect height="50" width="100" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan font-family="Noto Color Emoji" x="29.6055" y="21.22">🇮🇹</tspan>
+                <tspan x="58.7188" y="21.22"> Giulia</tspan>
+                <tspan x="50" y="38.02">(2003-)</tspan>
+            </text>
+        </g>
+    </g>
+    <g transform="translate(54315.5 1670.38)">
+        <rect height="50" width="100" x="0" y="0"/>
+        <g class="Text.cls">
+            <rect x="0" y="0" width="100" height="50" fill="none" stroke="none"/>
+            <text fill="#000000" fill-opacity="1">
+                <tspan font-family="Noto Color Emoji" x="33.7031" y="21.22">🇮🇹</tspan>
+                <tspan x="58.7188" y="21.22"> Sara</tspan>
+                <tspan x="50" y="38.02">(1999-)</tspan>
+            </text>
+        </g>
+    </g>
+    <path fill="none" d="M 0.00001 50 L 0 0 L 132.5 0 L 132.5 50" stroke="#000" transform="translate(54365.5 1620.38)"/>
+    <path fill="none" d="M 0.00001 0.00001 L 0 37.5 L 0 37.5 L 0 75" stroke="#000" transform="translate(54428 1545.38)"/>
 </svg>
